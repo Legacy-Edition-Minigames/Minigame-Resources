@@ -1,0 +1,26 @@
+{
+  "music.vanilla.1": {
+    "category": "master",
+    "sounds": [
+      "4jbattle/music/vanilla1"
+    ]
+  },
+  "music.vanilla.2": {
+    "category": "master",
+    "sounds": [
+      "4jbattle/music/vanilla2"
+    ]
+  },
+  "music.vanilla.3": {
+    "category": "master",
+    "sounds": [
+      "4jbattle/music/vanilla3"
+    ]
+  },
+  "music.vanilla.4": {
+    "category": "master",
+    "sounds": [
+      "4jbattle/music/vanilla4"
+    ]
+  }
+}
