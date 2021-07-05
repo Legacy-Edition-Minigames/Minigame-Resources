@@ -22,5 +22,79 @@
     "sounds": [
       "4jbattle/music/vanilla4"
     ]
+  },
+  "sound.lobby.count1": {
+    "category": "master",
+    "sounds": [
+      "4jbattle/sounds/lobby/count1"
+    ]
+  },
+  "sound.lobby.count2": {
+    "category": "master",
+    "sounds": [
+      "4jbattle/sounds/lobby/count2"
+    ]
+  },
+  "sound.lobby.count3": {
+    "category": "master",
+    "sounds": [
+      "4jbattle/sounds/lobby/count3"
+    ]
+  },
+  "sound.game.count1": {
+    "category": "master",
+    "sounds": [
+      "4jbattle/sounds/game/count1"
+    ]
+  },
+  "sound.game.count2": {
+    "category": "master",
+    "sounds": [
+      "4jbattle/sounds/game/count2"
+    ]
+  },
+  "sound.game.count3": {
+    "category": "master",
+    "sounds": [
+      "4jbattle/sounds/game/count3"
+    ]
+  },
+  "sound.game.count4": {
+    "category": "master",
+    "sounds": [
+      "4jbattle/sounds/game/count4"
+    ]
+  },
+  "sound.game.die": {
+    "category": "master",
+    "sounds": [
+      "4jbattle/sounds/game/die1",
+      "4jbattle/sounds/game/die2"
+    ]
+  },
+  "sound.game.refill": {
+    "category": "master",
+    "sounds": [
+      "4jbattle/sounds/game/refill1",
+      "4jbattle/sounds/game/refill2"
+    ]
+  },
+  "sound.game.showdown": {
+    "category": "master",
+    "sounds": [
+      "4jbattle/sounds/game/showdown"
+    ]
+  },
+  "sound.game.end": {
+    "category": "master",
+    "sounds": [
+      "4jbattle/sounds/game/end"
+    ]
+  },
+  "sound.game.win": {
+    "category": "master",
+    "sounds": [
+      "4jbattle/sounds/game/win"
+    ]
   }
 }
