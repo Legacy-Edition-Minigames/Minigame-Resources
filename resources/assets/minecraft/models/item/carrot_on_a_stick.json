@@ -5,6 +5,8 @@
   },
 
   "overrides": [
-    {"predicate": {"custom_model_data":1}, "model": "item/4jbattle/build/exit"}
+    {"predicate": {"custom_model_data":1}, "model": "item/4jbattle/build/exit"},
+    {"predicate": {"custom_model_data":2}, "model": "item/credits/credits_0"},
+    {"predicate": {"custom_model_data":3}, "model": "item/4jbattle/menu/monitor"}
   ]
 }
