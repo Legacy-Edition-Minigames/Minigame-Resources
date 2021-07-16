@@ -7,6 +7,7 @@
   "overrides": [
     {"predicate": {"custom_model_data":1}, "model": "item/4jbattle/build/chest"},
     {"predicate": {"custom_model_data":2}, "model": "item/4jbattle/build/spawnpoint"},
-    {"predicate": {"custom_model_data":3}, "model": "item/4jbattle/build/remove"}
+    {"predicate": {"custom_model_data":3}, "model": "item/4jbattle/build/remove"},
+    {"predicate": {"custom_model_data":4}, "model": "item/4jbattle/tntblock"}
   ]
 }
