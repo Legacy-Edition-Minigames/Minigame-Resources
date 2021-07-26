@@ -18,7 +18,7 @@
         },
         {
             "type": "bitmap",
-            "file": "4jbattle:playerbar/transparent/yellow.png",
+            "file": "4jbattle:playerbar/dead.png",
             "ascent": -36,
             "height": 5,
             "chars": [
@@ -27,11 +27,20 @@
         },
         {
             "type": "bitmap",
-            "file": "4jbattle:playerbar/yellow.png",
+            "file": "4jbattle:playerbar/transparent/yellow.png",
             "ascent": -36,
             "height": 5,
             "chars": [
                 "2"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "4jbattle:playerbar/yellow.png",
+            "ascent": -36,
+            "height": 5,
+            "chars": [
+                "3"
             ]
         }
     ]
