@@ -41,6 +41,24 @@
       "4jbattle/music/frontier3"
     ]
   },
+  "music.shrunk.1": {
+    "category": "master",
+    "sounds": [
+      "4jbattle/music/shrunk1"
+    ]
+  },
+  "music.shrunk.2": {
+    "category": "master",
+    "sounds": [
+      "4jbattle/music/shrunk2"
+    ]
+  },
+  "music.shrunk.3": {
+    "category": "master",
+    "sounds": [
+      "4jbattle/music/shrunk3"
+    ]
+  },
   "sound.lobby.count1": {
     "category": "master",
     "sounds": [
