@@ -23,6 +23,24 @@
       "4jbattle/music/vanilla4"
     ]
   },
+  "music.fantasy.1": {
+    "category": "master",
+    "sounds": [
+      "4jbattle/music/fantasy1"
+    ]
+  },
+  "music.fantasy.2": {
+    "category": "master",
+    "sounds": [
+      "4jbattle/music/fantasy2"
+    ]
+  },
+  "music.fantasy.3": {
+    "category": "master",
+    "sounds": [
+      "4jbattle/music/fantasy3"
+    ]
+  },
   "music.frontier.1": {
     "category": "master",
     "sounds": [
