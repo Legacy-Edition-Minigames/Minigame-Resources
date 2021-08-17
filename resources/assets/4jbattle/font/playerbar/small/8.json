@@ -1,0 +1,47 @@
+{
+    "providers": [
+        {
+            "type": "ttf",
+            "file": "4jbattle:negative_spaces.ttf",
+            "shift": [0.0, 0.0],
+            "size": 10.0,
+            "oversample": 1.0
+        },
+        {
+            "type": "bitmap",
+            "file": "4jbattle:playerbar/small/empty.png",
+            "ascent": -36,
+            "height": 5,
+            "chars": [
+                "0"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "4jbattle:playerbar/small/dead.png",
+            "ascent": -36,
+            "height": 5,
+            "chars": [
+                "1"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "4jbattle:playerbar/transparent/small/8.png",
+            "ascent": -36,
+            "height": 5,
+            "chars": [
+                "2"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "4jbattle:playerbar/small/8.png",
+            "ascent": -36,
+            "height": 5,
+            "chars": [
+                "3"
+            ]
+        }
+    ]
+}
