@@ -36,9 +36,9 @@
         },
         {
             "type": "bitmap",
-            "file": "4jbattle:playerbar/blue.png",
-            "ascent": -36,
-            "height": 5,
+            "file": "4jbattle:banner_stopwatch.png",
+            "ascent": 0,
+            "height": 120,
             "chars": [
                 "4"
             ]
