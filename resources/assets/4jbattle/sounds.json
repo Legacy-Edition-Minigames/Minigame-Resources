@@ -53,10 +53,34 @@
       "4jbattle/music/greek2"
     ]
   },
-  "music.greek.3": {
+  "music.city.1": {
     "category": "master",
     "sounds": [
-      "4jbattle/music/greek3"
+      "4jbattle/music/city1"
+    ]
+  },
+  "music.city.2": {
+    "category": "master",
+    "sounds": [
+      "4jbattle/music/city2"
+    ]
+  },
+  "music.city.3": {
+    "category": "master",
+    "sounds": [
+      "4jbattle/music/city3"
+    ]
+  },
+  "music.city.4": {
+    "category": "master",
+    "sounds": [
+      "4jbattle/music/city4"
+    ]
+  },
+  "music.city.5": {
+    "category": "master",
+    "sounds": [
+      "4jbattle/music/city5"
     ]
   },
   "music.frontier.1": {
