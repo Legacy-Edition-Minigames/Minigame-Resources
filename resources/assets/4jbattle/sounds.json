@@ -77,6 +77,12 @@
       "4jbattle/music/greek2"
     ]
   },
+  "music.greek.3": {
+    "category": "master",
+    "sounds": [
+      "4jbattle/music/greek3"
+    ]
+  },
   "music.city.1": {
     "category": "master",
     "sounds": [
