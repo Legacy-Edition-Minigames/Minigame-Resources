@@ -23,30 +23,6 @@
       "4jbattle/music/vanilla4"
     ]
   },
-  "music.menu.1": {
-    "category": "master",
-    "sounds": [
-      "4jbattle/music/menu/menu1"
-    ]
-  },
-  "music.menu.2": {
-    "category": "master",
-    "sounds": [
-      "4jbattle/music/menu/menu2"
-    ]
-  },
-  "music.menu.3": {
-    "category": "master",
-    "sounds": [
-      "4jbattle/music/menu/menu3"
-    ]
-  },
-  "music.menu.4": {
-    "category": "master",
-    "sounds": [
-      "4jbattle/music/menu/menu4"
-    ]
-  },
   "music.fantasy.1": {
     "category": "master",
     "sounds": [
@@ -75,12 +51,6 @@
     "category": "master",
     "sounds": [
       "4jbattle/music/greek2"
-    ]
-  },
-  "music.greek.3": {
-    "category": "master",
-    "sounds": [
-      "4jbattle/music/greek3"
     ]
   },
   "music.city.1": {
