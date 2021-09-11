@@ -119,6 +119,30 @@
       "4jbattle/music/shrunk3"
     ]
   },
+  "music.steampunk.1": {
+    "category": "master",
+    "sounds": [
+      "4jbattle/music/steampunk1"
+    ]
+  },
+  "music.steampunk.2": {
+    "category": "master",
+    "sounds": [
+      "4jbattle/music/steampunk2"
+    ]
+  },
+  "music.steampunk.3": {
+    "category": "master",
+    "sounds": [
+      "4jbattle/music/steampunk3"
+    ]
+  },
+  "music.steampunk.4": {
+    "category": "master",
+    "sounds": [
+      "4jbattle/music/steampunk4"
+    ]
+  },
   "sound.lobby.count1": {
     "category": "master",
     "sounds": [
