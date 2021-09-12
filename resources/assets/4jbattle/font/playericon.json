@@ -71,6 +71,78 @@
             "chars": [
                 "\uF808"
             ]
+        },
+        {
+            "type": "bitmap",
+            "file": "4jbattle:playericon/9.png",
+            "ascent": 7,
+            "height": 8,
+            "chars": [
+                "\uF809"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "4jbattle:playericon/10.png",
+            "ascent": 7,
+            "height": 8,
+            "chars": [
+                "\uF810"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "4jbattle:playericon/11.png",
+            "ascent": 7,
+            "height": 8,
+            "chars": [
+                "\uF811"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "4jbattle:playericon/12.png",
+            "ascent": 7,
+            "height": 8,
+            "chars": [
+                "\uF812"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "4jbattle:playericon/13.png",
+            "ascent": 7,
+            "height": 8,
+            "chars": [
+                "\uF813"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "4jbattle:playericon/14.png",
+            "ascent": 7,
+            "height": 8,
+            "chars": [
+                "\uF814"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "4jbattle:playericon/15.png",
+            "ascent": 7,
+            "height": 8,
+            "chars": [
+                "\uF815"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "4jbattle:playericon/16.png",
+            "ascent": 7,
+            "height": 8,
+            "chars": [
+                "\uF816"
+            ]
         }
     ]
 }
