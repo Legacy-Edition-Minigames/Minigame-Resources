@@ -1,0 +1,2 @@
+zip/standard/all-music/* filter=lfs diff=lfs merge=lfs -text
+zip/optifine/all-music/* filter=lfs diff=lfs merge=lfs -text
