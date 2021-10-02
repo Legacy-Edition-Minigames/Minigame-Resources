@@ -5,6 +5,10 @@
   },
 
   "overrides": [
-    {"predicate": {"custom_model_data":1}, "model": "item/4jbattle/inventory/hide"}
+    {"predicate": {"custom_model_data":1}, "model": "item/4jbattle/inventory/hide"},
+    {"predicate": {"custom_model_data":2}, "model": "item/4jbattle/tablist/hearts/alive"},
+    {"predicate": {"custom_model_data":3}, "model": "item/4jbattle/tablist/hearts/grass"},
+    {"predicate": {"custom_model_data":4}, "model": "item/4jbattle/tablist/hearts/pride"},
+    {"predicate": {"custom_model_data":5}, "model": "item/4jbattle/tablist/hearts/trans"}
   ]
 }
