@@ -173,6 +173,24 @@
       "4jbattle/music/steampunk4"
     ]
   },
+  "music.halloween.1": {
+    "category": "master",
+    "sounds": [
+      "4jbattle/music/halloween1"
+    ]
+  },
+  "music.halloween.2": {
+    "category": "master",
+    "sounds": [
+      "4jbattle/music/halloween2"
+    ]
+  },
+  "music.halloween.3": {
+    "category": "master",
+    "sounds": [
+      "4jbattle/music/halloween3"
+    ]
+  },
   "sound.lobby.count1": {
     "category": "master",
     "sounds": [
