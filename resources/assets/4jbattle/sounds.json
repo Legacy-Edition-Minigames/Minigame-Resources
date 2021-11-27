@@ -173,6 +173,48 @@
       "4jbattle/music/steampunk4"
     ]
   },
+  "music.chinese.1": {
+    "category": "master",
+    "sounds": [
+      "4jbattle/music/chinese1"
+    ]
+  },
+  "music.chinese.2": {
+    "category": "master",
+    "sounds": [
+      "4jbattle/music/chinese2"
+    ]
+  },
+  "music.chinese.3": {
+    "category": "master",
+    "sounds": [
+      "4jbattle/music/chinese3"
+    ]
+  },
+  "music.chinese.4": {
+    "category": "master",
+    "sounds": [
+      "4jbattle/music/chinese4"
+    ]
+  },
+  "music.halloween.1": {
+    "category": "master",
+    "sounds": [
+      "4jbattle/music/halloween1"
+    ]
+  },
+  "music.halloween.2": {
+    "category": "master",
+    "sounds": [
+      "4jbattle/music/halloween2"
+    ]
+  },
+  "music.halloween.3": {
+    "category": "master",
+    "sounds": [
+      "4jbattle/music/halloween3"
+    ]
+  },
   "sound.lobby.count1": {
     "category": "master",
     "sounds": [
