@@ -215,6 +215,24 @@
       "4jbattle/music/halloween3"
     ]
   },
+  "music.festive.1": {
+    "category": "master",
+    "sounds": [
+      "4jbattle/music/festive1"
+    ]
+  },
+  "music.festive.2": {
+    "category": "master",
+    "sounds": [
+      "4jbattle/music/festive2"
+    ]
+  },
+  "music.festive.3": {
+    "category": "master",
+    "sounds": [
+      "4jbattle/music/festive3"
+    ]
+  },
   "sound.lobby.count1": {
     "category": "master",
     "sounds": [
