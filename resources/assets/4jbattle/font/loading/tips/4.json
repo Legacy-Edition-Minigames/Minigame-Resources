@@ -9,36 +9,36 @@
         },
         {
             "type": "bitmap",
-            "file": "4jbattle:loading/title/part1.png",
-            "ascent": 30,
-            "height": 45,
+            "file": "4jbattle:loading/tips/4/part1.png",
+            "ascent": 15,
+            "height": 55,
             "chars": [
                 "1"
             ]
         },
         {
             "type": "bitmap",
-            "file": "4jbattle:loading/title/part2.png",
-            "ascent": 30,
-            "height": 45,
+            "file": "4jbattle:loading/tips/4/part2.png",
+            "ascent": 15,
+            "height": 55,
             "chars": [
                 "2"
             ]
         },
         {
             "type": "bitmap",
-            "file": "4jbattle:loading/title/part3.png",
-            "ascent": 30,
-            "height": 45,
+            "file": "4jbattle:loading/tips/4/part3.png",
+            "ascent": 15,
+            "height": 55,
             "chars": [
                 "3"
             ]
         },
         {
             "type": "bitmap",
-            "file": "4jbattle:loading/title/part4.png",
-            "ascent": 30,
-            "height": 45,
+            "file": "4jbattle:loading/tips/4/part4.png",
+            "ascent": 15,
+            "height": 55,
             "chars": [
                 "4"
             ]
