@@ -1,0 +1,596 @@
+{
+    "providers": [
+        {
+            "type": "ttf",
+            "file": "4jbattle:negative_spaces.ttf",
+            "shift": [0.0, 0.0],
+            "size": 10.0,
+            "oversample": 1.0
+        },
+        {
+            "type": "bitmap",
+            "file": "4jbattle:loading/bar/progress/0.png",
+            "ascent": -4,
+            "height": 5,
+            "chars": [
+                "\uF900"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "4jbattle:loading/bar/progress/1.png",
+            "ascent": -4,
+            "height": 5,
+            "chars": [
+                "\uF901"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "4jbattle:loading/bar/progress/2.png",
+            "ascent": -4,
+            "height": 5,
+            "chars": [
+                "\uF902"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "4jbattle:loading/bar/progress/3.png",
+            "ascent": -4,
+            "height": 5,
+            "chars": [
+                "\uF903"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "4jbattle:loading/bar/progress/4.png",
+            "ascent": -4,
+            "height": 5,
+            "chars": [
+                "\uF904"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "4jbattle:loading/bar/progress/5.png",
+            "ascent": -4,
+            "height": 5,
+            "chars": [
+                "\uF905"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "4jbattle:loading/bar/progress/6.png",
+            "ascent": -4,
+            "height": 5,
+            "chars": [
+                "\uF906"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "4jbattle:loading/bar/progress/7.png",
+            "ascent": -4,
+            "height": 5,
+            "chars": [
+                "\uF907"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "4jbattle:loading/bar/progress/8.png",
+            "ascent": -4,
+            "height": 5,
+            "chars": [
+                "\uF908"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "4jbattle:loading/bar/progress/9.png",
+            "ascent": -4,
+            "height": 5,
+            "chars": [
+                "\uF909"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "4jbattle:loading/bar/progress/10.png",
+            "ascent": -4,
+            "height": 5,
+            "chars": [
+                "\uF910"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "4jbattle:loading/bar/progress/11.png",
+            "ascent": -4,
+            "height": 5,
+            "chars": [
+                "\uF911"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "4jbattle:loading/bar/progress/12.png",
+            "ascent": -4,
+            "height": 5,
+            "chars": [
+                "\uF912"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "4jbattle:loading/bar/progress/13.png",
+            "ascent": -4,
+            "height": 5,
+            "chars": [
+                "\uF913"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "4jbattle:loading/bar/progress/14.png",
+            "ascent": -4,
+            "height": 5,
+            "chars": [
+                "\uF914"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "4jbattle:loading/bar/progress/15.png",
+            "ascent": -4,
+            "height": 5,
+            "chars": [
+                "\uF915"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "4jbattle:loading/bar/progress/16.png",
+            "ascent": -4,
+            "height": 5,
+            "chars": [
+                "\uF916"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "4jbattle:loading/bar/progress/17.png",
+            "ascent": -4,
+            "height": 5,
+            "chars": [
+                "\uF917"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "4jbattle:loading/bar/progress/18.png",
+            "ascent": -4,
+            "height": 5,
+            "chars": [
+                "\uF918"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "4jbattle:loading/bar/progress/19.png",
+            "ascent": -4,
+            "height": 5,
+            "chars": [
+                "\uF919"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "4jbattle:loading/bar/progress/20.png",
+            "ascent": -4,
+            "height": 5,
+            "chars": [
+                "\uF920"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "4jbattle:loading/bar/progress/21.png",
+            "ascent": -4,
+            "height": 5,
+            "chars": [
+                "\uF921"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "4jbattle:loading/bar/progress/22.png",
+            "ascent": -4,
+            "height": 5,
+            "chars": [
+                "\uF922"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "4jbattle:loading/bar/progress/23.png",
+            "ascent": -4,
+            "height": 5,
+            "chars": [
+                "\uF923"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "4jbattle:loading/bar/progress/24.png",
+            "ascent": -4,
+            "height": 5,
+            "chars": [
+                "\uF924"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "4jbattle:loading/bar/progress/25.png",
+            "ascent": -4,
+            "height": 5,
+            "chars": [
+                "\uF925"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "4jbattle:loading/bar/progress/26.png",
+            "ascent": -4,
+            "height": 5,
+            "chars": [
+                "\uF926"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "4jbattle:loading/bar/progress/27.png",
+            "ascent": -4,
+            "height": 5,
+            "chars": [
+                "\uF927"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "4jbattle:loading/bar/progress/28.png",
+            "ascent": -4,
+            "height": 5,
+            "chars": [
+                "\uF928"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "4jbattle:loading/bar/progress/29.png",
+            "ascent": -4,
+            "height": 5,
+            "chars": [
+                "\uF929"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "4jbattle:loading/bar/progress/30.png",
+            "ascent": -4,
+            "height": 5,
+            "chars": [
+                "\uF930"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "4jbattle:loading/bar/progress/31.png",
+            "ascent": -4,
+            "height": 5,
+            "chars": [
+                "\uF931"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "4jbattle:loading/bar/progress/32.png",
+            "ascent": -4,
+            "height": 5,
+            "chars": [
+                "\uF932"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "4jbattle:loading/bar/progress/33.png",
+            "ascent": -4,
+            "height": 5,
+            "chars": [
+                "\uF933"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "4jbattle:loading/bar/progress/34.png",
+            "ascent": -4,
+            "height": 5,
+            "chars": [
+                "\uF934"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "4jbattle:loading/bar/progress/35.png",
+            "ascent": -4,
+            "height": 5,
+            "chars": [
+                "\uF935"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "4jbattle:loading/bar/progress/36.png",
+            "ascent": -4,
+            "height": 5,
+            "chars": [
+                "\uF936"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "4jbattle:loading/bar/progress/37.png",
+            "ascent": -4,
+            "height": 5,
+            "chars": [
+                "\uF937"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "4jbattle:loading/bar/progress/38.png",
+            "ascent": -4,
+            "height": 5,
+            "chars": [
+                "\uF938"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "4jbattle:loading/bar/progress/39.png",
+            "ascent": -4,
+            "height": 5,
+            "chars": [
+                "\uF939"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "4jbattle:loading/bar/progress/40.png",
+            "ascent": -4,
+            "height": 5,
+            "chars": [
+                "\uF940"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "4jbattle:loading/bar/progress/41.png",
+            "ascent": -4,
+            "height": 5,
+            "chars": [
+                "\uF941"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "4jbattle:loading/bar/progress/42.png",
+            "ascent": -4,
+            "height": 5,
+            "chars": [
+                "\uF942"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "4jbattle:loading/bar/progress/43.png",
+            "ascent": -4,
+            "height": 5,
+            "chars": [
+                "\uF943"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "4jbattle:loading/bar/progress/44.png",
+            "ascent": -4,
+            "height": 5,
+            "chars": [
+                "\uF944"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "4jbattle:loading/bar/progress/45.png",
+            "ascent": -4,
+            "height": 5,
+            "chars": [
+                "\uF945"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "4jbattle:loading/bar/progress/46.png",
+            "ascent": -4,
+            "height": 5,
+            "chars": [
+                "\uF946"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "4jbattle:loading/bar/progress/47.png",
+            "ascent": -4,
+            "height": 5,
+            "chars": [
+                "\uF947"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "4jbattle:loading/bar/progress/48.png",
+            "ascent": -4,
+            "height": 5,
+            "chars": [
+                "\uF948"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "4jbattle:loading/bar/progress/49.png",
+            "ascent": -4,
+            "height": 5,
+            "chars": [
+                "\uF949"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "4jbattle:loading/bar/progress/50.png",
+            "ascent": -4,
+            "height": 5,
+            "chars": [
+                "\uF950"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "4jbattle:loading/bar/progress/51.png",
+            "ascent": -4,
+            "height": 5,
+            "chars": [
+                "\uF951"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "4jbattle:loading/bar/progress/52.png",
+            "ascent": -4,
+            "height": 5,
+            "chars": [
+                "\uF952"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "4jbattle:loading/bar/progress/53.png",
+            "ascent": -4,
+            "height": 5,
+            "chars": [
+                "\uF953"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "4jbattle:loading/bar/progress/54.png",
+            "ascent": -4,
+            "height": 5,
+            "chars": [
+                "\uF954"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "4jbattle:loading/bar/progress/55.png",
+            "ascent": -4,
+            "height": 5,
+            "chars": [
+                "\uF955"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "4jbattle:loading/bar/progress/56.png",
+            "ascent": -4,
+            "height": 5,
+            "chars": [
+                "\uF956"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "4jbattle:loading/bar/progress/57.png",
+            "ascent": -4,
+            "height": 5,
+            "chars": [
+                "\uF957"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "4jbattle:loading/bar/progress/58.png",
+            "ascent": -4,
+            "height": 5,
+            "chars": [
+                "\uF958"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "4jbattle:loading/bar/progress/59.png",
+            "ascent": -4,
+            "height": 5,
+            "chars": [
+                "\uF959"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "4jbattle:loading/bar/progress/60.png",
+            "ascent": -4,
+            "height": 5,
+            "chars": [
+                "\uF960"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "4jbattle:loading/bar/progress/61.png",
+            "ascent": -4,
+            "height": 5,
+            "chars": [
+                "\uF961"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "4jbattle:loading/bar/progress/62.png",
+            "ascent": -4,
+            "height": 5,
+            "chars": [
+                "\uF962"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "4jbattle:loading/bar/progress/63.png",
+            "ascent": -4,
+            "height": 5,
+            "chars": [
+                "\uF963"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "4jbattle:loading/bar/progress/64.png",
+            "ascent": -4,
+            "height": 5,
+            "chars": [
+                "\uF964"
+            ]
+        }
+    ]
+}
