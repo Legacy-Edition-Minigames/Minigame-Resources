@@ -9,11 +9,38 @@
         },
         {
             "type": "bitmap",
-            "file": "4jbattle:loading/title.png",
-            "ascent": 25,
-            "height": 60,
+            "file": "4jbattle:loading/title/part1.png",
+            "ascent": 30,
+            "height": 45,
             "chars": [
                 "1"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "4jbattle:loading/title/part2.png",
+            "ascent": 30,
+            "height": 45,
+            "chars": [
+                "2"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "4jbattle:loading/title/part3.png",
+            "ascent": 30,
+            "height": 45,
+            "chars": [
+                "3"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "4jbattle:loading/title/part4.png",
+            "ascent": 30,
+            "height": 45,
+            "chars": [
+                "4"
             ]
         }
     ]
