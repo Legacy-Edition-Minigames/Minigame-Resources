@@ -233,6 +233,138 @@
       "4jbattle/music/festive3"
     ]
   },
+  "music.fallout.1": {
+    "category": "master",
+    "sounds": [
+      "4jbattle/music/fallout1"
+    ]
+  },
+  "music.fallout.2": {
+    "category": "master",
+    "sounds": [
+      "4jbattle/music/fallout2"
+    ]
+  },
+  "music.fallout.3": {
+    "category": "master",
+    "sounds": [
+      "4jbattle/music/fallout3"
+    ]
+  },
+  "music.fallout.4": {
+    "category": "master",
+    "sounds": [
+      "4jbattle/music/fallout4"
+    ]
+  },
+  "music.fallout.5": {
+    "category": "master",
+    "sounds": [
+      "4jbattle/music/fallout5"
+    ]
+  },
+  "music.fallout.6": {
+    "category": "master",
+    "sounds": [
+      "4jbattle/music/fallout6"
+    ]
+  },
+  "music.fallout.7": {
+    "category": "master",
+    "sounds": [
+      "4jbattle/music/fallout7"
+    ]
+  },
+  "music.fallout.8": {
+    "category": "master",
+    "sounds": [
+      "4jbattle/music/fallout8"
+    ]
+  },
+  "music.fallout.9": {
+    "category": "master",
+    "sounds": [
+      "4jbattle/music/fallout9"
+    ]
+  },
+  "music.fallout.10": {
+    "category": "master",
+    "sounds": [
+      "4jbattle/music/fallout10"
+    ]
+  },
+  "music.fallout.11": {
+    "category": "master",
+    "sounds": [
+      "4jbattle/music/fallout11"
+    ]
+  },
+  "music.fallout.12": {
+    "category": "master",
+    "sounds": [
+      "4jbattle/music/fallout12"
+    ]
+  },
+  "music.fallout.13": {
+    "category": "master",
+    "sounds": [
+      "4jbattle/music/fallout13"
+    ]
+  },
+  "music.fallout.14": {
+    "category": "master",
+    "sounds": [
+      "4jbattle/music/fallout14"
+    ]
+  },
+  "music.fallout.15": {
+    "category": "master",
+    "sounds": [
+      "4jbattle/music/fallout15"
+    ]
+  },
+  "music.fallout.16": {
+    "category": "master",
+    "sounds": [
+      "4jbattle/music/fallout16"
+    ]
+  },
+  "music.fallout.17": {
+    "category": "master",
+    "sounds": [
+      "4jbattle/music/fallout17"
+    ]
+  },
+  "music.fallout.18": {
+    "category": "master",
+    "sounds": [
+      "4jbattle/music/fallout18"
+    ]
+  },
+  "music.fallout.19": {
+    "category": "master",
+    "sounds": [
+      "4jbattle/music/fallout19"
+    ]
+  },
+  "music.fallout.20": {
+    "category": "master",
+    "sounds": [
+      "4jbattle/music/fallout20"
+    ]
+  },
+  "music.fallout.21": {
+    "category": "master",
+    "sounds": [
+      "4jbattle/music/fallout21"
+    ]
+  },
+  "music.fallout.22": {
+    "category": "master",
+    "sounds": [
+      "4jbattle/music/fallout22"
+    ]
+  },
   "sound.lobby.count1": {
     "category": "master",
     "sounds": [
