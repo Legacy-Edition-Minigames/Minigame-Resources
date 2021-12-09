@@ -10,8 +10,8 @@
         {
             "type": "bitmap",
             "file": "4jbattle:loading/battle.png",
-            "ascent": 32,
-            "height": 32,
+            "ascent": 16,
+            "height": 16,
             "chars": [
                 "1"
             ]
