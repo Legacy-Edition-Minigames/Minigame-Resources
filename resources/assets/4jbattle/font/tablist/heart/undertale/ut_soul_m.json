@@ -9,18 +9,18 @@
         },
         {
             "type": "bitmap",
-            "file": "4jbattle:tablist/hearts/dead.png",
+            "file": "4jbattle:tablist/hearts/undertale/ut_dead_m.png",
             "ascent": 8,
-            "height": 9,
+            "height": 8,
             "chars": [
                 "0"
             ]
         },
         {
             "type": "bitmap",
-            "file": "4jbattle:tablist/hearts/trans.png",
+            "file": "4jbattle:tablist/hearts/undertale/ut_soul_m.png",
             "ascent": 8,
-            "height": 9,
+            "height": 8,
             "chars": [
                 "1"
             ]
