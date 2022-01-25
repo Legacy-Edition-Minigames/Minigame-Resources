@@ -9,7 +9,7 @@
         },
         {
             "type": "bitmap",
-            "file": "4jbattle:tablist/hearts/dead_flipped.png",
+            "file": "4jbattle:tablist/hearts/dead.png",
             "ascent": 8,
             "height": 9,
             "chars": [
@@ -18,7 +18,7 @@
         },
         {
             "type": "bitmap",
-            "file": "4jbattle:tablist/hearts/soul_m.png",
+            "file": "4jbattle:tablist/hearts/pride/pan.png",
             "ascent": 8,
             "height": 9,
             "chars": [

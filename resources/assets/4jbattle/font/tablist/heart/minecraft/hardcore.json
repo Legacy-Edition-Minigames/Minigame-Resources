@@ -18,7 +18,7 @@
         },
         {
             "type": "bitmap",
-            "file": "4jbattle:tablist/hearts/grass.png",
+            "file": "4jbattle:tablist/hearts/minecraft/hardcore.png",
             "ascent": 8,
             "height": 9,
             "chars": [
