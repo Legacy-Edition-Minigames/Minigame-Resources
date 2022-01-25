@@ -203,6 +203,48 @@
       "4jbattle/music/festive3"
     ]
   },
+  "music.fallout.1": {
+    "category": "master",
+    "sounds": [
+      "4jbattle/music/fallout1"
+    ]
+  },
+  "music.fallout.2": {
+    "category": "master",
+    "sounds": [
+      "4jbattle/music/fallout2"
+    ]
+  },
+  "music.fallout.3": {
+    "category": "master",
+    "sounds": [
+      "4jbattle/music/fallout3"
+    ]
+  },
+  "music.fallout.4": {
+    "category": "master",
+    "sounds": [
+      "4jbattle/music/fallout4"
+    ]
+  },
+  "music.fallout.5": {
+    "category": "master",
+    "sounds": [
+      "4jbattle/music/fallout5"
+    ]
+  },
+  "music.fallout.6": {
+    "category": "master",
+    "sounds": [
+      "4jbattle/music/fallout6"
+    ]
+  },
+  "music.fallout.7": {
+    "category": "master",
+    "sounds": [
+      "4jbattle/music/fallout7"
+    ]
+  },
   "sound.lobby.count1": {
     "category": "master",
     "sounds": [
