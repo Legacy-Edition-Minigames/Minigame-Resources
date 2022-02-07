@@ -77,7 +77,7 @@
   "4j.game.specjoin": "%s has joined the game as a player!",
   "4j.game.nowspectating": "You are now spectating",
   "4j.game.draw": "DRAW!",
-  "4j.game.win": "won!",
+  "4j.game.win": "%s won!",
   "4j.game.showdown": "SHOWDOWN!",
   "4j.game.roundend": "Round end!",
   "4j.game.start.timer": "Time to start: %s seconds.",
