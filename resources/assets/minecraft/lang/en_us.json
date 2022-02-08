@@ -168,7 +168,7 @@
   "4j.mapdecider.menu.voting.mapdesc.libertalia": "Battle through the troubled waters of Libertalia! Who will captain the seas in this watery graveyard of ships?",
   "4j.mapdecider.menu.voting.mapdesc.capitol": "Clamber through the ruins of the Capitol! Who will rise from the rubble to battle their way through the wasteland?",
   "4j.mapdecider.menu.vote": "Vote",
-  "4j.menu.host.title": "Please press",
+  "4j.menu.host.title": "Please press §6[%s§6]",
   "4j.menu.host.subtitle": "And use the menu to configure your game.",
   "4j.menu.host.config.cantchangemaps": "You cannot change enabled maps when the game is already started!",
   "4j.menu.host.config.maps.enabled.header": "Enabled maps",
