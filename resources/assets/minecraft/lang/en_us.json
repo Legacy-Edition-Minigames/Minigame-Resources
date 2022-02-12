@@ -12,7 +12,7 @@
   "4j.advancement.config.optifine.name": "OptiFine Resources",
   "4j.advancement.config.swaptipped.desc": "Ignore tipped arrows when using hotbarswapping.\n\n§6Can be toggled with /trigger swaptipped",
   "4j.advancement.config.swaptipped.name": "No tipped arrows hotbar swap",
-  "4j.advancement.config.vtdarkmode.desc": "Use the dark mode inventory texture from VanillaTweaks for small inventory.\n\n§6Can be toggled with /trigger clearsmallinv",
+  "4j.advancement.config.vtdarkmode.desc": "Use the dark mode inventory texture from VanillaTweaks for small inventory.\n\n§6Can be toggled with /trigger vtdarkinv",
   "4j.advancement.config.vtdarkmode.name": "VT Dark Small Inventory",
   "4j.advancement.config.clearsmall.desc": "Don't use a texture for for small inventory.\n\n§6Can be toggled with /trigger clearsmallinv",
   "4j.advancement.config.clearsmall.name": "Invisible Small Inventory",
