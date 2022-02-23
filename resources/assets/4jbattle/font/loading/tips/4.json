@@ -19,7 +19,7 @@
         {
             "type": "bitmap",
             "file": "4jbattle:loading/tips/4/part1.png",
-            "ascent": 33,
+            "ascent": 47,
             "height": 55,
             "chars": [
                 "1"
@@ -28,7 +28,7 @@
         {
             "type": "bitmap",
             "file": "4jbattle:loading/tips/4/part2.png",
-            "ascent": 33,
+            "ascent": 47,
             "height": 55,
             "chars": [
                 "2"
@@ -37,7 +37,7 @@
         {
             "type": "bitmap",
             "file": "4jbattle:loading/tips/4/part3.png",
-            "ascent": 33,
+            "ascent": 47,
             "height": 55,
             "chars": [
                 "3"
@@ -46,7 +46,7 @@
         {
             "type": "bitmap",
             "file": "4jbattle:loading/tips/4/part4.png",
-            "ascent": 33,
+            "ascent": 47,
             "height": 55,
             "chars": [
                 "4"
