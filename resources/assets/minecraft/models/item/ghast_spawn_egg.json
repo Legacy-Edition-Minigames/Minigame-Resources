@@ -9,6 +9,11 @@
     {"predicate": {"custom_model_data":2}, "model": "item/4jbattle/build/spawnpoint"},
     {"predicate": {"custom_model_data":3}, "model": "item/4jbattle/build/remove"},
     {"predicate": {"custom_model_data":4}, "model": "item/4jbattle/tntblock"},
-    {"predicate": {"custom_model_data":5}, "model": "item/4jbattle/fire_charge"}
+    {"predicate": {"custom_model_data":5}, "model": "item/4jbattle/fire_charge"},
+    {"predicate": {"custom_model_data":6}, "model": "item/4jbattle/achievement/cupid"},
+    {"predicate": {"custom_model_data":7}, "model": "item/4jbattle/achievement/hunger"},
+    {"predicate": {"custom_model_data":8}, "model": "item/4jbattle/achievement/scratch"},
+    {"predicate": {"custom_model_data":9}, "model": "item/4jbattle/achievement/student"},
+    {"predicate": {"custom_model_data":10}, "model": "item/4jbattle/achievement/master"}
   ]
 }
