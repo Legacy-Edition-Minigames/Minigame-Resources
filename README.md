@@ -6,3 +6,11 @@ Resources for Legacy Edition Battle
 Greek Mythology pack ported by [Ultmate_Mario](https://ultmatemario.wixsite.com/ultmatemario)
 
 If you want to get the resource pack, go to the [Releases Page](https://github.com/DBTDerpbox/Legacy-Edition-Battle/releases).
+
+## Authors
+
+Legacy Edition Battle - [DBTDerpbox](https://github.com/DBTDerpbox)
+
+Achievement icons - [Lion8cake](https://github.com/Lion8cake)
+
+Large/Large+ Patreon heartcosmetics, help with heartcosmetics - Perfect System DX
