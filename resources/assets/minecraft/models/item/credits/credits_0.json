@@ -1,9 +1,0 @@
-{
-	"credit": "Made with Blockbench",
-    "parent": "item/credits/base",
-	"texture_size": [512, 512],
-	"textures": {
-		"0": "4jbattle/menu/host/base",
-		"particle": "item/credits/a"
-	}
-}
