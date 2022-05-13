@@ -131,22 +131,22 @@
       "4jbattle/music/frontier3"
     ]
   },
-  "music.shrunk.1": {
+  "music.plastic.1": {
     "category": "master",
     "sounds": [
-      "4jbattle/music/shrunk1"
+      "4jbattle/music/plastic1"
     ]
   },
-  "music.shrunk.2": {
+  "music.plastic.2": {
     "category": "master",
     "sounds": [
-      "4jbattle/music/shrunk2"
+      "4jbattle/music/plastic2"
     ]
   },
-  "music.shrunk.3": {
+  "music.plastic.3": {
     "category": "master",
     "sounds": [
-      "4jbattle/music/shrunk3"
+      "4jbattle/music/plastic3"
     ]
   },
   "music.steampunk.1": {
