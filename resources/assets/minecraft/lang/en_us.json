@@ -179,6 +179,7 @@
   "4j.mapdecider.menu.vote": "Vote",
   "4j.menu.host.title": "Please press §6[%s§6]",
   "4j.menu.host.subtitle": "And use the menu to configure your game.",
+  "4j.menu.host.start": "You have not started your game for 2 minutes! It will now automatically start to prevent abuse.",
   "4j.menu.host.config.cantchangemaps": "You cannot change enabled maps when the game is already started!",
   "4j.menu.host.config.maps.enabled.header": "Enabled maps",
   "4j.menu.host.config.maps.option.auto": "Auto",
