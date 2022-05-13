@@ -113,22 +113,22 @@
       "4jbattle/music/city5"
     ]
   },
-  "music.frontier.1": {
+  "music.western.1": {
     "category": "master",
     "sounds": [
-      "4jbattle/music/frontier1"
+      "4jbattle/music/western1"
     ]
   },
-  "music.frontier.2": {
+  "music.western.2": {
     "category": "master",
     "sounds": [
-      "4jbattle/music/frontier2"
+      "4jbattle/music/western2"
     ]
   },
-  "music.frontier.3": {
+  "music.western.3": {
     "category": "master",
     "sounds": [
-      "4jbattle/music/frontier3"
+      "4jbattle/music/western3"
     ]
   },
   "music.plastic.1": {
