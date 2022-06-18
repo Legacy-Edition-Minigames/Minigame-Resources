@@ -1,14 +1,20 @@
-# LEB Resources
-Resources for Legacy Edition Battle
+# Compliance LEB
 
-![Minecraft Version](https://img.shields.io/badge/Minecraft-1.16.5--1.17.1-80ba42?style=for-the-badge) ![License](https://img.shields.io/github/license/DBTDerpbox/LEB-resources?style=for-the-badge) ![Last Commit](https://img.shields.io/github/last-commit/dbtderpbox/LEB-resources?style=for-the-badge)
+An addon to Compliance and LEB CustomPack
 
-If you want to get the resource pack, go to the [Releases Page](https://github.com/DBTDerpbox/Legacy-Edition-Battle/releases).
+## Installation
+
+- Install [Compliance](https://compliancepack.net/compliance32x/latest) as a resource pack
+- Download Compliance-LEB from [Releases](https://github.com/Lion8cake/Compliance-LEB/releases)
+- **Make sure Compliance-LEB is above Compliance! It will not work properly if this is not done.**
+- Join LEB, type `/trigger custompack` and relog
+
+## Note about CustomPack
+
+LEB CustomPack by default disables Per-Map Texture packs! If you would like to keep using Per-Map Texture packs, type `/trigger maptextures` **after you have enabled CustomPack! Do not to it before it.**
 
 ## Authors
 
-Legacy Edition Battle - [DBTDerpbox](https://github.com/DBTDerpbox)
+Compliance-LEB - [Lion8cake](https://github.com/Lion8cake)
 
-Achievement icons - [Lion8cake](https://github.com/Lion8cake)
-
-Large/Large+ Patreon heartcosmetics, help with heartcosmetics - Perfect System DX
+Maintaining the pack past R25 - [DBTDerpbox](https://github.com/DBTDerpbox)
