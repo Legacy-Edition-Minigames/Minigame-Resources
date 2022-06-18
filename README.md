@@ -11,7 +11,7 @@ An addon to Compliance and LEB CustomPack
 
 ## Note about CustomPack
 
-LEB CustomPack by default disables Per-Map Texture packs! If you would like to keep using Per-Map Texture packs, type `/trigger maptextures` **after you have enabled CustomPack! Do not to it before it.**
+LEB CustomPack by default disables Per-Map Texture packs! If you would like to keep using Per-Map Texture packs, type `/trigger maptextures` **after you have enabled CustomPack! Do not do it before it.**
 
 ## Authors
 
