@@ -5,7 +5,7 @@ An addon to Compliance and LEB CustomPack
 ## Installation
 
 - Install [Compliance](https://compliancepack.net/compliance32x/latest) as a resource pack
-- Download Compliance-LEB from [Releases](https://github.com/Lion8cake/Compliance-LEB/releases)
+- Download Compliance-LEB from [Releases](https://github.com/DBTDerpbox/LEB-Resources/releases/tag/CL-R26.1)
 - **Make sure Compliance-LEB is above Compliance! It will not work properly if this is not done.**
 - Join LEB, type `/trigger custompack` and relog
 
