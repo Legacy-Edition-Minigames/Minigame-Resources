@@ -69,15 +69,6 @@
             "chars": [
                 "6"
             ]
-        },
-        {
-            "type": "bitmap",
-            "file": "4jbattle:armorbar/turtle/legs.png",
-            "ascent": -5,
-            "height": 15,
-            "chars": [
-                "7"
-            ]
         }
     ]
 }
