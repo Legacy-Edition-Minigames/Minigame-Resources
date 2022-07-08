@@ -14,7 +14,7 @@
   "4j.advancement.config.swaptipped.name": "No tipped arrows hotbar swap",
   "4j.advancement.config.vtdarkmode.desc": "Use the dark mode inventory texture from VanillaTweaks for small inventory.\n\n§6Can be toggled with /trigger vtdarkinv",
   "4j.advancement.config.vtdarkmode.name": "VT Dark Small Inventory",
-  "4j.advancement.config.clearsmall.desc": "Don't use a texture for for small inventory.\n\n§6Can be toggled with /trigger clearsmallinv",
+  "4j.advancement.config.clearsmall.desc": "Don't use a texture for small inventory.\n\n§6Can be toggled with /trigger clearsmallinv",
   "4j.advancement.config.clearsmall.name": "Invisible Small Inventory",
   "4j.advancement.config.spawnenchanted.desc": "Allow auto equip to swap armor even if its enchanted\n\n§6Can be toggled with /trigger swapenchanted",
   "4j.advancement.config.spawnenchanted.name": "Swap Enchanted Armor",
