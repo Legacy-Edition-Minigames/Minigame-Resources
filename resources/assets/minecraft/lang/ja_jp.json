@@ -206,7 +206,7 @@
   "4j.menu.host.config.combat.option.1.9": "1.9",
   "4j.menu.host.config.combat.option.cts": "\u30b3\u30f3\u30d0\u30c3\u30c8\u30c6\u30b9\u30c8\u306e\u30b9\u30ca\u30c3\u30d7\u30b7\u30e7\u30c3\u30c8",
   "4j.menu.host.config.combat.option.remastered": "\u30ea\u30de\u30b9\u30bf\u30fc",
-  "4j.menu.host.config.update.generic": "\u30db\u30b9\u30c8\u306f %s\u3067\u3059\u3002",
+  "4j.menu.host.config.update.generic": "\u30db\u30b9\u30c8\u306f %s/*\u3067\u3059\u3002*/",
   "4j.menu.host.config.update.set": "%s\u3092 %s\u306b\u8a2d\u5b9a\u3057\u307e\u3057\u305f\u3002",
   "4j.menu.host.config.update.enable": "%s\u3092\u6709\u52b9\u5316\u3057\u307e\u3057\u305f\u3002",
   "4j.menu.host.config.update.disable": "%s\u3092\u7121\u52b9\u5316\u3057\u307e\u3057\u305f\u3002",
