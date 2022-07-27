@@ -280,6 +280,15 @@
   "4j.relog.join.patreon": "Considere apoiar o servidor no %s",
   "4j.generic.goback": "Voltar",
   "4j.generic.options": "Opções",
+  "4j.ui.banner.1": "\uF051",
+  "4j.ui.banner.2": "\uF052",
+  "4j.ui.banner.3": "\uF053",
+  "4j.ui.banner.4": "\uF054",
+  "4j.ui.banner.5": "\uF055",
+  "4j.ui.banner.6": "\uF056",
+  "4j.ui.banner.7": "\uF057",
+  "4j.ui.banner.8": "\uF058",
+  "4j.ui.banner.9": "\uF059",
   "menu.game": "\uE782\uF801\uE783\uF801\uE784\uF801\uE785",
   "menu.paused": "\uE782\uF801\uE783\uF801\uE784\uF801\uE785"
 }
