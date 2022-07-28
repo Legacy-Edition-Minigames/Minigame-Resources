@@ -184,6 +184,33 @@
             "type": "legacy_unicode",
             "sizes": "minecraft:font/glyph_sizes.bin",
             "template": "minecraft:font/unicode_page_%s.png"
+        },
+        {
+            "type": "bitmap",
+            "file": "4jbattle:text/ja_jp/banner/showdown.png",
+            "ascent": -35,
+            "height": 9,
+            "chars": [
+                "\uF810"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "4jbattle:text/ja_jp/banner/draw.png",
+            "ascent": -35,
+            "height": 9,
+            "chars": [
+                "\uF811"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "4jbattle:text/ja_jp/banner/win.png",
+            "ascent": -35,
+            "height": 9,
+            "chars": [
+                "\uF812"
+            ]
         }
     ]
 }
