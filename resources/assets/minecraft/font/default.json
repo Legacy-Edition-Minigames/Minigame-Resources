@@ -7,7 +7,7 @@
             "size": 10.0,
             "oversample": 1.0
         },
-	{
+	    {
             "type": "bitmap",
             "file": "minecraft:4jbattle/logo/part1.png",
             "ascent": 28,
