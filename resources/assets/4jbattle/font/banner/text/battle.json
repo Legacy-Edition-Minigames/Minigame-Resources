@@ -9,83 +9,569 @@
         },
         {
             "type": "bitmap",
-            "file": "4jbattle:banner_textbox.png",
+            "file": "4jbattle:banner_textbox/en_us/battle.png",
             "ascent": -51,
             "height": 4,
             "chars": [
-                "1"
+                "\uF001"
             ]
         },
         {
             "type": "bitmap",
-            "file": "4jbattle:banner_textbox.png",
+            "file": "4jbattle:banner_textbox/en_us/battle.png",
             "ascent": -51,
             "height": 6,
             "chars": [
-                "2"
+                "\uF002"
             ]
         },
         {
             "type": "bitmap",
-            "file": "4jbattle:banner_textbox.png",
+            "file": "4jbattle:banner_textbox/en_us/battle.png",
             "ascent": -51,
             "height": 8,
             "chars": [
-                "3"
+                "\uF003"
             ]
         },
         {
             "type": "bitmap",
-            "file": "4jbattle:banner_textbox.png",
+            "file": "4jbattle:banner_textbox/en_us/battle.png",
             "ascent": -51,
             "height": 10,
             "chars": [
-                "4"
+                "\uF004"
             ]
         },
         {
             "type": "bitmap",
-            "file": "4jbattle:banner_textbox.png",
+            "file": "4jbattle:banner_textbox/en_us/battle.png",
             "ascent": -51,
             "height": 12,
             "chars": [
-                "5"
+                "\uF005"
             ]
         },
         {
             "type": "bitmap",
-            "file": "4jbattle:banner_textbox.png",
+            "file": "4jbattle:banner_textbox/en_us/battle.png",
             "ascent": -51,
             "height": 14,
             "chars": [
-                "6"
+                "\uF006"
             ]
         },
         {
             "type": "bitmap",
-            "file": "4jbattle:banner_textbox.png",
+            "file": "4jbattle:banner_textbox/en_us/battle.png",
             "ascent": -51,
             "height": 16,
             "chars": [
-                "7"
+                "\uF007"
             ]
         },
         {
             "type": "bitmap",
-            "file": "4jbattle:banner_textbox.png",
+            "file": "4jbattle:banner_textbox/en_us/battle.png",
             "ascent": -51,
             "height": 18,
             "chars": [
-                "8"
+                "\uF008"
             ]
         },
         {
             "type": "bitmap",
-            "file": "4jbattle:banner_textbox.png",
+            "file": "4jbattle:banner_textbox/en_us/battle.png",
             "ascent": -51,
             "height": 20,
             "chars": [
-                "9"
+                "\uF009"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "4jbattle:banner_textbox/de_de/battle.png",
+            "ascent": -51,
+            "height": 4,
+            "chars": [
+                "\uF011"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "4jbattle:banner_textbox/de_de/battle.png",
+            "ascent": -51,
+            "height": 6,
+            "chars": [
+                "\uF012"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "4jbattle:banner_textbox/de_de/battle.png",
+            "ascent": -51,
+            "height": 8,
+            "chars": [
+                "\uF013"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "4jbattle:banner_textbox/de_de/battle.png",
+            "ascent": -51,
+            "height": 10,
+            "chars": [
+                "\uF014"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "4jbattle:banner_textbox/de_de/battle.png",
+            "ascent": -51,
+            "height": 12,
+            "chars": [
+                "\uF015"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "4jbattle:banner_textbox/de_de/battle.png",
+            "ascent": -51,
+            "height": 14,
+            "chars": [
+                "\uF016"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "4jbattle:banner_textbox/de_de/battle.png",
+            "ascent": -51,
+            "height": 16,
+            "chars": [
+                "\uF017"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "4jbattle:banner_textbox/de_de/battle.png",
+            "ascent": -51,
+            "height": 18,
+            "chars": [
+                "\uF018"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "4jbattle:banner_textbox/de_de/battle.png",
+            "ascent": -51,
+            "height": 20,
+            "chars": [
+                "\uF019"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "4jbattle:banner_textbox/es_es/battle.png",
+            "ascent": -51,
+            "height": 4,
+            "chars": [
+                "\uF021"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "4jbattle:banner_textbox/es_es/battle.png",
+            "ascent": -51,
+            "height": 6,
+            "chars": [
+                "\uF022"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "4jbattle:banner_textbox/es_es/battle.png",
+            "ascent": -51,
+            "height": 8,
+            "chars": [
+                "\uF023"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "4jbattle:banner_textbox/es_es/battle.png",
+            "ascent": -51,
+            "height": 10,
+            "chars": [
+                "\uF024"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "4jbattle:banner_textbox/es_es/battle.png",
+            "ascent": -51,
+            "height": 12,
+            "chars": [
+                "\uF025"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "4jbattle:banner_textbox/es_es/battle.png",
+            "ascent": -51,
+            "height": 14,
+            "chars": [
+                "\uF026"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "4jbattle:banner_textbox/es_es/battle.png",
+            "ascent": -51,
+            "height": 16,
+            "chars": [
+                "\uF027"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "4jbattle:banner_textbox/es_es/battle.png",
+            "ascent": -51,
+            "height": 18,
+            "chars": [
+                "\uF028"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "4jbattle:banner_textbox/es_es/battle.png",
+            "ascent": -51,
+            "height": 20,
+            "chars": [
+                "\uF029"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "4jbattle:banner_textbox/es_es/battle.png",
+            "ascent": -51,
+            "height": 4,
+            "chars": [
+                "\uF021"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "4jbattle:banner_textbox/es_es/battle.png",
+            "ascent": -51,
+            "height": 6,
+            "chars": [
+                "\uF022"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "4jbattle:banner_textbox/es_es/battle.png",
+            "ascent": -51,
+            "height": 8,
+            "chars": [
+                "\uF023"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "4jbattle:banner_textbox/es_es/battle.png",
+            "ascent": -51,
+            "height": 10,
+            "chars": [
+                "\uF024"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "4jbattle:banner_textbox/es_es/battle.png",
+            "ascent": -51,
+            "height": 12,
+            "chars": [
+                "\uF025"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "4jbattle:banner_textbox/es_es/battle.png",
+            "ascent": -51,
+            "height": 14,
+            "chars": [
+                "\uF026"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "4jbattle:banner_textbox/es_es/battle.png",
+            "ascent": -51,
+            "height": 16,
+            "chars": [
+                "\uF027"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "4jbattle:banner_textbox/es_es/battle.png",
+            "ascent": -51,
+            "height": 18,
+            "chars": [
+                "\uF028"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "4jbattle:banner_textbox/es_es/battle.png",
+            "ascent": -51,
+            "height": 20,
+            "chars": [
+                "\uF029"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "4jbattle:banner_textbox/ja_jp/battle.png",
+            "ascent": -51,
+            "height": 4,
+            "chars": [
+                "\uF031"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "4jbattle:banner_textbox/ja_jp/battle.png",
+            "ascent": -51,
+            "height": 6,
+            "chars": [
+                "\uF032"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "4jbattle:banner_textbox/ja_jp/battle.png",
+            "ascent": -51,
+            "height": 8,
+            "chars": [
+                "\uF033"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "4jbattle:banner_textbox/ja_jp/battle.png",
+            "ascent": -51,
+            "height": 10,
+            "chars": [
+                "\uF034"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "4jbattle:banner_textbox/ja_jp/battle.png",
+            "ascent": -51,
+            "height": 12,
+            "chars": [
+                "\uF035"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "4jbattle:banner_textbox/ja_jp/battle.png",
+            "ascent": -51,
+            "height": 14,
+            "chars": [
+                "\uF036"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "4jbattle:banner_textbox/ja_jp/battle.png",
+            "ascent": -51,
+            "height": 16,
+            "chars": [
+                "\uF037"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "4jbattle:banner_textbox/ja_jp/battle.png",
+            "ascent": -51,
+            "height": 18,
+            "chars": [
+                "\uF038"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "4jbattle:banner_textbox/ja_jp/battle.png",
+            "ascent": -51,
+            "height": 20,
+            "chars": [
+                "\uF039"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "4jbattle:banner_textbox/pl_pl/battle.png",
+            "ascent": -51,
+            "height": 4,
+            "chars": [
+                "\uF041"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "4jbattle:banner_textbox/pl_pl/battle.png",
+            "ascent": -51,
+            "height": 6,
+            "chars": [
+                "\uF042"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "4jbattle:banner_textbox/pl_pl/battle.png",
+            "ascent": -51,
+            "height": 8,
+            "chars": [
+                "\uF043"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "4jbattle:banner_textbox/pl_pl/battle.png",
+            "ascent": -51,
+            "height": 10,
+            "chars": [
+                "\uF044"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "4jbattle:banner_textbox/pl_pl/battle.png",
+            "ascent": -51,
+            "height": 12,
+            "chars": [
+                "\uF045"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "4jbattle:banner_textbox/pl_pl/battle.png",
+            "ascent": -51,
+            "height": 14,
+            "chars": [
+                "\uF046"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "4jbattle:banner_textbox/pl_pl/battle.png",
+            "ascent": -51,
+            "height": 16,
+            "chars": [
+                "\uF047"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "4jbattle:banner_textbox/pl_pl/battle.png",
+            "ascent": -51,
+            "height": 18,
+            "chars": [
+                "\uF048"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "4jbattle:banner_textbox/pl_pl/battle.png",
+            "ascent": -51,
+            "height": 20,
+            "chars": [
+                "\uF049"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "4jbattle:banner_textbox/pt_br/battle.png",
+            "ascent": -51,
+            "height": 4,
+            "chars": [
+                "\uF051"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "4jbattle:banner_textbox/pt_br/battle.png",
+            "ascent": -51,
+            "height": 6,
+            "chars": [
+                "\uF052"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "4jbattle:banner_textbox/pt_br/battle.png",
+            "ascent": -51,
+            "height": 8,
+            "chars": [
+                "\uF053"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "4jbattle:banner_textbox/pt_br/battle.png",
+            "ascent": -51,
+            "height": 10,
+            "chars": [
+                "\uF054"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "4jbattle:banner_textbox/pt_br/battle.png",
+            "ascent": -51,
+            "height": 12,
+            "chars": [
+                "\uF055"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "4jbattle:banner_textbox/pt_br/battle.png",
+            "ascent": -51,
+            "height": 14,
+            "chars": [
+                "\uF056"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "4jbattle:banner_textbox/pt_br/battle.png",
+            "ascent": -51,
+            "height": 16,
+            "chars": [
+                "\uF057"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "4jbattle:banner_textbox/pt_br/battle.png",
+            "ascent": -51,
+            "height": 18,
+            "chars": [
+                "\uF058"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "4jbattle:banner_textbox/pt_br/battle.png",
+            "ascent": -51,
+            "height": 20,
+            "chars": [
+                "\uF059"
             ]
         }
     ]
