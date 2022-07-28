@@ -280,6 +280,15 @@
     "4j.relog.join.patreon": "Bitte erwäge, den Server auf %s zu unterstützen",
     "4j.generic.goback": "Zurück",
     "4j.generic.options": "Optionen",
+    "4j.ui.banner.1": "\uF011",
+    "4j.ui.banner.2": "\uF012",
+    "4j.ui.banner.3": "\uF013",
+    "4j.ui.banner.4": "\uF014",
+    "4j.ui.banner.5": "\uF015",
+    "4j.ui.banner.6": "\uF016",
+    "4j.ui.banner.7": "\uF017",
+    "4j.ui.banner.8": "\uF018",
+    "4j.ui.banner.9": "\uF019",
     "menu.game": "\uE782\uF801\uE783\uF801\uE784\uF801\uE785",
     "menu.paused": "\uE782\uF801\uE783\uF801\uE784\uF801\uE785"
 }
