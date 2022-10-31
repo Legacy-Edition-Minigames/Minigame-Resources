@@ -2,7 +2,7 @@
   "4j.advancement.config.root.name": "Clinet Opshuns",
   "4j.advancement.config.armorbar.desc": "Dont show armur u havz on\n\n§6Can be togld wit /trigger armorbar",
   "4j.advancement.config.armorbar.name": "Diswabl ArmurBarr",
-  "4j.advancement.config.custompack.desc": "Remov al pakz tat teh gaem foces.\n\n§6Can be togld wit /trigger custompack",
+  "4j.advancement.config.custompack.desc": "Remov al pakz tat teh gaem foces.\n\n§6Can be togld wit /trigger maptextures set -2",
   "4j.advancement.config.custompack.name": "Diswabld teh pakz",
   "4j.advancement.config.globalpack.desc": "Diswabl teh pur-map texturz pakz.\n\n§6Can be togld wit /trigger maptextures",
   "4j.advancement.config.globalpack.name": "No pur-map texturz",
