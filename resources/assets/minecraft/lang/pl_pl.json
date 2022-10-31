@@ -2,7 +2,7 @@
   "4j.advancement.config.root.name": "Opcje Klienta",
   "4j.advancement.config.armorbar.desc": "Nie pokazuj zbroi którą nosisz\n\n§6Można przełączyć za pomocą komendy /trigger armorbar",
   "4j.advancement.config.armorbar.name": "Wyłącz Pasek Zbroi",
-  "4j.advancement.config.custompack.desc": "Zezwól na używanie w Niestandardowych Paczek Zasobów.\n\n§6Można przełączyć za pomocą komendy /trigger custompack",
+  "4j.advancement.config.custompack.desc": "Zezwól na używanie w Niestandardowych Paczek Zasobów.\n\n§6Można przełączyć za pomocą komendy /trigger maptextures set -2",
   "4j.advancement.config.custompack.name": "Niestandardowa Paczka Zasobów",
   "4j.advancement.config.globalpack.desc": "Wyłącz Paczki Zasobów dla poszczególnych map.\n\n§6Można przełączyć za pomocą komendy /trigger maptextures",
   "4j.advancement.config.globalpack.name": "Paczki Zasobów dla poszczególnych map są wyłączone",

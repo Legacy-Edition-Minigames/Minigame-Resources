@@ -2,7 +2,7 @@
   "4j.advancement.config.root.name": "Параметры клиента",
   "4j.advancement.config.armorbar.desc": "Не показывать доспехи, которые вы носите\n\n§6Можно переключать с помощью команды /trigger armorbar",
   "4j.advancement.config.armorbar.name": "Отключить броню",
-  "4j.advancement.config.custompack.desc": "Разрешить использование пользовательского ресурс пака.\n\n§6Можно переключать с помощью команды /trigger custompack",
+  "4j.advancement.config.custompack.desc": "Разрешить использование пользовательского ресурс пака.\n\n§6Можно переключать с помощью команды /trigger maptextures set -2",
   "4j.advancement.config.custompack.name": "Пользовательские ресурс паки",
   "4j.advancement.config.globalpack.desc": "Отключить пакеты текстур для каждой карты.\n\n§6Можно переключать с помощью команды /trigger maptextures",
   "4j.advancement.config.globalpack.name": "Нет текстур для каждой карты",
