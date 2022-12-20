@@ -45,6 +45,6 @@ void main() {
         if (id != 2)
             Pos.xy = vec2(0);        
     
-        gl_Position = ProjMat * ModelViewMat * vec4(Pos, 1.0);
+        gl_Position = ProjMat * ModelViewMat * vec4(Pos, 1);
     }
 }

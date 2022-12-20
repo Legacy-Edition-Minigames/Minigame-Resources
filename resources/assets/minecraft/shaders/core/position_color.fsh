@@ -37,6 +37,7 @@ int bitmap[][] = int[][](
 );
 
 
+
 void main() {
     vec4 color = vertexColor;
     if (color.a == 0.0) {
@@ -88,5 +89,6 @@ void main() {
             col = colors[8];
 
         fragColor = col;
+        
     }
 }
