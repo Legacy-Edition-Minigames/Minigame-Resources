@@ -85,6 +85,8 @@
   "4j.config.clearsmall.enable": "Enabled Small Inventory Texture!",
   "4j.config.swapenchanted.disable": "§cDisabled Enchanted Armor Swapping!",
   "4j.config.swapenchanted.enable": "§aEnabled Enchanted Armor Swapping!",
+  "4j.config.safemusic.disable": "Disabled Streaming/YouTube Safe Music!",
+  "4j.config.safemusic.enable": "Enabled Streaming/YouTube Safe Music!",
   "4j.hints.reloadresources.text": "§6Please either relog or type %s§6 for changes to apply.",
   "4j.hints.reloadresources.hover": "§e§oClick to reload resources",
   "4j.resource.reloadresource.customenabled.warning": "You can not reload resources when you have a custom pack enabled!",
