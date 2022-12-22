@@ -2,7 +2,7 @@
     "4j.advancement.config.root.name": "Client-Optionen",
     "4j.advancement.config.armorbar.desc": "Getragene Rüstung nicht anzeigen\n\n§6Kann mit /trigger armorbar umgeschaltet werden",
     "4j.advancement.config.armorbar.name": "Deaktiviere Rüstungsleiste",
-    "4j.advancement.config.custompack.desc": "Erlaube die Verwendung eines benutzerdefinierten Ressourcenpakets.\n\n§6Kann mit /trigger custompack umgeschaltet werden",
+    "4j.advancement.config.custompack.desc": "Erlaube die Verwendung eines benutzerdefinierten Ressourcenpakets.\n\n§6Kann mit /trigger maptextures set -2 umgeschaltet werden",
     "4j.advancement.config.custompack.name": "Benutzerdefinierte Ressourcen",
     "4j.advancement.config.globalpack.desc": "Deaktiviere die Kartentexturpakete.\n\n§6Kann mit /trigger maptextures umgeschaltet werden",
     "4j.advancement.config.globalpack.name": "Keine Kartentexturen",
