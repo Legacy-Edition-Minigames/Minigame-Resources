@@ -6,9 +6,8 @@
 
   "overrides": [
     {"predicate": {"custom_model_data":1}, "model": "item/4jbattle/build/exit"},
-    {"predicate": {"custom_model_data":2}, "model": "item/credits/credits_0"},
-    {"predicate": {"custom_model_data":3}, "model": "item/4jbattle/menu/monitor"},
     {"predicate": {"custom_model_data":4}, "model": "item/4jbattle/lobby/ready"},
-    {"predicate": {"custom_model_data":5}, "model": "item/4jbattle/lobby/notready"}
+    {"predicate": {"custom_model_data":5}, "model": "item/4jbattle/lobby/notready"},
+    {"predicate": {"custom_model_data":6}, "model": "item/4jbattle/xof"}
   ]
 }
