@@ -2,7 +2,7 @@
   "4j.advancement.config.root.name": "Client Options",
   "4j.advancement.config.armorbar.desc": "Don't show armor you are wearing\n\n§6Can be toggled with /trigger armorbar",
   "4j.advancement.config.armorbar.name": "Disable ArmorBar",
-  "4j.advancement.config.custompack.desc": "Allow the usage of a Custom Resource Pack.\n\n§6Can be toggled with /trigger custompack",
+  "4j.advancement.config.custompack.desc": "Allow the usage of a Custom Resource Pack.\n\n§6Can be toggled with /trigger maptextures set -2",
   "4j.advancement.config.custompack.name": "Custom Resources",
   "4j.advancement.config.globalpack.desc": "Disable the per-map texture packs.\n\n§6Can be toggled with /trigger maptextures",
   "4j.advancement.config.globalpack.name": "No per-map textures",
