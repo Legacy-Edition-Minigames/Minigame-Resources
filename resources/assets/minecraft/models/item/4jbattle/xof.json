@@ -2,7 +2,7 @@
 	"credit": "Made with Blockbench",
 	"texture_size": [64, 32],
 	"textures": {
-		"0": "minecraft:4jbattle/xof"
+		"0": "4jbattle/xof"
 	},
 	"elements": [
 		{
@@ -138,8 +138,9 @@
 	],
 	"display": {
 		"head": {
-			"translation": [9.5, 1.25, 6],
-			"scale": [1.2, 1.2, 1.2]
+			"rotation": [0, -180, 0],
+			"translation": [0, 5.75, 0.25],
+			"scale": [1.4, 1.4, 1.4]
 		}
 	}
 }
