@@ -2,7 +2,7 @@
   "4j.advancement.config.root.name": "Ajustes del Cliente",
   "4j.advancement.config.armorbar.desc": "No mostrar armadura que llevas equipada\n\n§6Puede ajustarse con /trigger armorbar",
   "4j.advancement.config.armorbar.name": "Desactivar interfaz de armadura",
-  "4j.advancement.config.custompack.desc": "Permitir el uso de paquetes de recursos personalizados.\n\n§6Puede ajustarse con /trigger custompack",
+  "4j.advancement.config.custompack.desc": "Permitir el uso de paquetes de recursos personalizados.\n\n§6Puede ajustarse con /trigger maptextures set -2",
   "4j.advancement.config.custompack.name": "Paquetes de recursos personalizados",
   "4j.advancement.config.globalpack.desc": "Desactivar paquetes de texturas específicos del mapa.\n\n§6Puede ajustarse con /trigger maptextures",
   "4j.advancement.config.globalpack.name": "Sin paquetes de texturas específicos del mapa",

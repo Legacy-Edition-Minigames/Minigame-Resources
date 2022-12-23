@@ -2,7 +2,7 @@
   "4j.advancement.config.root.name": "Επιλογές Του Client",
   "4j.advancement.config.armorbar.desc": "Μη ορατή η πανοπλία που φοράς\n\n§6Μπορεί να ενεργοποιηθεί/απενεργοποιθεί με /trigger armorbar",
   "4j.advancement.config.armorbar.name": "Απενεργοποίηση Ορατής Πανοπλίας",
-  "4j.advancement.config.custompack.desc": "Επέτρεψε την χρήση Custom πακέτων πόρων.\n\n§6Μπορεί να ενεργοποιηθεί/απενεργοποιηθεί με /trigger custompack",
+  "4j.advancement.config.custompack.desc": "Επέτρεψε την χρήση Custom πακέτων πόρων.\n\n§6Μπορεί να ενεργοποιηθεί/απενεργοποιηθεί με /trigger maptextures set -2",
   "4j.advancement.config.custompack.name": "Custom Πόροι",
   "4j.advancement.config.globalpack.desc": "Απενεργοποίησε τα πακέτα υφής για κάποιες αρένες.\n\n§6Μπορεί να ενεργοποιηθεί/απενεργοποιηθεί με /trigger maptextures",
   "4j.advancement.config.globalpack.name": "Οχι πακέτα υφής για κάποιες αρένες",
