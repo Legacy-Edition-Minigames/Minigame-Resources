@@ -1,0 +1,47 @@
+{
+    "providers": [
+        {
+            "type": "ttf",
+            "file": "4jbattle:negative_spaces.ttf",
+            "shift": [0.0, 0.0],
+            "size": 10.0,
+            "oversample": 1.0
+        },
+        {
+            "type": "bitmap",
+            "file": "4jbattle:loading/title/part1.png",
+            "ascent": 7,
+            "height": 40,
+            "chars": [
+                "1"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "4jbattle:loading/title/part2.png",
+            "ascent": 7,
+            "height": 40,
+            "chars": [
+                "2"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "4jbattle:loading/title/part3.png",
+            "ascent": 7,
+            "height": 40,
+            "chars": [
+                "3"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "4jbattle:loading/title/part4.png",
+            "ascent": 7,
+            "height": 40,
+            "chars": [
+                "4"
+            ]
+        }
+    ]
+}
