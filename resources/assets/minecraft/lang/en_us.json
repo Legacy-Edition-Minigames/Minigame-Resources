@@ -271,6 +271,7 @@
   "4j.menu.host.config.update.combat.style.custom.attackspeed.normal": "Normal",
   "4j.menu.host.config.update.combat.style.custom.attackspeed.fast": "Fast",
   "4j.menu.host.config.update.combat.style.custom.attackspeed.fastest": "Fastest",
+  "4j.menu.host.config.update.combat.style.custom.criticals": "Critical Attacks",
   "4j.menu.host.config.update.combat.extendedpotionrange": "Extended Potion Range",
   "4j.menu.host.config.update.mods": "Modded Content",
   "4j.menu.host.config.update.randompower": "Random Powerful Chests",
