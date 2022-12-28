@@ -226,6 +226,7 @@
   "4j.menu.host.config.update.lobby.new": "New",
   "4j.menu.host.config.update.lobby.anniversary": "Anniversary",
   "4j.menu.host.config.update.lobby.halloween": "Halloween",
+  "4j.menu.host.config.update.lobby.festive": "Festive",
   "4j.menu.host.config.update.map": "Map Type",
   "4j.menu.host.config.update.regen": "Natural Regeneration",
   "4j.menu.host.config.update.bug": "Bug Fix: %s",
