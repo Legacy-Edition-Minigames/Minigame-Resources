@@ -1,0 +1,497 @@
+{
+    "providers": [
+        {
+            "type": "ttf",
+            "file": "lem.base:negative_spaces.ttf",
+            "shift": [0.0, 0.0],
+            "size": 10.0,
+            "oversample": 1.0
+        },
+        {
+            "type": "bitmap",
+            "file": "lem.base:banner/textbox/en_us/showdown.png",
+            "ascent": -51,
+            "height": 4,
+            "chars": [
+                "\uF001"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "lem.base:banner/textbox/en_us/showdown.png",
+            "ascent": -51,
+            "height": 6,
+            "chars": [
+                "\uF002"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "lem.base:banner/textbox/en_us/showdown.png",
+            "ascent": -51,
+            "height": 8,
+            "chars": [
+                "\uF003"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "lem.base:banner/textbox/en_us/showdown.png",
+            "ascent": -51,
+            "height": 10,
+            "chars": [
+                "\uF004"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "lem.base:banner/textbox/en_us/showdown.png",
+            "ascent": -51,
+            "height": 12,
+            "chars": [
+                "\uF005"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "lem.base:banner/textbox/en_us/showdown.png",
+            "ascent": -51,
+            "height": 14,
+            "chars": [
+                "\uF006"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "lem.base:banner/textbox/en_us/showdown.png",
+            "ascent": -51,
+            "height": 16,
+            "chars": [
+                "\uF007"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "lem.base:banner/textbox/en_us/showdown.png",
+            "ascent": -51,
+            "height": 18,
+            "chars": [
+                "\uF008"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "lem.base:banner/textbox/en_us/showdown.png",
+            "ascent": -51,
+            "height": 20,
+            "chars": [
+                "\uF009"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "lem.base:banner/textbox/de_de/showdown.png",
+            "ascent": -51,
+            "height": 4,
+            "chars": [
+                "\uF011"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "lem.base:banner/textbox/de_de/showdown.png",
+            "ascent": -51,
+            "height": 6,
+            "chars": [
+                "\uF012"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "lem.base:banner/textbox/de_de/showdown.png",
+            "ascent": -51,
+            "height": 8,
+            "chars": [
+                "\uF013"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "lem.base:banner/textbox/de_de/showdown.png",
+            "ascent": -51,
+            "height": 10,
+            "chars": [
+                "\uF014"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "lem.base:banner/textbox/de_de/showdown.png",
+            "ascent": -51,
+            "height": 12,
+            "chars": [
+                "\uF015"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "lem.base:banner/textbox/de_de/showdown.png",
+            "ascent": -51,
+            "height": 14,
+            "chars": [
+                "\uF016"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "lem.base:banner/textbox/de_de/showdown.png",
+            "ascent": -51,
+            "height": 16,
+            "chars": [
+                "\uF017"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "lem.base:banner/textbox/de_de/showdown.png",
+            "ascent": -51,
+            "height": 18,
+            "chars": [
+                "\uF018"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "lem.base:banner/textbox/de_de/showdown.png",
+            "ascent": -51,
+            "height": 20,
+            "chars": [
+                "\uF019"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "lem.base:banner/textbox/es_es/showdown.png",
+            "ascent": -51,
+            "height": 4,
+            "chars": [
+                "\uF021"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "lem.base:banner/textbox/es_es/showdown.png",
+            "ascent": -51,
+            "height": 6,
+            "chars": [
+                "\uF022"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "lem.base:banner/textbox/es_es/showdown.png",
+            "ascent": -51,
+            "height": 8,
+            "chars": [
+                "\uF023"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "lem.base:banner/textbox/es_es/showdown.png",
+            "ascent": -51,
+            "height": 10,
+            "chars": [
+                "\uF024"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "lem.base:banner/textbox/es_es/showdown.png",
+            "ascent": -51,
+            "height": 12,
+            "chars": [
+                "\uF025"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "lem.base:banner/textbox/es_es/showdown.png",
+            "ascent": -51,
+            "height": 14,
+            "chars": [
+                "\uF026"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "lem.base:banner/textbox/es_es/showdown.png",
+            "ascent": -51,
+            "height": 16,
+            "chars": [
+                "\uF027"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "lem.base:banner/textbox/es_es/showdown.png",
+            "ascent": -51,
+            "height": 18,
+            "chars": [
+                "\uF028"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "lem.base:banner/textbox/es_es/showdown.png",
+            "ascent": -51,
+            "height": 20,
+            "chars": [
+                "\uF029"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "lem.base:banner/textbox/ja_jp/showdown.png",
+            "ascent": -51,
+            "height": 4,
+            "chars": [
+                "\uF031"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "lem.base:banner/textbox/ja_jp/showdown.png",
+            "ascent": -51,
+            "height": 6,
+            "chars": [
+                "\uF032"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "lem.base:banner/textbox/ja_jp/showdown.png",
+            "ascent": -51,
+            "height": 8,
+            "chars": [
+                "\uF033"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "lem.base:banner/textbox/ja_jp/showdown.png",
+            "ascent": -51,
+            "height": 10,
+            "chars": [
+                "\uF034"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "lem.base:banner/textbox/ja_jp/showdown.png",
+            "ascent": -51,
+            "height": 12,
+            "chars": [
+                "\uF035"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "lem.base:banner/textbox/ja_jp/showdown.png",
+            "ascent": -51,
+            "height": 14,
+            "chars": [
+                "\uF036"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "lem.base:banner/textbox/ja_jp/showdown.png",
+            "ascent": -51,
+            "height": 16,
+            "chars": [
+                "\uF037"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "lem.base:banner/textbox/ja_jp/showdown.png",
+            "ascent": -51,
+            "height": 18,
+            "chars": [
+                "\uF038"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "lem.base:banner/textbox/ja_jp/showdown.png",
+            "ascent": -51,
+            "height": 20,
+            "chars": [
+                "\uF039"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "lem.base:banner/textbox/pl_pl/showdown.png",
+            "ascent": -51,
+            "height": 4,
+            "chars": [
+                "\uF041"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "lem.base:banner/textbox/pl_pl/showdown.png",
+            "ascent": -51,
+            "height": 6,
+            "chars": [
+                "\uF042"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "lem.base:banner/textbox/pl_pl/showdown.png",
+            "ascent": -51,
+            "height": 8,
+            "chars": [
+                "\uF043"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "lem.base:banner/textbox/pl_pl/showdown.png",
+            "ascent": -51,
+            "height": 10,
+            "chars": [
+                "\uF044"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "lem.base:banner/textbox/pl_pl/showdown.png",
+            "ascent": -51,
+            "height": 12,
+            "chars": [
+                "\uF045"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "lem.base:banner/textbox/pl_pl/showdown.png",
+            "ascent": -51,
+            "height": 14,
+            "chars": [
+                "\uF046"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "lem.base:banner/textbox/pl_pl/showdown.png",
+            "ascent": -51,
+            "height": 16,
+            "chars": [
+                "\uF047"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "lem.base:banner/textbox/pl_pl/showdown.png",
+            "ascent": -51,
+            "height": 18,
+            "chars": [
+                "\uF048"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "lem.base:banner/textbox/pl_pl/showdown.png",
+            "ascent": -51,
+            "height": 20,
+            "chars": [
+                "\uF049"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "lem.base:banner/textbox/pt_br/showdown.png",
+            "ascent": -51,
+            "height": 4,
+            "chars": [
+                "\uF051"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "lem.base:banner/textbox/pt_br/showdown.png",
+            "ascent": -51,
+            "height": 6,
+            "chars": [
+                "\uF052"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "lem.base:banner/textbox/pt_br/showdown.png",
+            "ascent": -51,
+            "height": 8,
+            "chars": [
+                "\uF053"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "lem.base:banner/textbox/pt_br/showdown.png",
+            "ascent": -51,
+            "height": 10,
+            "chars": [
+                "\uF054"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "lem.base:banner/textbox/pt_br/showdown.png",
+            "ascent": -51,
+            "height": 12,
+            "chars": [
+                "\uF055"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "lem.base:banner/textbox/pt_br/showdown.png",
+            "ascent": -51,
+            "height": 14,
+            "chars": [
+                "\uF056"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "lem.base:banner/textbox/pt_br/showdown.png",
+            "ascent": -51,
+            "height": 16,
+            "chars": [
+                "\uF057"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "lem.base:banner/textbox/pt_br/showdown.png",
+            "ascent": -51,
+            "height": 18,
+            "chars": [
+                "\uF058"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "lem.base:banner/textbox/pt_br/showdown.png",
+            "ascent": -51,
+            "height": 20,
+            "chars": [
+                "\uF059"
+            ]
+        }
+    ]
+}
