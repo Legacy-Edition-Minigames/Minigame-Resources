@@ -2,14 +2,14 @@
     "providers": [
         {
             "type": "ttf",
-            "file": "4jbattle:negative_spaces.ttf",
+            "file": "lem.base:negative_spaces.ttf",
             "shift": [0.0, 0.0],
             "size": 10.0,
             "oversample": 1.0
         },
         {
             "type": "bitmap",
-            "file": "4jbattle:loading/title/part1.png",
+            "file": "lem.base:loading/title/part1.png",
             "ascent": 7,
             "height": 40,
             "chars": [
@@ -18,7 +18,7 @@
         },
         {
             "type": "bitmap",
-            "file": "4jbattle:loading/title/part2.png",
+            "file": "lem.base:loading/title/part2.png",
             "ascent": 7,
             "height": 40,
             "chars": [
@@ -27,7 +27,7 @@
         },
         {
             "type": "bitmap",
-            "file": "4jbattle:loading/title/part3.png",
+            "file": "lem.base:loading/title/part3.png",
             "ascent": 7,
             "height": 40,
             "chars": [
@@ -36,7 +36,7 @@
         },
         {
             "type": "bitmap",
-            "file": "4jbattle:loading/title/part4.png",
+            "file": "lem.base:loading/title/part4.png",
             "ascent": 7,
             "height": 40,
             "chars": [
