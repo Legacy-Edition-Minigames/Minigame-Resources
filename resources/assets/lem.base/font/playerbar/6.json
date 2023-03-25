@@ -1,0 +1,47 @@
+{
+    "providers": [
+        {
+            "type": "ttf",
+            "file": "lem.base:negative_spaces.ttf",
+            "shift": [0.0, 0.0],
+            "size": 10.0,
+            "oversample": 1.0
+        },
+        {
+            "type": "bitmap",
+            "file": "lem.base:playerbar/empty.png",
+            "ascent": -36,
+            "height": 5,
+            "chars": [
+                "0"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "lem.base:playerbar/dead.png",
+            "ascent": -36,
+            "height": 5,
+            "chars": [
+                "1"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "lem.base:playerbar/transparent/orange.png",
+            "ascent": -36,
+            "height": 5,
+            "chars": [
+                "2"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "lem.base:playerbar/orange.png",
+            "ascent": -36,
+            "height": 5,
+            "chars": [
+                "3"
+            ]
+        }
+    ]
+}
