@@ -1,0 +1,209 @@
+{
+    "providers": [
+        {
+            "type": "ttf",
+            "file": "lem.base:negative_spaces.ttf",
+            "shift": [0.0, 0.0],
+            "size": 10.0,
+            "oversample": 1.0
+        },
+        {
+            "type": "bitmap",
+            "file": "lem.base:loading/mapname/battle.png",
+            "ascent": -2,
+            "height": 4,
+            "chars": [
+                "\uF900"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "lem.base:loading/mapname/crucible.png",
+            "ascent": -2,
+            "height": 4,
+            "chars": [
+                "\uF901"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "lem.base:loading/mapname/cove.png",
+            "ascent": -2,
+            "height": 4,
+            "chars": [
+                "\uF902"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "lem.base:loading/mapname/cavern.png",
+            "ascent": -2,
+            "height": 4,
+            "chars": [
+                "\uF903"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "lem.base:loading/mapname/lair.png",
+            "ascent": -2,
+            "height": 4,
+            "chars": [
+                "\uF904"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "lem.base:loading/mapname/medusa.png",
+            "ascent": -2,
+            "height": 4,
+            "chars": [
+                "\uF905"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "lem.base:loading/mapname/temple.png",
+            "ascent": -2,
+            "height": 4,
+            "chars": [
+                "\uF906"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "lem.base:loading/mapname/atlantis.png",
+            "ascent": -2,
+            "height": 4,
+            "chars": [
+                "\uF907"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "lem.base:loading/mapname/ruin.png",
+            "ascent": -2,
+            "height": 4,
+            "chars": [
+                "\uF908"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "lem.base:loading/mapname/siege.png",
+            "ascent": -2,
+            "height": 4,
+            "chars": [
+                "\uF909"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "lem.base:loading/mapname/castle.png",
+            "ascent": -2,
+            "height": 4,
+            "chars": [
+                "\uF910"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "lem.base:loading/mapname/invasion.png",
+            "ascent": -2,
+            "height": 4,
+            "chars": [
+                "\uF911"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "lem.base:loading/mapname/shipyard.png",
+            "ascent": -2,
+            "height": 4,
+            "chars": [
+                "\uF912"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "lem.base:loading/mapname/frontier.png",
+            "ascent": -2,
+            "height": 4,
+            "chars": [
+                "\uF913"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "lem.base:loading/mapname/dig.png",
+            "ascent": -2,
+            "height": 4,
+            "chars": [
+                "\uF914"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "lem.base:loading/mapname/shrunk.png",
+            "ascent": -2,
+            "height": 4,
+            "chars": [
+                "\uF915"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "lem.base:loading/mapname/valley.png",
+            "ascent": -2,
+            "height": 4,
+            "chars": [
+                "\uF916"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "lem.base:loading/mapname/halloween.png",
+            "ascent": -2,
+            "height": 4,
+            "chars": [
+                "\uF917"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "lem.base:loading/mapname/festive.png",
+            "ascent": -2,
+            "height": 4,
+            "chars": [
+                "\uF918"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "lem.base:loading/mapname/atomics.png",
+            "ascent": -2,
+            "height": 4,
+            "chars": [
+                "\uF919"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "lem.base:loading/mapname/libertalia.png",
+            "ascent": -2,
+            "height": 4,
+            "chars": [
+                "\uF920"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "lem.base:loading/mapname/capitol.png",
+            "ascent": -2,
+            "height": 4,
+            "chars": [
+                "\uF921"
+            ]
+        }
+    ]
+}

@@ -1,0 +1,29 @@
+{
+    "providers": [
+        {
+            "type": "ttf",
+            "file": "lem.base:negative_spaces.ttf",
+            "shift": [0.0, 0.0],
+            "size": 10.0,
+            "oversample": 1.0
+        },
+        {
+            "type": "bitmap",
+            "file": "lem.base:tablist/hearts/patreon/large_dead.png",
+            "ascent": 8,
+            "height": 9,
+            "chars": [
+                "0"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "lem.base:tablist/hearts/patreon/largeplus.png",
+            "ascent": 8,
+            "height": 9,
+            "chars": [
+                "1"
+            ]
+        }
+    ]
+}
