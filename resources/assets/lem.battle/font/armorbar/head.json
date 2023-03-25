@@ -1,0 +1,83 @@
+{
+    "providers": [
+        {
+            "type": "ttf",
+            "file": "lem.base:negative_spaces.ttf",
+            "shift": [0.0, 0.0],
+            "size": 10.0,
+            "oversample": 1.0
+        },
+        {
+            "type": "bitmap",
+            "file": "lem.battle:armorbar/empty/head.png",
+            "ascent": 15,
+            "height": 15,
+            "chars": [
+                "0"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "lem.battle:armorbar/leather/head.png",
+            "ascent": 15,
+            "height": 15,
+            "chars": [
+                "1"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "lem.battle:armorbar/gold/head.png",
+            "ascent": 15,
+            "height": 15,
+            "chars": [
+                "2"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "lem.battle:armorbar/chain/head.png",
+            "ascent": 15,
+            "height": 15,
+            "chars": [
+                "3"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "lem.battle:armorbar/iron/head.png",
+            "ascent": 15,
+            "height": 15,
+            "chars": [
+                "4"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "lem.battle:armorbar/diamond/head.png",
+            "ascent": 15,
+            "height": 15,
+            "chars": [
+                "5"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "lem.battle:armorbar/netherite/head.png",
+            "ascent": 15,
+            "height": 15,
+            "chars": [
+                "6"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "lem.battle:armorbar/turtle/head.png",
+            "ascent": 15,
+            "height": 15,
+            "chars": [
+                "7"
+            ]
+        }
+    ]
+}

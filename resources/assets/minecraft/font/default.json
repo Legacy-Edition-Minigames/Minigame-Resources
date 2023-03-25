@@ -2,35 +2,35 @@
     "providers": [
         {
             "type": "ttf",
-            "file": "4jbattle:negative_spaces.ttf",
+            "file": "lem.base:negative_spaces.ttf",
             "shift": [0.0, 0.0],
             "size": 10.0,
             "oversample": 1.0
         },
 	    {
             "type": "bitmap",
-            "file": "minecraft:4jbattle/logo/part1.png",
+            "file": "minecraft:lem.battle/logo/part1.png",
             "ascent": 28,
             "height": 43,
             "chars": ["\uE782"]
         },
         {
             "type": "bitmap",
-            "file": "minecraft:4jbattle/logo/part2.png",
+            "file": "minecraft:lem.battle/logo/part2.png",
             "ascent": 28,
             "height": 43,
             "chars": ["\uE783"]
         },
         {
             "type": "bitmap",
-            "file": "minecraft:4jbattle/logo/part3.png",
+            "file": "minecraft:lem.battle/logo/part3.png",
             "ascent": 28,
             "height": 43,
             "chars": ["\uE784"]
         },
         {
             "type": "bitmap",
-            "file": "minecraft:4jbattle/logo/part4.png",
+            "file": "minecraft:lem.battle/logo/part4.png",
             "ascent": 28,
             "height": 43,
             "chars": ["\uE785"]
