@@ -9,4 +9,4 @@ If you want to get the resource pack, go to the [Releases Page](https://github.c
 
 ## Authors
 
-See [LEM's](https://github.com/DBTDerpbox/Legacy-Edition-Battle#credits) credits section
+See [LEM's](https://github.com/Legacy-Edition-Minigames/Minigames#credits) credits section

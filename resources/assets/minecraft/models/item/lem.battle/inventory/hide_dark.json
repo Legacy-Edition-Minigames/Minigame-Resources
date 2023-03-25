@@ -1,0 +1,11 @@
+{
+  "parent": "item/generated",
+	"display": {
+		"gui": {
+			"scale": [1.12, 1.12, 1]
+		}
+	},
+  "textures": {
+    "layer0": "lem.battle/inventory/hide_dark"
+  }
+}
