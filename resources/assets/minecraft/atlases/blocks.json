@@ -2,8 +2,8 @@
     "sources": [
         {
             "type": "directory",
-            "source": "4jbattle",
-            "prefix": "4jbattle/"
+            "source": "lem.battle",
+            "prefix": "lem.battle/"
         }
     ]
 }
