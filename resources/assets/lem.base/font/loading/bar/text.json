@@ -1,0 +1,29 @@
+{
+    "providers": [
+        {
+            "type": "ttf",
+            "file": "lem.base:negative_spaces.ttf",
+            "shift": [0.0, 0.0],
+            "size": 10.0,
+            "oversample": 1.0
+        },
+        {
+            "type": "bitmap",
+            "file": "lem.base:loading/bar/text/terrain.png",
+            "ascent": 3,
+            "height": 7,
+            "chars": [
+                "\uF901"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "lem.base:loading/bar/text/resource.png",
+            "ascent": 3,
+            "height": 7,
+            "chars": [
+                "\uF902"
+            ]
+        }
+    ]
+}
