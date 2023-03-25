@@ -1,0 +1,92 @@
+{
+    "providers": [
+        {
+            "type": "ttf",
+            "file": "lem.base:negative_spaces.ttf",
+            "shift": [0.0, 0.0],
+            "size": 10.0,
+            "oversample": 1.0
+        },
+        {
+            "type": "bitmap",
+            "file": "lem.base:playerbar/white.png",
+            "ascent": -36,
+            "height": 5,
+            "chars": [
+                "1"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "lem.base:playerbar/green.png",
+            "ascent": -36,
+            "height": 5,
+            "chars": [
+                "2"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "lem.base:playerbar/red.png",
+            "ascent": -36,
+            "height": 5,
+            "chars": [
+                "3"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "lem.base:playerbar/blue.png",
+            "ascent": -36,
+            "height": 5,
+            "chars": [
+                "4"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "lem.base:playerbar/pink.png",
+            "ascent": -36,
+            "height": 5,
+            "chars": [
+                "5"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "lem.base:playerbar/orange.png",
+            "ascent": -36,
+            "height": 5,
+            "chars": [
+                "6"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "lem.base:playerbar/yellow.png",
+            "ascent": -36,
+            "height": 5,
+            "chars": [
+                "7"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "lem.base:playerbar/aqua.png",
+            "ascent": -36,
+            "height": 5,
+            "chars": [
+                "8"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "lem.base:playerbar/empty.png",
+            "ascent": -36,
+            "height": 5,
+            "chars": [
+                "0"
+            ]
+        }
+    ]
+}
