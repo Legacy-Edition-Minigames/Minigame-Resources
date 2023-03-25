@@ -35,8 +35,6 @@ int bitmap[64] = int[](
     2, 2, 1, 7, 8, 9, 9, 9
 );
 
-
-
 void main() {
     vec4 color = vertexColor;
     if (color.a == 0.0) {
@@ -61,7 +59,12 @@ void main() {
         col.rgb -= max(1 - length((pos - res / 2.0) / res) * 2, 0) / 10;
 
         ivec2 corner = min(pos, res - pos);
-
+        if (res.x > 1000)
+        {
+            discard;
+        }
+        else
+        {
         if (corner.x < 8 && corner.y < 8)
         {
             int bit = bitmap[corner.y * 8 + corner.x];
@@ -86,6 +89,7 @@ void main() {
             col = colors[7];
         else if (corner.y == 4)
             col = colors[8];
+        }
 
         fragColor = col;
         
