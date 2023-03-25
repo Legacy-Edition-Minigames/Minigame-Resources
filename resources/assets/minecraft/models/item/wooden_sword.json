@@ -5,6 +5,6 @@
   },
 
   "overrides": [
-    {"predicate": {"custom_model_data":1}, "model": "item/4jbattle/combat/block/wooden_sword"}
+    {"predicate": {"custom_model_data":1}, "model": "item/lem.battle/combat/block/wooden_sword"}
   ]
 }
