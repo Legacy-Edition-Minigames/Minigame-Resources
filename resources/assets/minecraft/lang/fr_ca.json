@@ -90,7 +90,6 @@
   "lem.resource.reloadresource.customenabled.warning": "Tu ne peut pas recharger les textures quand un pack personalisé est utilisé!",
   "lem.resource.reloadresource.customenabled.hint": "Pour désactiver les packs personalisé, écrit %s.",
   "lem.resource.reloadresource.customenabled.hover": "Clique ici pour désactiver les packs personalisé",
-  "lem.game.specjoin": "%s a rejoin la partie comme joueur en jeu!",
   "lem.game.nowspectating": "Tu est maintenant un spectateur",
   "lem.game.draw": "ÉGALITÉ!",
   "lem.game.win": "%s a gagné!",
@@ -278,8 +277,12 @@
   "lem.relog.join.discord": "Rejoint la communauté LEM, demande de l'aide, trouve des groupes avec lesquels jouer et soit informé des avancées des dévelopeurs!",
   "lem.relog.join.discord.hover": "Clique pour ouvrir",
   "lem.relog.join.patreon": "Pensez a supporter le serveur : %s",
+  "lem.generic.join.alive": "%s a rejoin la partie comme joueur en jeu!",
   "lem.generic.goback": "Retour",
   "lem.generic.options": "Paramètres",
   "menu.game": "\uE782\uF801\uE783\uF801\uE784\uF801\uE785",
-  "menu.paused": "\uE782\uF801\uE783\uF801\uE784\uF801\uE785"
+  "menu.paused": "\uE782\uF801\uE783\uF801\uE784\uF801\uE785",
+  "multiplayer.player.joined": "%s connected to the game",
+  "multiplayer.player.joined.renamed": "%s (formerly known as %s) connected to the game",
+  "multiplayer.player.left": "%s disconnected from the game"
 }

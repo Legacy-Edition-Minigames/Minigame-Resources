@@ -92,7 +92,6 @@
   "lem.resource.reloadresource.customenabled.warning": "Você não pode recarregar os recursos com um pacote personalizado ativado!",
   "lem.resource.reloadresource.customenabled.hint": "Para desativar pacotes personalizados, digite %s.",
   "lem.resource.reloadresource.customenabled.hover": "Clique para desativar o pacote personalizado",
-  "lem.game.specjoin": "%s entrou na partida como um jogador vivo!",
   "lem.game.nowspectating": "Você está assistindo",
   "lem.game.draw": "EMPATE!",
   "lem.game.win": "%s venceu!",
@@ -300,6 +299,7 @@
   "lem.relog.join.discord.hover": "Clique para entrar no servidor",
   "lem.relog.join.patreon": "Considere apoiar o servidor no %s",
   "lem.relog.join.forge": "Você entrou usando o Forge, devido a problemas que estão fora de nosso controle, alguns recursos podem estar indisponíveis. Mantenha o mouse encima dessa mensagem para ver os recursos indisponíveis",
+  "lem.generic.join.alive": "%s entrou na partida como um jogador vivo!",
   "lem.generic.goback": "Voltar",
   "lem.generic.options": "Opções",
   "lem.generic.warning": "Aviso",
@@ -314,5 +314,8 @@
   "lem.ui.banner.9": "\uF059",
   "menu.game": "\uE782\uF801\uE783\uF801\uE784\uF801\uE785",
   "menu.paused": "\uE782\uF801\uE783\uF801\uE784\uF801\uE785",
-  "soundCategory.music": "Musica do minijogo"
+  "soundCategory.music": "Musica do minijogo",
+  "multiplayer.player.joined": "%s connected to the game",
+  "multiplayer.player.joined.renamed": "%s (formerly known as %s) connected to the game",
+  "multiplayer.player.left": "%s disconnected from the game"
 }

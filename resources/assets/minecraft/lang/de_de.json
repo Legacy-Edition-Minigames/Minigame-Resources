@@ -92,7 +92,6 @@
     "lem.resource.reloadresource.customenabled.warning": "Du kannst Ressourcen nicht neu laden, wenn du ein benutzerdefiniertes Paket aktiviert hast!",
     "lem.resource.reloadresource.customenabled.hint": "Um benutzerdefinierte Pakete zu deaktivieren, tippe %s ein.",
     "lem.resource.reloadresource.customenabled.hover": "Klicke, um das benutzerdefinierte Paket zu deaktivieren",
-    "lem.game.specjoin": "%s ist dem Spiel als lebendiger Spieler beigetreten!",
     "lem.game.nowspectating": "Du bist jetzt Zuschauer",
     "lem.game.draw": "UNENT!",
     "lem.game.win": "%s gewinnt!",
@@ -301,6 +300,7 @@
     "lem.relog.join.discord.hover": "Klicke, um zu öffnen",
     "lem.relog.join.patreon": "Du kannst den Server auch gerne auf %s unterstützen",
     "lem.relog.join.forge": "Du bist mit Forge beigetreten, aufgrund von Problemen mit Forge, die außerhalb unserer Kontrolle liegen, sind einige Funktionen möglicherweise nicht verfügbar. Bewegen Sie den Mauszeiger über diese Nachricht, um fehlende Funktionen anzuzeigen.",
+    "lem.generic.join.alive": "%s ist dem Spiel als lebendiger Spieler beigetreten!",
     "lem.generic.goback": "Zurück",
     "lem.generic.options": "Optionen",
     "lem.generic.warning": "Warnung",
@@ -315,5 +315,8 @@
     "lem.ui.banner.9": "\uF019",
     "menu.game": "\uE782\uF801\uE783\uF801\uE784\uF801\uE785",
     "menu.paused": "\uE782\uF801\uE783\uF801\uE784\uF801\uE785",
-    "soundCategory.music": "Minigame Musik"
+    "soundCategory.music": "Minigame Musik",
+    "multiplayer.player.joined": "%s connected to the game",
+    "multiplayer.player.joined.renamed": "%s (formerly known as %s) connected to the game",
+    "multiplayer.player.left": "%s disconnected from the game"
 }

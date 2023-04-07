@@ -92,7 +92,6 @@
   "lem.resource.reloadresource.customenabled.warning": "Nie możesz ponownie załadować zasobów, jeżeli posiadasz włączone Niestandardowe Paczki Zasobów!", 
   "lem.resource.reloadresource.customenabled.hint": "Aby wyłączyć Niestandardowe Paczki Zasobów wpisz komendę %s.", 
   "lem.resource.reloadresource.customenabled.hover": "Kliknij, aby wyłączyć Niestandardowe Paczki Zasobów", 
-  "lem.game.specjoin": "%s dołącza do gry", 
   "lem.game.nowspectating": "Jesteś obserwatorem", 
   "lem.game.draw": "REMIS!", 
   "lem.game.win": "Gracz %s wygrywa!", 
@@ -299,9 +298,13 @@
   "lem.relog.join.discord.hover": "Kliknij aby otworzyć", 
   "lem.relog.join.patreon": "Proszę rozważyć wsparcie serwera na %s",
   "lem.relog.join.forge": "Zalogowano się używając Forge, przez problemy spowodowane przez Forge które są spoza naszej kontroli, niektóre funkcje mogą być niedostępne. Najedź kursorem na tę wiadomość, aby zobaczyć listę niedostępnych funkcji",
+  "lem.generic.join.alive": "%s dołącza do gry",
   "lem.generic.warning": "Uwaga", 
   "lem.generic.goback": "Cofnij", 
   "lem.generic.options": "Opcje", 
   "menu.game": "\uE782\uF801\uE783\uF801\uE784\uF801\uE785", 
-  "menu.paused": "\uE782\uF801\uE783\uF801\uE784\uF801\uE785"
+  "menu.paused": "\uE782\uF801\uE783\uF801\uE784\uF801\uE785",
+  "multiplayer.player.joined": "%s connected to the game",
+  "multiplayer.player.joined.renamed": "%s (formerly known as %s) connected to the game",
+  "multiplayer.player.left": "%s disconnected from the game"
 }

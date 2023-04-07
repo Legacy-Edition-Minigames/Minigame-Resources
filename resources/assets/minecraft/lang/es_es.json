@@ -90,7 +90,6 @@
   "lem.resource.reloadresource.customenabled.warning": "¡No puedes recargar los recursos cuando tienes activado el paquete de recursos personalizado!",
   "lem.resource.reloadresource.customenabled.hint": "Para desactivar los paquetes de recursos personalizados, escriba %s.",
   "lem.resource.reloadresource.customenabled.hover": "Haz click para desactivar los paquetes de recursos personalizados",
-  "lem.game.specjoin": "¡%s se ha unido a la partida como un jugador vivo!",
   "lem.game.nowspectating": "Ahora estas observando",
   "lem.game.draw": "¡EMPATE!",
   "lem.game.win": "¡Ha ganado %s!",
@@ -278,6 +277,7 @@
   "lem.relog.join.discord": "¡Unete a nuestro servidor comunitario para hablar sobre el minijuego de Batalla de la Edición del Legado (LEM), pedir ayuda, encontrar grupos con los que jugar y ver actualizaciones del desarrollo! (Nota: El idioma predeterminado del servidor es Inglés.)",
   "lem.relog.join.discord.hover": "Haz click para abrir",
   "lem.relog.join.patreon": "Por favor considera apoyar al servidor en %s",
+  "lem.generic.join.alive": "¡%s se ha unido a la partida como un jugador vivo!",
   "lem.generic.goback": "Volver",
   "lem.generic.options": "Ajustes",
   "lem.ui.banner.1": "\uF021",
@@ -290,5 +290,8 @@
   "lem.ui.banner.8": "\uF028",
   "lem.ui.banner.9": "\uF029",
   "menu.game": "\uE782\uF801\uE783\uF801\uE784\uF801\uE785",
-  "menu.paused": "\uE782\uF801\uE783\uF801\uE784\uF801\uE785"
+  "menu.paused": "\uE782\uF801\uE783\uF801\uE784\uF801\uE785",
+  "multiplayer.player.joined": "%s connected to the game",
+  "multiplayer.player.joined.renamed": "%s (formerly known as %s) connected to the game",
+  "multiplayer.player.left": "%s disconnected from the game"
 }

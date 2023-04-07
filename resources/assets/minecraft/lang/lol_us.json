@@ -92,7 +92,6 @@
   "lem.resource.reloadresource.customenabled.warning": "U can NOT relode resourcez wen u have a custumz packz enwabld!",
   "lem.resource.reloadresource.customenabled.hint": "To diswable custum packz, tipe %s.",
   "lem.resource.reloadresource.customenabled.hover": "Clik to diswable custumz packz",
-  "lem.game.specjoin": "%s has jiond teh gaem as a real personz!",
   "lem.game.nowspectating": "U are currently just watchings",
   "lem.game.draw": "BOTF WINZ!",
   "lem.game.win": "%s wonz!",
@@ -299,6 +298,7 @@
   "lem.relog.join.discord.hover": "Clik to opn",
   "lem.relog.join.patreon": "Pwease considr suportingz teh gaem on %s",
   "lem.relog.join.forge": "U havz loged on useing FORGE MINECWAFT, du to isus wit forge minecwaft tat r outsid of our controlle, some feturz may not b avalabl. Hovr abovz tis mesag to c misseing feturz",
+  "lem.generic.join.alive": "%s has jiond teh gaem as a real personz!",
   "lem.generic.goback": "Go Bak",
   "lem.generic.options": "Opshuns",
   "lem.generic.warning": "WARING!!",
@@ -312,5 +312,8 @@
   "lem.ui.banner.8": "\uF008",
   "lem.ui.banner.9": "\uF009",
   "menu.game": "\uE782\uF801\uE783\uF801\uE784\uF801\uE785",
-  "menu.paused": "\uE782\uF801\uE783\uF801\uE784\uF801\uE785"
+  "menu.paused": "\uE782\uF801\uE783\uF801\uE784\uF801\uE785",
+  "multiplayer.player.joined": "%s connected to the game",
+  "multiplayer.player.joined.renamed": "%s (formerly known as %s) connected to the game",
+  "multiplayer.player.left": "%s disconnected from the game"
 }
