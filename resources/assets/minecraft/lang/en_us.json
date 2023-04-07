@@ -297,7 +297,7 @@
   "lem.menu.patreon.notsupporter": "You must be a Patreon Supporter to use this menu!",
   "lem.menu.mods.goback": "Click to go back to custom map selection page.",
   "lem.menu.mods.page": "Page",
-  "lem.relog.join.discord": "Come join the Community Server to talk about LEB, ask for help, find groups to play with and see development updates!",
+  "lem.relog.join.discord": "Come join the Community Server to talk about LEM, ask for help, find groups to play with and see development updates!",
   "lem.relog.join.discord.hover": "Click to open",
   "lem.relog.join.patreon": "Please consider supporting the server on %s",
   "lem.relog.join.forge": "You have logged on using Forge, due to issues with forge that are outside of our control, some features may not be available. Hover above this message to see missing features",

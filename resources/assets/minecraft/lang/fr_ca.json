@@ -275,7 +275,7 @@
   "lem.menu.host.transfer.receive": "Tu est maintenant l'hôte de la partie!",
   "lem.menu.player.waiting": "L'hôte configure la partie...",
   "lem.menu.waiting": "Veuiller attendre %s",
-  "lem.relog.join.discord": "Rejoint la communauté LEB, demande de l'aide, trouve des groupes avec lesquels jouer et soit informé des avancées des dévelopeurs!",
+  "lem.relog.join.discord": "Rejoint la communauté LEM, demande de l'aide, trouve des groupes avec lesquels jouer et soit informé des avancées des dévelopeurs!",
   "lem.relog.join.discord.hover": "Clique pour ouvrir",
   "lem.relog.join.patreon": "Pensez a supporter le serveur : %s",
   "lem.generic.goback": "Retour",

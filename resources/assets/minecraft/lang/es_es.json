@@ -275,7 +275,7 @@
   "lem.menu.host.transfer.receive": "¡Ahora tienes privilegios de anfitrión!",
   "lem.menu.player.waiting": "Esperando al anfitrión para configurar la partida...",
   "lem.menu.waiting": "Por favor espere a %s",
-  "lem.relog.join.discord": "¡Unete a nuestro servidor comunitario para hablar sobre el minijuego de Batalla de la Edición del Legado (LEB), pedir ayuda, encontrar grupos con los que jugar y ver actualizaciones del desarrollo! (Nota: El idioma predeterminado del servidor es Inglés.)",
+  "lem.relog.join.discord": "¡Unete a nuestro servidor comunitario para hablar sobre el minijuego de Batalla de la Edición del Legado (LEM), pedir ayuda, encontrar grupos con los que jugar y ver actualizaciones del desarrollo! (Nota: El idioma predeterminado del servidor es Inglés.)",
   "lem.relog.join.discord.hover": "Haz click para abrir",
   "lem.relog.join.patreon": "Por favor considera apoyar al servidor en %s",
   "lem.generic.goback": "Volver",
