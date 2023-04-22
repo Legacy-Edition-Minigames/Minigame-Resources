@@ -257,12 +257,5 @@
       "lem.battle/sounds/game/refill1",
       "lem.battle/sounds/game/refill2"
     ]
-  },
-  "sound.game.die": {
-    "category": "master",
-    "sounds": [
-      "lem.battle/sounds/game/die1",
-      "lem.battle/sounds/game/die2"
-    ]
   }
 }
