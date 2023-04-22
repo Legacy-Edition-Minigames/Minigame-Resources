@@ -5,11 +5,9 @@
   },
 
   "overrides": [
-    {"predicate": {"custom_model_data":1}, "model": "item/lem.battle/build/chest"},
-    {"predicate": {"custom_model_data":2}, "model": "item/lem.battle/build/spawnpoint"},
-    {"predicate": {"custom_model_data":3}, "model": "item/lem.battle/build/remove"},
-    {"predicate": {"custom_model_data":4}, "model": "item/lem.battle/tntblock"},
-    {"predicate": {"custom_model_data":5}, "model": "item/lem.battle/fire_charge"},
+    {"predicate": {"custom_model_data":1}, "model": "item/lem.base/build/chest"},
+    {"predicate": {"custom_model_data":2}, "model": "item/lem.base/build/spawnpoint"},
+    {"predicate": {"custom_model_data":3}, "model": "item/lem.base/build/remove"},
     {"predicate": {"custom_model_data":6}, "model": "item/lem.battle/achievement/cupid"},
     {"predicate": {"custom_model_data":7}, "model": "item/lem.battle/achievement/hunger"},
     {"predicate": {"custom_model_data":8}, "model": "item/lem.battle/achievement/scratch"},
