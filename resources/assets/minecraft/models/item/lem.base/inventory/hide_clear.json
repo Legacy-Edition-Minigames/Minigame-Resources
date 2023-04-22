@@ -6,6 +6,6 @@
 		}
 	},
   "textures": {
-    "layer0": "lem.battle/inventory/hide_clear"
+    "layer0": "lem.base/inventory/hide_clear"
   }
 }
