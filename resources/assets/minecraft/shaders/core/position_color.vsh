@@ -22,7 +22,10 @@ void main() {
     gl_Position = ProjMat * ModelViewMat * vec4(Position, 1.0);
 
     Coords = vec4(-1);
-    position, Pos1, Pos2, flatCorner = vec2(-1);
+    position = vec2(-1);
+    Pos1 = vec2(-1);
+    Pos2 = vec2(-1);
+    flatCorner = vec2(-1);
 
     //Tooltip frame
     if (Color.r != 0 && Color.g == 0 && Color.b != 0 && ProjMat[3][0] == -1)
@@ -30,9 +33,9 @@ void main() {
         int id = gl_VertexID / 4;
 
         int vertID = (gl_VertexID) % 4;
-        const vec2[4] corners = vec2[4](vec2(0), vec2(0, 1), vec2(1, 1), vec2(1, 0));
+        const vec2[4] corners = vec2[4](vec2(0, 0), vec2(0, 1), vec2(1, 1), vec2(1, 0));
         vec2 ScrSize = 2 / vec2(ProjMat[0][0], -ProjMat[1][1]);
-        vec3 Pos = Position - vec3(corners[(vertID + 1) % 4] * 8 - 4, 0);
+        vec3 Pos = Position - vec3(corners[((gl_VertexID) ) % 4] * -10 - (-10 / 2.0), 0);
 
         Pos1 = Pos2 = vec2(0);
         if (vertID == 0) Pos1 = Pos.xy;
@@ -48,4 +51,3 @@ void main() {
         gl_Position = ProjMat * ModelViewMat * vec4(Pos, 1);
     }
 }
-
