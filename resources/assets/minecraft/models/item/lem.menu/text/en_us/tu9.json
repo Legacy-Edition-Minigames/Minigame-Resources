@@ -1,0 +1,6 @@
+{
+  "parent": "item/lem.menu/text/text",
+  "textures": {
+		"0": "lem.menu/text/en_us/tu9"
+  }
+}

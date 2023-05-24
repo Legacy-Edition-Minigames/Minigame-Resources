@@ -1,0 +1,56 @@
+{
+  "sound.menu.scroll": {
+    "category": "master",
+    "sounds": [
+      "lem.menu/sounds/scroll"
+    ]
+  },
+  "sound.menu.focus": {
+    "category": "master",
+    "sounds": [
+      "lem.menu/sounds/focus"
+    ]
+  },
+  "sound.menu.back": {
+    "category": "master",
+    "sounds": [
+      "lem.menu/sounds/back"
+    ]
+  },
+  "sound.menu.press": {
+    "category": "master",
+    "sounds": [
+      "random/click_stereo"
+    ]
+  },
+  "sound.menu.fail": {
+    "category": "master",
+    "sounds": [
+      "lem.menu/sounds/fail"
+    ]
+  },
+  "music.menu.1": {
+    "category": "master",
+    "sounds": [
+      "lem.menu/music/menu1"
+    ]
+  },
+  "music.menu.2": {
+    "category": "master",
+    "sounds": [
+      "lem.menu/music/menu2"
+    ]
+  },
+  "music.menu.3": {
+    "category": "master",
+    "sounds": [
+      "lem.menu/music/menu3"
+    ]
+  },
+  "music.menu.4": {
+    "category": "master",
+    "sounds": [
+      "lem.menu/music/menu4"
+    ]
+  }
+}

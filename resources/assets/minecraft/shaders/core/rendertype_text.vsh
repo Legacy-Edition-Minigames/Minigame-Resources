@@ -28,7 +28,9 @@ void main() {
 
     //0.03/0 for /title text, bossbar name, world/server selection name/description text, resourcepack selection "Available" and "Selected" text.
     //100.03/100 for Chat display, Recipe book search text
-    if (Color == vec4(62/255., 62/255., 62/255., Color.a) && (Position.z == 0 || Position.z == 100)) {
+    if (Color == vec4(250/255., 250/255., 250/255., Color.a) && (Position.z == 0.03 || Position.z == 100.03)) {
+        vertexColor = texelFetch(Sampler2, UV2 / 16, 0); // remove color from no shadow marker
+    } else if (Color == vec4(62/255., 62/255., 62/255., Color.a) && (Position.z == 0 || Position.z == 100)) {
         vertexColor = vec4(0); // remove shadow
     }
 }
