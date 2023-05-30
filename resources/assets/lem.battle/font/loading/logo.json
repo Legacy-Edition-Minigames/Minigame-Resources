@@ -9,36 +9,36 @@
         },
         {
             "type": "bitmap",
-            "file": "lem.base:loading/logo/part1.png",
-            "ascent": 7,
-            "height": 40,
+            "file": "lem.battle:loading/logo/part1.png",
+            "ascent": 25,
+            "height": 45,
             "chars": [
                 "1"
             ]
         },
         {
             "type": "bitmap",
-            "file": "lem.base:loading/logo/part2.png",
-            "ascent": 7,
-            "height": 40,
+            "file": "lem.battle:loading/logo/part2.png",
+            "ascent": 25,
+            "height": 45,
             "chars": [
                 "2"
             ]
         },
         {
             "type": "bitmap",
-            "file": "lem.base:loading/logo/part3.png",
-            "ascent": 7,
-            "height": 40,
+            "file": "lem.battle:loading/logo/part3.png",
+            "ascent": 25,
+            "height": 45,
             "chars": [
                 "3"
             ]
         },
         {
             "type": "bitmap",
-            "file": "lem.base:loading/logo/part4.png",
-            "ascent": 7,
-            "height": 40,
+            "file": "lem.battle:loading/logo/part4.png",
+            "ascent": 25,
+            "height": 45,
             "chars": [
                 "4"
             ]
