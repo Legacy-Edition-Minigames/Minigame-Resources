@@ -1,7 +1,7 @@
-# LEB Resources
-Resources for Legacy Edition Battle
+# LEM Resources
+Resources for Legacy Edition Minigames
 
-![Minecraft Version](https://img.shields.io/badge/Minecraft-1.17--1.19-80ba42?style=for-the-badge) ![License](https://img.shields.io/github/license/DBTDerpbox/LEB-resources?style=for-the-badge) ![Last Commit](https://img.shields.io/github/last-commit/dbtderpbox/LEB-resources?style=for-the-badge)
+![Minecraft Version](https://img.shields.io/badge/Minecraft-1.19.4-80ba42?style=for-the-badge) ![License](https://img.shields.io/github/license/DBTDerpbox/LEB-resources?style=for-the-badge) ![Last Commit](https://img.shields.io/github/last-commit/dbtderpbox/LEB-resources?style=for-the-badge)
 
 Greek Mythology pack ported by [Ultmate_Mario](https://ultmatemario.wixsite.com/ultmatemario)
 
