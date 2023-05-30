@@ -1,0 +1,47 @@
+{
+    "providers": [
+        {
+            "type": "ttf",
+            "file": "lem.base:negative_spaces.ttf",
+            "shift": [0.0, 0.0],
+            "size": 10.0,
+            "oversample": 1.0
+        },
+        {
+            "type": "bitmap",
+            "file": "lem.base:loading/logo/part1.png",
+            "ascent": 25,
+            "height": 45,
+            "chars": [
+                "1"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "lem.base:loading/logo/part2.png",
+            "ascent": 25,
+            "height": 45,
+            "chars": [
+                "2"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "lem.base:loading/logo/part3.png",
+            "ascent": 25,
+            "height": 45,
+            "chars": [
+                "3"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "lem.base:loading/logo/part4.png",
+            "ascent": 25,
+            "height": 45,
+            "chars": [
+                "4"
+            ]
+        }
+    ]
+}
