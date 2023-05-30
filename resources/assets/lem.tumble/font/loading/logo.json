@@ -9,7 +9,7 @@
         },
         {
             "type": "bitmap",
-            "file": "lem.base:loading/title/part1.png",
+            "file": "lem.tumble:loading/logo/part1.png",
             "ascent": 25,
             "height": 45,
             "chars": [
@@ -18,7 +18,7 @@
         },
         {
             "type": "bitmap",
-            "file": "lem.base:loading/title/part2.png",
+            "file": "lem.tumble:loading/logo/part2.png",
             "ascent": 25,
             "height": 45,
             "chars": [
@@ -27,7 +27,7 @@
         },
         {
             "type": "bitmap",
-            "file": "lem.base:loading/title/part3.png",
+            "file": "lem.tumble:loading/logo/part3.png",
             "ascent": 25,
             "height": 45,
             "chars": [
@@ -36,7 +36,7 @@
         },
         {
             "type": "bitmap",
-            "file": "lem.base:loading/title/part4.png",
+            "file": "lem.tumble:loading/logo/part4.png",
             "ascent": 25,
             "height": 45,
             "chars": [
