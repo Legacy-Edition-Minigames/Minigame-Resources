@@ -64,6 +64,7 @@
     {"predicate": {"custom_model_data":10047}, "model": "item/lem.menu/text/en_us/tu69"},
     {"predicate": {"custom_model_data":10048}, "model": "item/lem.menu/text/en_us/reload_music"},
     {"predicate": {"custom_model_data":10049}, "model": "item/lem.menu/text/en_us/continue"},
-    {"predicate": {"custom_model_data":10050}, "model": "item/lem.menu/text/en_us/server_main"}
+    {"predicate": {"custom_model_data":10050}, "model": "item/lem.menu/text/en_us/server_main"},
+    {"predicate": {"custom_model_data":10051}, "model": "item/lem.menu/text/en_us/server_main_alternate"}
   ]
 }
