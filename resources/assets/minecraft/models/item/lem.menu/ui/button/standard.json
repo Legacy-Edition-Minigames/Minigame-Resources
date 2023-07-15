@@ -4,7 +4,7 @@
 	"texture_size": [156, 20],
 	"textures": {
 		"0": "lem.menu/theme/vanilla/button/standard",
-		"icon": "lem.menu/empty",
+		"icon": "lem.base/empty",
 		"particle": "lem.menu/theme/vanilla/button/standard"
 	},
 	"elements": [

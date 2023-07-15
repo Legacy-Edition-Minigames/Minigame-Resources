@@ -5,7 +5,7 @@
   },
 
   "overrides": [
-    {"predicate": {"custom_model_data":0}, "model": "item/lem.menu/empty"},
+    {"predicate": {"custom_model_data":0}, "model": "item/lem.base/empty"},
     {"predicate": {"custom_model_data":1000}, "model": "item/lem.menu/theme/vanilla/button/standard"},
     {"predicate": {"custom_model_data":1001}, "model": "item/lem.menu/theme/vanilla/button/single"},
     {"predicate": {"custom_model_data":1002}, "model": "item/lem.menu/theme/vanilla/button/icon/leavegame"},

@@ -4,7 +4,7 @@
 	"texture_size": [156, 20],
 	"textures": {
 		"0": "lem.menu/theme/vanilla/button/single",
-		"1": "lem.menu/empty",
+		"1": "lem.base/empty",
 		"particle": "lem.menu/theme/vanilla/button/single"
 	},
 	"elements": [

@@ -1,6 +1,6 @@
 {
   "parent": "item/generated",
   "textures": {
-    "layer0": "lem.menu/empty"
+    "layer0": "lem.base/empty"
   }
 }
