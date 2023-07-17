@@ -1,11 +1,9 @@
 # LEM Resources
-Resources for Legacy Edition Minigames
+Assets for Legacy Edition Minigames
 
-![Minecraft Version](https://img.shields.io/badge/Minecraft-1.19.4-80ba42?style=for-the-badge) ![License](https://img.shields.io/github/license/DBTDerpbox/LEB-resources?style=for-the-badge) ![Last Commit](https://img.shields.io/github/last-commit/dbtderpbox/LEB-resources?style=for-the-badge)
+![Minecraft Version](https://img.shields.io/badge/Minecraft-1.19.4-80ba42?style=for-the-badge) ![License](https://img.shields.io/github/license/Legacy-Edition-Minigames/Minigame-Resources?style=for-the-badge) ![Last Commit](https://img.shields.io/github/last-commit/Legacy-Edition-Minigames/Minigame-Resources?style=for-the-badge)
 
-Steampunk pack ported by [Ultmate_Mario](https://ultmatemario.wixsite.com/ultmatemario)
-
-If you want to get the resource pack, go to the [Releases Page](https://github.com/DBTDerpbox/Legacy-Edition-Battle/releases).
+If you want to get the resource pack, go to the [Releases Page](https://github.com/Legacy-Edition-Minigames/Minigame-Resources/releases).
 
 ## Authors
 
