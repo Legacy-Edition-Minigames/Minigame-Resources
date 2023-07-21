@@ -1,0 +1,47 @@
+{
+    "providers": [
+        {
+            "type": "ttf",
+            "file": "lem.base:negative_spaces.ttf",
+            "shift": [0.0, 0.0],
+            "size": 10.0,
+            "oversample": 1.0
+        },
+        {
+            "type": "bitmap",
+            "file": "lem.base:panorama/5/night/1.png",
+            "ascent": 15,
+            "height": 275,
+            "chars": [
+                "1"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "lem.base:panorama/5/night/2.png",
+            "ascent": 15,
+            "height": 275,
+            "chars": [
+                "2"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "lem.base:panorama/5/night/3.png",
+            "ascent": 15,
+            "height": 275,
+            "chars": [
+                "3"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "lem.base:panorama/5/night/4.png",
+            "ascent": 15,
+            "height": 275,
+            "chars": [
+                "4"
+            ]
+        }
+    ]
+}
