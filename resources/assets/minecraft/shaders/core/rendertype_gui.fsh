@@ -9,6 +9,7 @@ in vec4 Coords;
 in vec2 position;
 
 uniform vec4 ColorModulator;
+uniform mat4 ProjMat;
 
 out vec4 fragColor;
 
@@ -45,6 +46,10 @@ void main() {
 
     fragColor = color * ColorModulator;
 
+     if (ProjMat[3][0] == -1.0 && color.g*255.0 == 16.0 && color.b*255.0 == 16.0 && color.r*255.0 == 16.0){
+        discard;
+    }
+
     if (flatCorner != vec2(-1))
     {
         //Actual Pos
@@ -60,6 +65,11 @@ void main() {
         vec4 col = vec4(46, 63, 71, 210) / 255.0;
         ivec2 corner = min(pos, res - pos);
 
+        if (res.x > 1000)
+        {
+            discard;
+        }
+        else
         if (corner.x < 8 && corner.y < 8)
         {
             int bit = bitmap[corner.y * 8 + corner.x];
