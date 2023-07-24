@@ -2,13 +2,13 @@
 	"credit": "Made with Blockbench",
 	"texture_size": [64, 64],
 	"textures": {
-		"0": "lem.base/build/spawnpoint/alex"
+		"0": "lem.base/build/spawnpoint/alex/default"
 	},
 	"elements": [
 		{
 			"name": "Head",
-			"from": [4, 24, 4],
-			"to": [12, 32, 12],
+			"from": [4, 23, 4],
+			"to": [12, 31, 12],
 			"rotation": {"angle": 0, "axis": "y", "origin": [8, 0, 8]},
 			"faces": {
 				"north": {"uv": [2, 2, 4, 4], "texture": "#0"},
@@ -21,8 +21,8 @@
 		},
 		{
 			"name": "Hat Layer",
-			"from": [3.5, 23, 3.5],
-			"to": [12.5, 32, 12.5],
+			"from": [3.5, 22.5, 3.5],
+			"to": [12.5, 31.5, 12.5],
 			"rotation": {"angle": 0, "axis": "y", "origin": [8, 0, 8]},
 			"faces": {
 				"north": {"uv": [10, 2, 12, 4], "texture": "#0"},
@@ -35,8 +35,8 @@
 		},
 		{
 			"name": "Body",
-			"from": [4, 12, 6],
-			"to": [12, 24, 10],
+			"from": [4, 11, 6],
+			"to": [12, 23, 10],
 			"rotation": {"angle": 0, "axis": "y", "origin": [8, 0, 8]},
 			"faces": {
 				"north": {"uv": [5, 5, 7, 8], "texture": "#0"},
@@ -49,8 +49,8 @@
 		},
 		{
 			"name": "Body Layer",
-			"from": [3.75, 11.75, 5.75],
-			"to": [12.25, 24.25, 10.25],
+			"from": [3.75, 10.75, 5.75],
+			"to": [12.25, 23.25, 10.25],
 			"rotation": {"angle": 0, "axis": "y", "origin": [8, 0, 8]},
 			"faces": {
 				"north": {"uv": [5, 9, 7, 12], "texture": "#0"},
@@ -63,8 +63,8 @@
 		},
 		{
 			"name": "Right Arm",
-			"from": [12, 12, 6],
-			"to": [15, 24, 10],
+			"from": [12, 11, 6],
+			"to": [15, 23, 10],
 			"rotation": {"angle": 0, "axis": "y", "origin": [8, 0, 8]},
 			"faces": {
 				"north": {"uv": [11, 5, 11.75, 8], "texture": "#0"},
@@ -77,8 +77,8 @@
 		},
 		{
 			"name": "Right Arm Layer",
-			"from": [11.75, 11.75, 5.75],
-			"to": [15.25, 24.25, 10.25],
+			"from": [11.75, 10.75, 5.75],
+			"to": [15.25, 23.25, 10.25],
 			"rotation": {"angle": 0, "axis": "y", "origin": [8, 0, 8]},
 			"faces": {
 				"north": {"uv": [11, 9, 11.75, 12], "texture": "#0"},
@@ -91,8 +91,8 @@
 		},
 		{
 			"name": "Left Arm",
-			"from": [1, 12, 6],
-			"to": [4, 24, 10],
+			"from": [1, 11, 6],
+			"to": [4, 23, 10],
 			"rotation": {"angle": 0, "axis": "y", "origin": [8, 0, 8]},
 			"faces": {
 				"north": {"uv": [9, 13, 9.75, 16], "texture": "#0"},
@@ -105,8 +105,8 @@
 		},
 		{
 			"name": "Left Arm Layer",
-			"from": [0.75, 11.75, 5.75],
-			"to": [4.25, 24.25, 10.25],
+			"from": [0.75, 10.75, 5.75],
+			"to": [4.25, 23.25, 10.25],
 			"rotation": {"angle": 0, "axis": "y", "origin": [8, 0, 8]},
 			"faces": {
 				"north": {"uv": [13, 13, 13.75, 16], "texture": "#0"},
@@ -119,8 +119,8 @@
 		},
 		{
 			"name": "Right Leg",
-			"from": [7.9, 0, 6],
-			"to": [11.9, 12, 10],
+			"from": [7.9, -1, 6],
+			"to": [11.9, 11, 10],
 			"rotation": {"angle": 0, "axis": "y", "origin": [8, 0, 8]},
 			"faces": {
 				"north": {"uv": [1, 5, 2, 8], "texture": "#0"},
@@ -133,8 +133,8 @@
 		},
 		{
 			"name": "Right Leg Layer",
-			"from": [7.65, -0.25, 5.75],
-			"to": [12.15, 12.25, 10.25],
+			"from": [7.65, -1.25, 5.75],
+			"to": [12.15, 11.25, 10.25],
 			"rotation": {"angle": 0, "axis": "y", "origin": [8, 0, 8]},
 			"faces": {
 				"north": {"uv": [1, 9, 2, 12], "texture": "#0"},
@@ -147,8 +147,8 @@
 		},
 		{
 			"name": "Left Leg",
-			"from": [4.1, 0, 6],
-			"to": [8.1, 12, 10],
+			"from": [4.1, -1, 6],
+			"to": [8.1, 11, 10],
 			"rotation": {"angle": 0, "axis": "y", "origin": [8, 0, 8]},
 			"faces": {
 				"north": {"uv": [5, 13, 6, 16], "texture": "#0"},
@@ -161,8 +161,8 @@
 		},
 		{
 			"name": "Left Leg Layer",
-			"from": [3.85, -0.25, 5.75],
-			"to": [8.35, 12.25, 10.25],
+			"from": [3.85, -1.25, 5.75],
+			"to": [8.35, 11.25, 10.25],
 			"rotation": {"angle": 0, "axis": "y", "origin": [8, 0, 8]},
 			"faces": {
 				"north": {"uv": [1, 13, 2, 16], "texture": "#0"},
