@@ -29,6 +29,7 @@
     {"predicate": {"custom_model_data":24}, "model": "item/lem.base/build/spawnpoint/alex/prisoner"},
     {"predicate": {"custom_model_data":25}, "model": "item/lem.base/build/spawnpoint/alex/regional"},
     {"predicate": {"custom_model_data":26}, "model": "item/lem.base/build/spawnpoint/alex/tennis"},
-    {"predicate": {"custom_model_data":27}, "model": "item/lem.base/build/spawnpoint/alex/tuxedo"}
+    {"predicate": {"custom_model_data":27}, "model": "item/lem.base/build/spawnpoint/alex/tuxedo"},
+    {"predicate": {"custom_model_data":28}, "model": "item/lem.base/build/center"}
   ]
 }
