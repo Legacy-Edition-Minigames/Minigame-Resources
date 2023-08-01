@@ -1,17 +1,35 @@
 {
   "parent": "item/handheld",
   "textures": {
-    "layer0": "item/bat_spawn_egg"
+    "layer0": "item/ghast_spawn_egg"
   },
 
   "overrides": [
-    {"predicate": {"custom_model_data":1}, "model": "item/lem.base/build/chest"},
-    {"predicate": {"custom_model_data":2}, "model": "item/lem.base/build/spawnpoint"},
+    {"predicate": {"custom_model_data":1}, "model": "item/lem.base/build/chest/standard"},
+    {"predicate": {"custom_model_data":2}, "model": "item/lem.base/build/spawnpoint/steve/default"},
     {"predicate": {"custom_model_data":3}, "model": "item/lem.base/build/remove"},
     {"predicate": {"custom_model_data":6}, "model": "item/lem.battle/achievement/cupid"},
     {"predicate": {"custom_model_data":7}, "model": "item/lem.battle/achievement/hunger"},
     {"predicate": {"custom_model_data":8}, "model": "item/lem.battle/achievement/scratch"},
     {"predicate": {"custom_model_data":9}, "model": "item/lem.battle/achievement/student"},
-    {"predicate": {"custom_model_data":10}, "model": "item/lem.battle/achievement/master"}
+    {"predicate": {"custom_model_data":10}, "model": "item/lem.battle/achievement/master"},
+    {"predicate": {"custom_model_data":11}, "model": "item/lem.base/build/chest/central"},
+    {"predicate": {"custom_model_data":12}, "model": "item/lem.base/build/chest/powerful"},
+    {"predicate": {"custom_model_data":13}, "model": "item/lem.base/build/spawnpoint/steve/boxer"},
+    {"predicate": {"custom_model_data":14}, "model": "item/lem.base/build/spawnpoint/steve/cyclist"},
+    {"predicate": {"custom_model_data":15}, "model": "item/lem.base/build/spawnpoint/steve/dev"},
+    {"predicate": {"custom_model_data":16}, "model": "item/lem.base/build/spawnpoint/steve/prisoner"},
+    {"predicate": {"custom_model_data":17}, "model": "item/lem.base/build/spawnpoint/steve/regional"},
+    {"predicate": {"custom_model_data":18}, "model": "item/lem.base/build/spawnpoint/steve/tennis"},
+    {"predicate": {"custom_model_data":19}, "model": "item/lem.base/build/spawnpoint/steve/tuxedo"},
+    {"predicate": {"custom_model_data":20}, "model": "item/lem.base/build/spawnpoint/alex/boxer"},
+    {"predicate": {"custom_model_data":21}, "model": "item/lem.base/build/spawnpoint/alex/cyclist"},
+    {"predicate": {"custom_model_data":22}, "model": "item/lem.base/build/spawnpoint/alex/default"},
+    {"predicate": {"custom_model_data":23}, "model": "item/lem.base/build/spawnpoint/alex/dev"},
+    {"predicate": {"custom_model_data":24}, "model": "item/lem.base/build/spawnpoint/alex/prisoner"},
+    {"predicate": {"custom_model_data":25}, "model": "item/lem.base/build/spawnpoint/alex/regional"},
+    {"predicate": {"custom_model_data":26}, "model": "item/lem.base/build/spawnpoint/alex/tennis"},
+    {"predicate": {"custom_model_data":27}, "model": "item/lem.base/build/spawnpoint/alex/tuxedo"},
+    {"predicate": {"custom_model_data":28}, "model": "item/lem.base/build/center"}
   ]
 }
