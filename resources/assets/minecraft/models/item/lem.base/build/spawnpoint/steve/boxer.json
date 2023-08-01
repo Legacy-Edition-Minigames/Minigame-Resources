@@ -1,0 +1,6 @@
+{
+	"parent": "item/lem.base/build/spawnpoint/steve/base",
+	"textures": {
+		"0": "lem.base/build/spawnpoint/steve/boxer"
+	}
+}
