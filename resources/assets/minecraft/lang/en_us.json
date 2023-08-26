@@ -3,6 +3,8 @@
     "lem.menu.ui.tab.join": "\uF000",
     "lem.menu.ui.tab.host": "\uF000",
     "lem.menu.ui.tab.friends": "\uF000",
+    "lem.menu.ui.title.debug": "\uF000",
+    "lem.menu.ui.title.ui_test": "\uF000",
     "lem.menu.ui.notice.exit_server_title": "\uF000",
     "lem.menu.ui.notice.exit_server": "\uF000",
     "lem.menu.ui.notice.generic_error": "\uF000",
