@@ -68,6 +68,8 @@
     {"predicate": {"custom_model_data":10059}, "model": "item/lem.menu/text/en_us/button/slider_6"},
     {"predicate": {"custom_model_data":10060}, "model": "item/lem.menu/text/en_us/button/slider_7"},
     {"predicate": {"custom_model_data":10061}, "model": "item/lem.menu/text/en_us/button/slider_8"},
-    {"predicate": {"custom_model_data":10062}, "model": "item/lem.menu/text/en_us/button/slider_9"}
+    {"predicate": {"custom_model_data":10062}, "model": "item/lem.menu/text/en_us/button/slider_9"},
+    {"predicate": {"custom_model_data":10063}, "model": "item/lem.menu/text/en_us/button/config_options"},
+    {"predicate": {"custom_model_data":10064}, "model": "item/lem.menu/text/en_us/tick/custom_pack"}
   ]
 }

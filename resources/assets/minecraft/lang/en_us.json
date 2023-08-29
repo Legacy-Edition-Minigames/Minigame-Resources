@@ -5,6 +5,7 @@
     "lem.menu.ui.tab.friends": "\uF000",
     "lem.menu.ui.title.debug": "\uF000",
     "lem.menu.ui.title.ui_test": "\uF000",
+    "lem.menu.ui.title.config_options": "\uF000",
     "lem.menu.ui.notice.exit_server_title": "\uF000",
     "lem.menu.ui.notice.exit_server": "\uF000",
     "lem.menu.ui.notice.generic_error": "\uF000",
@@ -31,6 +32,9 @@
     "lem.menu.ui.notice.ui_setup": "\uF000",
     "lem.menu.ui.notice.setup_complete": "\uF000",
     "lem.menu.ui.notice.setup_complete_warning": "\uF000",
+    "lem.menu.ui.notice.custompack_warning": "\uF000",
+    "lem.menu.ui.notice.custompack_confirmation": "\uF000",
+    "lem.menu.ui.notice.custompack_final_confirmation": "\uF000",
     "lem.menu.leavegame": "Click to leave the server.",
     "container.inventory": ""
 } 
