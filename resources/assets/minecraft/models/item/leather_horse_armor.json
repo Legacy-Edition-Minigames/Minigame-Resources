@@ -44,7 +44,6 @@
     {"predicate": {"custom_model_data":10035}, "model": "item/lem.menu/text/en_us/button/scale_4"},
     {"predicate": {"custom_model_data":10036}, "model": "item/lem.menu/text/en_us/button/done"},
     {"predicate": {"custom_model_data":10037}, "model": "item/lem.menu/text/en_us/button/select_background"},
-    {"predicate": {"custom_model_data":10038}, "model": "item/lem.menu/text/en_us/button/toggle_time"},
     {"predicate": {"custom_model_data":10039}, "model": "item/lem.menu/text/en_us/button/next_page"},
     {"predicate": {"custom_model_data":10040}, "model": "item/lem.menu/text/en_us/button/tu1"},
     {"predicate": {"custom_model_data":10041}, "model": "item/lem.menu/text/en_us/button/tu5"},
@@ -70,6 +69,7 @@
     {"predicate": {"custom_model_data":10061}, "model": "item/lem.menu/text/en_us/button/slider_8"},
     {"predicate": {"custom_model_data":10062}, "model": "item/lem.menu/text/en_us/button/slider_9"},
     {"predicate": {"custom_model_data":10063}, "model": "item/lem.menu/text/en_us/button/config_options"},
-    {"predicate": {"custom_model_data":10064}, "model": "item/lem.menu/text/en_us/tick/custom_pack"}
+    {"predicate": {"custom_model_data":10064}, "model": "item/lem.menu/text/en_us/tick/custom_pack"},
+    {"predicate": {"custom_model_data":10065}, "model": "item/lem.menu/text/en_us/tick/always_night"}
   ]
 }
