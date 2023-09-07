@@ -272,6 +272,7 @@
   "lem.battle.menu.host.config.update.combat.style.custom.attackspeed.fast": "Fast",
   "lem.battle.menu.host.config.update.combat.style.custom.attackspeed.fastest": "Fastest",
   "lem.battle.menu.host.config.update.combat.style.custom.criticals": "Critical Attacks",
+  "lem.battle.menu.host.config.update.combat.style.custom.knockback": "Classic Knockback",
   "lem.battle.menu.host.config.update.combat.extendedpotionrange": "Extended Potion Range",
   "lem.menu.host.config.update.mods": "Modded Content",
   "lem.battle.menu.host.config.update.randompower": "Random Powerful Chests",
