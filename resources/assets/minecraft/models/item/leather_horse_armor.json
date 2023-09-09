@@ -36,7 +36,6 @@
     {"predicate": {"custom_model_data":10027}, "model": "item/lem.menu/text/en_us/button/optifine_is_installed"},
     {"predicate": {"custom_model_data":10028}, "model": "item/lem.menu/text/en_us/button/scale_settings"},
     {"predicate": {"custom_model_data":10029}, "model": "item/lem.menu/text/en_us/button/user_settings"},
-    {"predicate": {"custom_model_data":10031}, "model": "item/lem.menu/text/en_us/button/ui_scale"},
     {"predicate": {"custom_model_data":10032}, "model": "item/lem.menu/text/en_us/button/panorama_1"},
     {"predicate": {"custom_model_data":10033}, "model": "item/lem.menu/text/en_us/button/panorama_2"},
     {"predicate": {"custom_model_data":10034}, "model": "item/lem.menu/text/en_us/button/panorama_3"},
@@ -69,6 +68,10 @@
     {"predicate": {"custom_model_data":10062}, "model": "item/lem.menu/text/en_us/button/slider_9"},
     {"predicate": {"custom_model_data":10063}, "model": "item/lem.menu/text/en_us/button/config_options"},
     {"predicate": {"custom_model_data":10064}, "model": "item/lem.menu/text/en_us/tick/custom_pack"},
-    {"predicate": {"custom_model_data":10065}, "model": "item/lem.menu/text/en_us/tick/always_night"}
+    {"predicate": {"custom_model_data":10065}, "model": "item/lem.menu/text/en_us/tick/always_night"},
+    {"predicate": {"custom_model_data":10066}, "model": "item/lem.menu/text/en_us/button/gui_1"},
+    {"predicate": {"custom_model_data":10067}, "model": "item/lem.menu/text/en_us/button/gui_2"},
+    {"predicate": {"custom_model_data":10068}, "model": "item/lem.menu/text/en_us/button/gui_3"},
+    {"predicate": {"custom_model_data":10069}, "model": "item/lem.menu/text/en_us/button/gui_4"}
   ]
 }
