@@ -1,42 +1,10 @@
 {
-	"credit": "Made with Blockbench",
-	"ambientocclusion": false,
-	"textures": {
-		"0": "lem.menu/theme/vanilla/button/slider_button",
-		"1": "lem.base/empty",
-		"particle": "lem.menu/theme/vanilla/button/slider_button"
-	},
-	"elements": [
-		{
-			"from": [6, 0, 8],
-			"to": [10, 4, 8],
-			"rotation": {"angle": 0, "axis": "y", "origin": [22, 0, 1]},
-			"faces": {
-				"east": {"uv": [0, 0, 0.20513, 7.2], "texture": "#missing"},
-				"south": {"uv": [0, 0, 16, 16], "texture": "#0"},
-				"west": {"uv": [0, 0, 0.20513, 7.2], "texture": "#missing"},
-				"up": {"uv": [0, 0, 4.92308, 1.6], "texture": "#missing"},
-				"down": {"uv": [0, 0, 4.92308, 1.6], "texture": "#missing"}
-			}
-		},
-		{
-			"from": [6, 0, 8.1],
-			"to": [10, 4, 8.1],
-			"rotation": {"angle": 0, "axis": "y", "origin": [22, 0, 1]},
-			"faces": {
-				"east": {"uv": [0, 0, 0.20513, 7.2], "texture": "#missing"},
-				"south": {"uv": [0, 0, 16, 16], "texture": "#1"},
-				"west": {"uv": [0, 0, 0.20513, 7.2], "texture": "#missing"},
-				"up": {"uv": [0, 0, 4.92308, 1.6], "texture": "#missing"},
-				"down": {"uv": [0, 0, 4.92308, 1.6], "texture": "#missing"}
-			}
-		}
-	],
-	"gui_light": "front",
+	"parent": "item/lem.menu/ui/button/slider/base",
 	"display": {
 		"gui": {
-			"translation": [72, 24, 0],
+			"translation": [-67, 24, 0],
 			"scale": [4, 4, 3.85]
 		}
 	}
-}
+  }
+  
