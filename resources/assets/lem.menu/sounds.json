@@ -34,23 +34,5 @@
     "sounds": [
       "lem.menu/music/menu1"
     ]
-  },
-  "music.menu.2": {
-    "category": "master",
-    "sounds": [
-      "lem.menu/music/menu2"
-    ]
-  },
-  "music.menu.3": {
-    "category": "master",
-    "sounds": [
-      "lem.menu/music/menu3"
-    ]
-  },
-  "music.menu.4": {
-    "category": "master",
-    "sounds": [
-      "lem.menu/music/menu4"
-    ]
   }
 }
