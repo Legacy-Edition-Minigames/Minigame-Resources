@@ -31,6 +31,10 @@
     {"predicate": {"custom_model_data":26}, "model": "item/lem.base/build/spawnpoint/alex/tennis"},
     {"predicate": {"custom_model_data":27}, "model": "item/lem.base/build/spawnpoint/alex/tuxedo"},
     {"predicate": {"custom_model_data":28}, "model": "item/lem.base/build/center"},
-    {"predicate": {"custom_model_data":31}, "model": "item/lem.battle/achievement/root"}
+    {"predicate": {"custom_model_data":29}, "model": "item/lem.base/build/corner/positive"},
+    {"predicate": {"custom_model_data":30}, "model": "item/lem.base/build/corner/negative"},
+    {"predicate": {"custom_model_data":31}, "model": "item/lem.battle/achievement/root"},
+    {"predicate": {"custom_model_data":32}, "model": "item/lem.base/build/corner/arrow/positive"},
+    {"predicate": {"custom_model_data":33}, "model": "item/lem.base/build/corner/arrow/negative"}
   ]
 }
