@@ -6,13 +6,13 @@
 
   "overrides": [
     {"predicate": {"custom_model_data":1}, "model": "item/lem.base/empty"},
-    {"predicate": {"custom_model_data":1000}, "model": "item/lem.menu/theme/vanilla/button/standard"},
+    {"predicate": {"custom_model_data":1000}, "model": "item/lem.menu/theme/vanilla/button/standard/full/default"},
     {"predicate": {"custom_model_data":1001}, "model": "item/lem.menu/theme/vanilla/button/single"},
     {"predicate": {"custom_model_data":1002}, "model": "item/lem.menu/theme/vanilla/button/icon/leavegame"},
-    {"predicate": {"custom_model_data":1003}, "model": "item/lem.menu/theme/vanilla/button/standard_battle"},
-    {"predicate": {"custom_model_data":1004}, "model": "item/lem.menu/theme/vanilla/button/standard_tumble"},
-    {"predicate": {"custom_model_data":1005}, "model": "item/lem.menu/theme/vanilla/button/standard_glide"},
-    {"predicate": {"custom_model_data":1006}, "model": "item/lem.menu/theme/vanilla/button/standard_dark"},
+    {"predicate": {"custom_model_data":1003}, "model": "item/lem.menu/theme/vanilla/button/standard/full/battle"},
+    {"predicate": {"custom_model_data":1004}, "model": "item/lem.menu/theme/vanilla/button/standard/full/tumble"},
+    {"predicate": {"custom_model_data":1005}, "model": "item/lem.menu/theme/vanilla/button/standard/full/glide"},
+    {"predicate": {"custom_model_data":1006}, "model": "item/lem.menu/theme/vanilla/button/standard/full/dark"},
     {"predicate": {"custom_model_data":1007}, "model": "item/lem.menu/theme/vanilla/button/icon/leavegame_example"},
     {"predicate": {"custom_model_data":1008}, "model": "item/lem.menu/theme/vanilla/button/tick_enabled"},
     {"predicate": {"custom_model_data":1009}, "model": "item/lem.menu/theme/vanilla/button/tick_disabled"},
@@ -170,6 +170,18 @@
     {"predicate": {"custom_model_data":1161}, "model": "item/lem.menu/theme/vanilla/button/slider/148"},
     {"predicate": {"custom_model_data":1162}, "model": "item/lem.menu/theme/vanilla/button/slider/149"},
     {"predicate": {"custom_model_data":1163}, "model": "item/lem.menu/theme/vanilla/button/slider/150"},
-    {"predicate": {"custom_model_data":1164}, "model": "item/lem.menu/theme/vanilla/button/slider/151"}
+    {"predicate": {"custom_model_data":1164}, "model": "item/lem.menu/theme/vanilla/button/slider/151"},
+    {"predicate": {"custom_model_data":1165}, "model": "item/lem.menu/theme/vanilla/button/standard/half/left/default"},
+    {"predicate": {"custom_model_data":1166}, "model": "item/lem.menu/theme/vanilla/button/standard/half/left/dark"},
+    {"predicate": {"custom_model_data":1167}, "model": "item/lem.menu/theme/vanilla/button/standard/half/right/default"},
+    {"predicate": {"custom_model_data":1168}, "model": "item/lem.menu/theme/vanilla/button/standard/half/right/dark"},
+    {"predicate": {"custom_model_data":1169}, "model": "item/lem.menu/theme/vanilla/button/standard/half/left/default_up"},
+    {"predicate": {"custom_model_data":1170}, "model": "item/lem.menu/theme/vanilla/button/standard/half/left/default_down"},
+    {"predicate": {"custom_model_data":1171}, "model": "item/lem.menu/theme/vanilla/button/standard/half/left/dark_up"},
+    {"predicate": {"custom_model_data":1172}, "model": "item/lem.menu/theme/vanilla/button/standard/half/left/dark_down"},
+    {"predicate": {"custom_model_data":1173}, "model": "item/lem.menu/theme/vanilla/button/standard/half/right/default_up"},
+    {"predicate": {"custom_model_data":1174}, "model": "item/lem.menu/theme/vanilla/button/standard/half/right/default_down"},
+    {"predicate": {"custom_model_data":1175}, "model": "item/lem.menu/theme/vanilla/button/standard/half/right/dark_up"},
+    {"predicate": {"custom_model_data":1176}, "model": "item/lem.menu/theme/vanilla/button/standard/half/right/dark_down"}
   ]
 }

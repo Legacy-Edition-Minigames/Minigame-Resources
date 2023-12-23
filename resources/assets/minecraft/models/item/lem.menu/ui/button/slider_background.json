@@ -3,8 +3,8 @@
 	"ambientocclusion": false,
 	"texture_size": [156, 20],
 	"textures": {
-		"0": "lem.menu/theme/vanilla/button/standard",
-		"particle": "lem.menu/theme/vanilla/button/standard",
+		"0": "lem.menu/theme/vanilla/button/standard/full/default",
+		"particle": "lem.menu/theme/vanilla/button/standard/full/default",
 		"icon": "lem.base/empty"
 	},
 	"elements": [

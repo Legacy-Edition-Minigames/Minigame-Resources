@@ -1,0 +1,20 @@
+{
+    "providers": [
+        {
+            "type": "ttf",
+            "file": "lem.menu:negative_spaces.ttf",
+            "shift": [0.0, 0.0],
+            "size": 10.0,
+            "oversample": 1.0
+        },
+        {
+            "type": "bitmap",
+            "file": "lem.menu:menu/text/en_us/notice/rules/chat/spam.png",
+            "ascent": 11,
+            "height": 165,
+            "chars": [
+                "\uF000"
+            ]
+        }
+    ]
+}
