@@ -11,6 +11,8 @@
     "lem.menu.ui.title.scale_settings": "\uF000",
     "lem.menu.ui.title.gameplay_rules": "\uF000",
     "lem.menu.ui.title.chat_rules": "\uF000",
+    "lem.menu.ui.title.public_info": "\uF000",
+    "lem.menu.ui.title.notice": "\uF000",
     "lem.menu.ui.notice.exit_server_title": "\uF000",
     "lem.menu.ui.notice.exit_server": "\uF000",
     "lem.menu.ui.notice.generic_error": "\uF000",
@@ -55,6 +57,9 @@
     "lem.menu.ui.notice.rules.chat.arguments": "\uF000",
     "lem.menu.ui.notice.rules.chat.politics": "\uF000",
     "lem.menu.ui.notice.rules.chat.common": "\uF000",
+    "lem.menu.ui.notice.public_info": "\uF000",
+    "lem.menu.ui.notice.public_info_highlight": "\uF000",
+    "lem.menu.ui.notice.public_notice": "\uF000",
     "lem.menu.leavegame": "Click to leave the server.",
     "container.inventory": ""
 } 

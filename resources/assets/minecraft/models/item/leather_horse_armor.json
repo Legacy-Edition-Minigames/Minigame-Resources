@@ -95,6 +95,8 @@
     {"predicate": {"custom_model_data":10089}, "model": "item/lem.menu/text/en_us/button/half/left/left"},
     {"predicate": {"custom_model_data":10090}, "model": "item/lem.menu/text/en_us/button/half/right/left"},
     {"predicate": {"custom_model_data":10091}, "model": "item/lem.menu/text/en_us/button/half/left/right"},
-    {"predicate": {"custom_model_data":10092}, "model": "item/lem.menu/text/en_us/button/half/right/right"}
+    {"predicate": {"custom_model_data":10092}, "model": "item/lem.menu/text/en_us/button/half/right/right"},
+    {"predicate": {"custom_model_data":10093}, "model": "item/lem.menu/text/en_us/button/full/late_christmas_event"},
+    {"predicate": {"custom_model_data":10094}, "model": "item/lem.menu/text/en_us/button/full/more_information"}
   ]
 }
