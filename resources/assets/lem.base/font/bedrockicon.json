@@ -1,0 +1,13 @@
+{
+    "providers": [
+        {
+        "type": "bitmap",
+            "file": "lem.base:playericon/bedrock/bedrock.png",
+            "ascent": 7,
+            "height": 8,
+            "chars": [
+                "\uF801"
+            ]
+        }
+    ]
+}
