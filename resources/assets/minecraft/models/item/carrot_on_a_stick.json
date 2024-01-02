@@ -5,7 +5,6 @@
   },
 
   "overrides": [
-    {"predicate": {"custom_model_data":1}, "model": "item/lem.base/build/exit"},
     {"predicate": {"custom_model_data":4}, "model": "item/lem.base/lobby/ready"},
     {"predicate": {"custom_model_data":5}, "model": "item/lem.base/lobby/notready"},
     {"predicate": {"custom_model_data":6}, "model": "item/lem.base/xof"}
