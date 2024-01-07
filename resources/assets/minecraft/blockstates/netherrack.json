@@ -1,5 +1,7 @@
 {
     "variants": {
-        "normal": { "model": "netherrack" }
+        "": [
+            { "model": "block/netherrack" }
+        ]
     }
 }

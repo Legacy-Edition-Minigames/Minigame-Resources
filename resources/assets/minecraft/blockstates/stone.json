@@ -1,5 +1,7 @@
 {
     "variants": {
-        "normal": { "model": "stone" }
+        "": [
+            { "model": "block/stone" }
+        ]
     }
 }
