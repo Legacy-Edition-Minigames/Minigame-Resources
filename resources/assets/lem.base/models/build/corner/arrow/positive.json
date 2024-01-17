@@ -1,0 +1,47 @@
+{
+	"credit": "Made with Blockbench",
+	"texture_size": [8, 5],
+	"textures": {
+		"1": "lem.base:models/build/corner/arrow/positive",
+		"particle": "lem.base:models/build/corner/arrow/positive"
+	},
+	"elements": [
+		{
+			"name": "ARROW",
+			"from": [8, 6, 4],
+			"to": [8, 11, 12],
+			"rotation": {"angle": 0, "axis": "y", "origin": [8, 8.5, 8]},
+			"faces": {
+				"north": {"uv": [0, 0, 0, 16], "rotation": 180, "texture": "#1"},
+				"east": {"uv": [16, 0, 0, 16], "rotation": 180, "texture": "#1"},
+				"south": {"uv": [0, 0, 0, 16], "rotation": 180, "texture": "#1"},
+				"west": {"uv": [0, 0, 16, 16], "rotation": 180, "texture": "#1"},
+				"up": {"uv": [0, 0, 0, 25.6], "texture": "#1"},
+				"down": {"uv": [0, 25.6, 0, 0], "texture": "#1"}
+			}
+		},
+		{
+			"name": "ARROW",
+			"from": [5.5, 8.5, 4],
+			"to": [10.5, 8.5, 12],
+			"rotation": {"angle": 0, "axis": "y", "origin": [8, 8.5, 8]},
+			"faces": {
+				"north": {"uv": [0, 0, 0, 16], "rotation": 270, "texture": "#1"},
+				"east": {"uv": [0, 25.6, 0, 0], "rotation": 270, "texture": "#1"},
+				"south": {"uv": [0, 0, 0, 16], "rotation": 90, "texture": "#1"},
+				"west": {"uv": [0, 0, 0, 25.6], "rotation": 270, "texture": "#1"},
+				"up": {"uv": [16, 0, 0, 16], "rotation": 90, "texture": "#1"},
+				"down": {"uv": [0, 0, 16, 16], "rotation": 90, "texture": "#1"}
+			}
+		}
+	],
+	"groups": [
+		{
+			"name": "Arrow",
+			"origin": [8, 8.5, 8],
+			"color": 0,
+			"nbt": "{}",
+			"children": [0, 1]
+		}
+	]
+}
