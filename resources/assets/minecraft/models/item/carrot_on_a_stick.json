@@ -5,8 +5,8 @@
   },
 
   "overrides": [
-    {"predicate": {"custom_model_data":4}, "model": "item/lem.base/lobby/ready"},
-    {"predicate": {"custom_model_data":5}, "model": "item/lem.base/lobby/notready"},
-    {"predicate": {"custom_model_data":6}, "model": "item/lem.base/xof"}
+    {"predicate": {"custom_model_data":4}, "model": "lem.base:lobby/ready"},
+    {"predicate": {"custom_model_data":5}, "model": "lem.base:lobby/notready"},
+    {"predicate": {"custom_model_data":6}, "model": "lem.base:xof"}
   ]
 }
