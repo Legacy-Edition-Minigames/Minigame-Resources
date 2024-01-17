@@ -1,14 +1,164 @@
 {
     "sources": [
         {
-            "type": "directory",
-            "source": "lem.base",
-            "prefix": "lem.base/"
+            "type": "single",
+            "resource": "lem.base:models/empty"
         },
         {
-            "type": "directory",
-            "source": "lem.battle",
-            "prefix": "lem.battle/"
+            "type": "single",
+            "resource": "lem.base:models/xof"
+        },
+        {
+            "type": "single",
+            "resource": "lem.base:models/build/chest/wooden_sword"
+        },
+        {
+            "type": "single",
+            "resource": "lem.base:models/build/chest/swiftness"
+        },
+        {
+            "type": "single",
+            "resource": "lem.base:models/build/chest/base"
+        },
+        {
+            "type": "single",
+            "resource": "lem.base:models/build/chest/stone_sword"
+        },
+        {
+            "type": "single",
+            "resource": "lem.base:models/build/chest/iron_chestplate"
+        },
+        {
+            "type": "single",
+            "resource": "lem.base:models/build/chest/wooden_pickaxe"
+        },
+        {
+            "type": "single",
+            "resource": "lem.base:models/build/chest/cooked_porkchop"
+        },
+        {
+            "type": "single",
+            "resource": "lem.base:models/build/spawnpoint/alex/default"
+        },
+        {
+            "type": "single",
+            "resource": "lem.base:models/build/spawnpoint/alex/boxer"
+        },
+        {
+            "type": "single",
+            "resource": "lem.base:models/build/spawnpoint/alex/cyclist"
+        },
+        {
+            "type": "single",
+            "resource": "lem.base:models/build/spawnpoint/alex/dev"
+        },
+        {
+            "type": "single",
+            "resource": "lem.base:models/build/spawnpoint/alex/prisoner"
+        },
+        {
+            "type": "single",
+            "resource": "lem.base:models/build/spawnpoint/alex/regional"
+        },
+        {
+            "type": "single",
+            "resource": "lem.base:models/build/spawnpoint/alex/tennis"
+        },
+        {
+            "type": "single",
+            "resource": "lem.base:models/build/spawnpoint/alex/tuxedo"
+        },
+        {
+            "type": "single",
+            "resource": "lem.base:models/build/spawnpoint/steve/default"
+        },
+        {
+            "type": "single",
+            "resource": "lem.base:models/build/spawnpoint/steve/boxer"
+        },
+        {
+            "type": "single",
+            "resource": "lem.base:models/build/spawnpoint/steve/cyclist"
+        },
+        {
+            "type": "single",
+            "resource": "lem.base:models/build/spawnpoint/steve/dev"
+        },
+        {
+            "type": "single",
+            "resource": "lem.base:models/build/spawnpoint/steve/prisoner"
+        },
+        {
+            "type": "single",
+            "resource": "lem.base:models/build/spawnpoint/steve/regional"
+        },
+        {
+            "type": "single",
+            "resource": "lem.base:models/build/spawnpoint/steve/tennis"
+        },
+        {
+            "type": "single",
+            "resource": "lem.base:models/build/spawnpoint/steve/tuxedo"
+        },
+        {
+            "type": "single",
+            "resource": "lem.base:models/build/corner/negative"
+        },
+        {
+            "type": "single",
+            "resource": "lem.base:models/build/corner/positive"
+        },
+        {
+            "type": "single",
+            "resource": "lem.base:models/build/corner/arrow/negative"
+        },
+        {
+            "type": "single",
+            "resource": "lem.base:models/build/corner/arrow/positive"
+        },
+        {
+            "type": "single",
+            "resource": "lem.base:models/inventory/hide"
+        },
+        {
+            "type": "single",
+            "resource": "lem.base:models/inventory/hide_clear"
+        },
+        {
+            "type": "single",
+            "resource": "lem.base:models/inventory/hide_dark"
+        },
+        {
+            "type": "single",
+            "resource": "lem.base:models/lobby/notready"
+        },
+        {
+            "type": "single",
+            "resource": "lem.base:models/lobby/ready"
+        },
+        {
+            "type": "single",
+            "resource": "lem.battle:models/achievement/cupid"
+        },
+        {
+            "type": "single",
+            "resource": "lem.battle:models/achievement/hunger"
+        },
+        {
+            "type": "single",
+            "resource": "lem.battle:models/achievement/master"
+        },
+        {
+            "type": "single",
+            "resource": "lem.battle:models/achievement/scratch"
+        },
+        {
+            "type": "single",
+            "resource": "lem.battle:models/achievement/student"
+        },
+        {
+            "type": "single",
+            "resource": "lem.battle:models/achievement/root"
         }
     ]
 }
