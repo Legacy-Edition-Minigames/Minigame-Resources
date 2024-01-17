@@ -2,260 +2,260 @@
   "music.vanilla.1": {
     "category": "master",
     "sounds": [
-      "lem.battle/music/vanilla1"
+      "lem.battle:music/vanilla1"
     ]
   },
   "music.vanilla.2": {
     "category": "master",
     "sounds": [
-      "lem.battle/music/vanilla2"
+      "lem.battle:music/vanilla2"
     ]
   },
   "music.vanilla.3": {
     "category": "master",
     "sounds": [
-      "lem.battle/music/vanilla3"
+      "lem.battle:music/vanilla3"
     ]
   },
   "music.vanilla.4": {
     "category": "master",
     "sounds": [
-      "lem.battle/music/vanilla4"
+      "lem.battle:music/vanilla4"
     ]
   },
   "music.fantasy.1": {
     "category": "master",
     "sounds": [
-      "lem.battle/music/fantasy1"
+      "lem.battle:music/fantasy1"
     ]
   },
   "music.fantasy.2": {
     "category": "master",
     "sounds": [
-      "lem.battle/music/fantasy2"
+      "lem.battle:music/fantasy2"
     ]
   },
   "music.fantasy.3": {
     "category": "master",
     "sounds": [
-      "lem.battle/music/fantasy3"
+      "lem.battle:music/fantasy3"
     ]
   },
   "music.greek.1": {
     "category": "master",
     "sounds": [
-      "lem.battle/music/greek1"
+      "lem.battle:music/greek1"
     ]
   },
   "music.greek.2": {
     "category": "master",
     "sounds": [
-      "lem.battle/music/greek2"
+      "lem.battle:music/greek2"
     ]
   },
   "music.greek.3": {
     "category": "master",
     "sounds": [
-      "lem.battle/music/greek3"
+      "lem.battle:music/greek3"
     ]
   },
   "music.city.1": {
     "category": "master",
     "sounds": [
-      "lem.battle/music/city1"
+      "lem.battle:music/city1"
     ]
   },
   "music.city.2": {
     "category": "master",
     "sounds": [
-      "lem.battle/music/city2"
+      "lem.battle:music/city2"
     ]
   },
   "music.city.3": {
     "category": "master",
     "sounds": [
-      "lem.battle/music/city3"
+      "lem.battle:music/city3"
     ]
   },
   "music.city.4": {
     "category": "master",
     "sounds": [
-      "lem.battle/music/city4"
+      "lem.battle:music/city4"
     ]
   },
   "music.city.5": {
     "category": "master",
     "sounds": [
-      "lem.battle/music/city5"
+      "lem.battle:music/city5"
     ]
   },
   "music.western.1": {
     "category": "master",
     "sounds": [
-      "lem.battle/music/western1"
+      "lem.battle:music/western1"
     ]
   },
   "music.western.2": {
     "category": "master",
     "sounds": [
-      "lem.battle/music/western2"
+      "lem.battle:music/western2"
     ]
   },
   "music.western.3": {
     "category": "master",
     "sounds": [
-      "lem.battle/music/western3"
+      "lem.battle:music/western3"
     ]
   },
   "music.plastic.1": {
     "category": "master",
     "sounds": [
-      "lem.battle/music/plastic1"
+      "lem.battle:music/plastic1"
     ]
   },
   "music.plastic.2": {
     "category": "master",
     "sounds": [
-      "lem.battle/music/plastic2"
+      "lem.battle:music/plastic2"
     ]
   },
   "music.plastic.3": {
     "category": "master",
     "sounds": [
-      "lem.battle/music/plastic3"
+      "lem.battle:music/plastic3"
     ]
   },
   "music.steampunk.1": {
     "category": "master",
     "sounds": [
-      "lem.battle/music/steampunk1"
+      "lem.battle:music/steampunk1"
     ]
   },
   "music.steampunk.2": {
     "category": "master",
     "sounds": [
-      "lem.battle/music/steampunk2"
+      "lem.battle:music/steampunk2"
     ]
   },
   "music.steampunk.3": {
     "category": "master",
     "sounds": [
-      "lem.battle/music/steampunk3"
+      "lem.battle:music/steampunk3"
     ]
   },
   "music.steampunk.4": {
     "category": "master",
     "sounds": [
-      "lem.battle/music/steampunk4"
+      "lem.battle:music/steampunk4"
     ]
   },
   "music.chinese.1": {
     "category": "master",
     "sounds": [
-      "lem.battle/music/chinese1"
+      "lem.battle:music/chinese1"
     ]
   },
   "music.chinese.2": {
     "category": "master",
     "sounds": [
-      "lem.battle/music/chinese2"
+      "lem.battle:music/chinese2"
     ]
   },
   "music.chinese.3": {
     "category": "master",
     "sounds": [
-      "lem.battle/music/chinese3"
+      "lem.battle:music/chinese3"
     ]
   },
   "music.chinese.4": {
     "category": "master",
     "sounds": [
-      "lem.battle/music/chinese4"
+      "lem.battle:music/chinese4"
     ]
   },
   "music.halloween.1": {
     "category": "master",
     "sounds": [
-      "lem.battle/music/halloween1"
+      "lem.battle:music/halloween1"
     ]
   },
   "music.halloween.2": {
     "category": "master",
     "sounds": [
-      "lem.battle/music/halloween2"
+      "lem.battle:music/halloween2"
     ]
   },
   "music.halloween.3": {
     "category": "master",
     "sounds": [
-      "lem.battle/music/halloween3"
+      "lem.battle:music/halloween3"
     ]
   },
   "music.festive.1": {
     "category": "master",
     "sounds": [
-      "lem.battle/music/festive1"
+      "lem.battle:music/festive1"
     ]
   },
   "music.festive.2": {
     "category": "master",
     "sounds": [
-      "lem.battle/music/festive2"
+      "lem.battle:music/festive2"
     ]
   },
   "music.festive.3": {
     "category": "master",
     "sounds": [
-      "lem.battle/music/festive3"
+      "lem.battle:music/festive3"
     ]
   },
   "music.fallout.1": {
     "category": "master",
     "sounds": [
-      "lem.battle/music/fallout1"
+      "lem.battle:music/fallout1"
     ]
   },
   "music.fallout.2": {
     "category": "master",
     "sounds": [
-      "lem.battle/music/fallout2"
+      "lem.battle:music/fallout2"
     ]
   },
   "music.fallout.3": {
     "category": "master",
     "sounds": [
-      "lem.battle/music/fallout3"
+      "lem.battle:music/fallout3"
     ]
   },
   "music.fallout.4": {
     "category": "master",
     "sounds": [
-      "lem.battle/music/fallout4"
+      "lem.battle:music/fallout4"
     ]
   },
   "music.fallout.5": {
     "category": "master",
     "sounds": [
-      "lem.battle/music/fallout5"
+      "lem.battle:music/fallout5"
     ]
   },
   "music.fallout.6": {
     "category": "master",
     "sounds": [
-      "lem.battle/music/fallout6"
+      "lem.battle:music/fallout6"
     ]
   },
   "music.fallout.7": {
     "category": "master",
     "sounds": [
-      "lem.battle/music/fallout7"
+      "lem.battle:music/fallout7"
     ]
   },
   "sound.game.refill": {
     "category": "master",
     "sounds": [
-      "lem.battle/sounds/game/refill1",
-      "lem.battle/sounds/game/refill2"
+      "lem.battle:sounds/game/refill1",
+      "lem.battle:sounds/game/refill2"
     ]
   }
 }
