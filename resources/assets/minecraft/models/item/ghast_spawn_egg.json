@@ -1,8 +1,5 @@
 {
-  "parent": "item/handheld",
-  "textures": {
-    "layer0": "item/ghast_spawn_egg"
-  },
+  "parent": "item/template_spawn_egg",
 
   "overrides": [
     {"predicate": {"custom_model_data":1}, "model": "lem.base:build/chest/standard"},
