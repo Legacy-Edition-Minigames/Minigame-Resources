@@ -1,0 +1,6 @@
+{
+	"parent": "lem.base:build/spawnpoint/steve/base",
+	"textures": {
+		"0": "lem.base:models/build/spawnpoint/steve/cyclist"
+	}
+}
