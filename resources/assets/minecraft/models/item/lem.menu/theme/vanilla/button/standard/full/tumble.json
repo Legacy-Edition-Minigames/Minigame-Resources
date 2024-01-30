@@ -1,7 +1,0 @@
-{
-  "parent": "item/lem.menu/ui/button/standard/full",
-  "textures": {
-		"0": "lem.menu/theme/vanilla/button/standard/full/dark",
-		"icon": "lem.menu/theme/vanilla/icon/tumble"
-  }
-}

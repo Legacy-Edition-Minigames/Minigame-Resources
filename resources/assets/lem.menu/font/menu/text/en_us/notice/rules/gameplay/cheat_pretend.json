@@ -9,7 +9,7 @@
         },
         {
             "type": "bitmap",
-            "file": "lem.menu:menu/text/en_us/notice/rules/gameplay/cheat_pretend.png",
+            "file": "lem.menu:menu/font/text/en_us/notice/rules/gameplay/cheat_pretend.png",
             "ascent": 11,
             "height": 165,
             "chars": [

@@ -9,7 +9,7 @@
         },
         {
             "type": "bitmap",
-            "file": "lem.menu:menu/text/en_us/notice/setup_start.png",
+            "file": "lem.menu:menu/font/text/en_us/notice/setup_start.png",
             "ascent": 10,
             "height": 165,
             "chars": [

@@ -9,7 +9,7 @@
         },
         {
             "type": "bitmap",
-            "file": "lem.menu:menu/theme/vanilla/window/box.png",
+            "file": "lem.menu:menu/font/theme/vanilla/window/box.png",
             "ascent": 13,
             "height": 165,
             "chars": [
@@ -18,7 +18,7 @@
         },
         {
             "type": "bitmap",
-            "file": "lem.menu:menu/theme/vanilla/window/box.png",
+            "file": "lem.menu:menu/font/theme/vanilla/window/box.png",
             "ascent": -15,
             "height": 165,
             "chars": [
@@ -27,7 +27,7 @@
         },
         {
             "type": "bitmap",
-            "file": "lem.menu:menu/theme/vanilla/window/box_smooth.png",
+            "file": "lem.menu:menu/font/theme/vanilla/window/box_smooth.png",
             "ascent": 13,
             "height": 165,
             "chars": [

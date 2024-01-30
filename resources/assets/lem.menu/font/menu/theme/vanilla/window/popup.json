@@ -9,7 +9,7 @@
         },
         {
             "type": "bitmap",
-            "file": "lem.menu:menu/theme/vanilla/window/popup.png",
+            "file": "lem.menu:menu/font/theme/vanilla/window/popup.png",
             "ascent": -26,
             "height": 90,
             "chars": [

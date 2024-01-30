@@ -1,0 +1,6 @@
+{
+  "parent": "lem.menu:menu/text/button/standard/full",
+  "textures": {
+		"0": "lem.menu:menu/models/text/en_us/button/full/panorama_settings"
+  }
+}

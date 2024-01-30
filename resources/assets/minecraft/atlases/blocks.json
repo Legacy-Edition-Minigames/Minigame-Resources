@@ -1,14 +1,460 @@
 {
     "sources": [
         {
-            "type": "directory",
-            "source": "lem.base",
-            "prefix": "lem.base/"
+            "type": "single",
+            "resource": "lem.base:models/empty"
         },
         {
-            "type": "directory",
-            "source": "lem.menu",
-            "prefix": "lem.menu/"
+            "type": "single",
+            "resource": "lem.menu:menu/models/theme/vanilla/button/standard/full/default"
+        },
+        {
+            "type": "single",
+            "resource": "lem.menu:menu/models/text/en_us/button/full/background_tu1"
+        },
+        {
+            "type": "single",
+            "resource": "lem.menu:menu/models/text/en_us/button/full/background_tu14"
+        },
+        {
+            "type": "single",
+            "resource": "lem.menu:menu/models/text/en_us/button/full/background_tu19"
+        },
+        {
+            "type": "single",
+            "resource": "lem.menu:menu/models/text/en_us/button/full/background_tu31"
+        },
+        {
+            "type": "single",
+            "resource": "lem.menu:menu/models/text/en_us/button/full/background_tu46"
+        },
+        {
+            "type": "single",
+            "resource": "lem.menu:menu/models/text/en_us/button/full/background_tu5"
+        },
+        {
+            "type": "single",
+            "resource": "lem.menu:menu/models/text/en_us/button/full/background_tu69"
+        },
+        {
+            "type": "single",
+            "resource": "lem.menu:menu/models/text/en_us/button/full/background_tu9"
+        },
+        {
+            "type": "single",
+            "resource": "lem.menu:menu/models/text/en_us/button/full/battle"
+        },
+        {
+            "type": "single",
+            "resource": "lem.menu:menu/models/text/en_us/button/full/be_civil"
+        },
+        {
+            "type": "single",
+            "resource": "lem.menu:menu/models/text/en_us/button/full/cancel"
+        },
+        {
+            "type": "single",
+            "resource": "lem.menu:menu/models/text/en_us/button/full/config_options"
+        },
+        {
+            "type": "single",
+            "resource": "lem.menu:menu/models/text/en_us/button/full/continue"
+        },
+        {
+            "type": "single",
+            "resource": "lem.menu:menu/models/text/en_us/button/full/controls"
+        },
+        {
+            "type": "single",
+            "resource": "lem.menu:menu/models/text/en_us/button/full/credits"
+        },
+        {
+            "type": "single",
+            "resource": "lem.menu:menu/models/text/en_us/button/full/debug"
+        },
+        {
+            "type": "single",
+            "resource": "lem.menu:menu/models/text/en_us/button/full/do_not_abuse_exploits"
+        },
+        {
+            "type": "single",
+            "resource": "lem.menu:menu/models/text/en_us/button/full/do_not_ban_evade"
+        },
+        {
+            "type": "single",
+            "resource": "lem.menu:menu/models/text/en_us/button/full/do_not_cheat"
+        },
+        {
+            "type": "single",
+            "resource": "lem.menu:menu/models/text/en_us/button/full/do_not_discuss_politics"
+        },
+        {
+            "type": "single",
+            "resource": "lem.menu:menu/models/text/en_us/button/full/do_not_dox_people"
+        },
+        {
+            "type": "single",
+            "resource": "lem.menu:menu/models/text/en_us/button/full/do_not_harass_other_members"
+        },
+        {
+            "type": "single",
+            "resource": "lem.menu:menu/models/text/en_us/button/full/do_not_post_nsfw_content"
+        },
+        {
+            "type": "single",
+            "resource": "lem.menu:menu/models/text/en_us/button/full/do_not_pretend_to_cheat"
+        },
+        {
+            "type": "single",
+            "resource": "lem.menu:menu/models/text/en_us/button/full/do_not_spam"
+        },
+        {
+            "type": "single",
+            "resource": "lem.menu:menu/models/text/en_us/button/full/do_not_use_inappropriate_skins"
+        },
+        {
+            "type": "single",
+            "resource": "lem.menu:menu/models/text/en_us/button/full/do_not_use_slurs"
+        },
+        {
+            "type": "single",
+            "resource": "lem.menu:menu/models/text/en_us/button/full/done"
+        },
+        {
+            "type": "single",
+            "resource": "lem.menu:menu/models/text/en_us/button/full/exit_server"
+        },
+        {
+            "type": "single",
+            "resource": "lem.menu:menu/models/text/en_us/button/full/fascism_is_not_tolerated"
+        },
+        {
+            "type": "single",
+            "resource": "lem.menu:menu/models/text/en_us/button/full/force_exit_menu"
+        },
+        {
+            "type": "single",
+            "resource": "lem.menu:menu/models/text/en_us/button/full/glide"
+        },
+        {
+            "type": "single",
+            "resource": "lem.menu:menu/models/text/en_us/button/full/go_back"
+        },
+        {
+            "type": "single",
+            "resource": "lem.menu:menu/models/text/en_us/button/full/gui_1"
+        },
+        {
+            "type": "single",
+            "resource": "lem.menu:menu/models/text/en_us/button/full/gui_2"
+        },
+        {
+            "type": "single",
+            "resource": "lem.menu:menu/models/text/en_us/button/full/gui_3"
+        },
+        {
+            "type": "single",
+            "resource": "lem.menu:menu/models/text/en_us/button/full/gui_4"
+        },
+        {
+            "type": "single",
+            "resource": "lem.menu:menu/models/text/en_us/button/full/help_and_options"
+        },
+        {
+            "type": "single",
+            "resource": "lem.menu:menu/models/text/en_us/button/full/how_to_play"
+        },
+        {
+            "type": "single",
+            "resource": "lem.menu:menu/models/text/en_us/button/full/keep_arguments_peaceful"
+        },
+        {
+            "type": "single",
+            "resource": "lem.menu:menu/models/text/en_us/button/full/late_christmas_event"
+        },
+        {
+            "type": "single",
+            "resource": "lem.menu:menu/models/text/en_us/button/full/more_information"
+        },
+        {
+            "type": "single",
+            "resource": "lem.menu:menu/models/text/en_us/button/full/next_page"
+        },
+        {
+            "type": "single",
+            "resource": "lem.menu:menu/models/text/en_us/button/full/ok"
+        },
+        {
+            "type": "single",
+            "resource": "lem.menu:menu/models/text/en_us/button/full/optifine_is_installed"
+        },
+        {
+            "type": "single",
+            "resource": "lem.menu:menu/models/text/en_us/button/full/optifine_is_not_installed"
+        },
+        {
+            "type": "single",
+            "resource": "lem.menu:menu/models/text/en_us/button/full/optifine_pack"
+        },
+        {
+            "type": "single",
+            "resource": "lem.menu:menu/models/text/en_us/button/full/pack_settings"
+        },
+        {
+            "type": "single",
+            "resource": "lem.menu:menu/models/text/en_us/button/full/panorama_1"
+        },
+        {
+            "type": "single",
+            "resource": "lem.menu:menu/models/text/en_us/button/full/panorama_2"
+        },
+        {
+            "type": "single",
+            "resource": "lem.menu:menu/models/text/en_us/button/full/panorama_3"
+        },
+        {
+            "type": "single",
+            "resource": "lem.menu:menu/models/text/en_us/button/full/panorama_4"
+        },
+        {
+            "type": "single",
+            "resource": "lem.menu:menu/models/text/en_us/button/full/panorama_settings"
+        },
+        {
+            "type": "single",
+            "resource": "lem.menu:menu/models/text/en_us/button/full/play_mini_games"
+        },
+        {
+            "type": "single",
+            "resource": "lem.menu:menu/models/text/en_us/button/full/raids_are_not_tolerated"
+        },
+        {
+            "type": "single",
+            "resource": "lem.menu:menu/models/text/en_us/button/full/reload_datapack"
+        },
+        {
+            "type": "single",
+            "resource": "lem.menu:menu/models/text/en_us/button/full/reload_music"
+        },
+        {
+            "type": "single",
+            "resource": "lem.menu:menu/models/text/en_us/button/full/reload_resources"
+        },
+        {
+            "type": "single",
+            "resource": "lem.menu:menu/models/text/en_us/button/full/scale_1"
+        },
+        {
+            "type": "single",
+            "resource": "lem.menu:menu/models/text/en_us/button/full/scale_2"
+        },
+        {
+            "type": "single",
+            "resource": "lem.menu:menu/models/text/en_us/button/full/scale_3"
+        },
+        {
+            "type": "single",
+            "resource": "lem.menu:menu/models/text/en_us/button/full/scale_4"
+        },
+        {
+            "type": "single",
+            "resource": "lem.menu:menu/models/text/en_us/button/full/scale_settings"
+        },
+        {
+            "type": "single",
+            "resource": "lem.menu:menu/models/text/en_us/button/full/server_1"
+        },
+        {
+            "type": "single",
+            "resource": "lem.menu:menu/models/text/en_us/button/full/server_2"
+        },
+        {
+            "type": "single",
+            "resource": "lem.menu:menu/models/text/en_us/button/full/server_3"
+        },
+        {
+            "type": "single",
+            "resource": "lem.menu:menu/models/text/en_us/button/full/server_experimental"
+        },
+        {
+            "type": "single",
+            "resource": "lem.menu:menu/models/text/en_us/button/full/server_germany"
+        },
+        {
+            "type": "single",
+            "resource": "lem.menu:menu/models/text/en_us/button/full/server_main"
+        },
+        {
+            "type": "single",
+            "resource": "lem.menu:menu/models/text/en_us/button/full/server_main_alternate"
+        },
+        {
+            "type": "single",
+            "resource": "lem.menu:menu/models/text/en_us/button/full/settings"
+        },
+        {
+            "type": "single",
+            "resource": "lem.menu:menu/models/text/en_us/button/full/slider_1"
+        },
+        {
+            "type": "single",
+            "resource": "lem.menu:menu/models/text/en_us/button/full/slider_2"
+        },
+        {
+            "type": "single",
+            "resource": "lem.menu:menu/models/text/en_us/button/full/slider_3"
+        },
+        {
+            "type": "single",
+            "resource": "lem.menu:menu/models/text/en_us/button/full/slider_4"
+        },
+        {
+            "type": "single",
+            "resource": "lem.menu:menu/models/text/en_us/button/full/slider_5"
+        },
+        {
+            "type": "single",
+            "resource": "lem.menu:menu/models/text/en_us/button/full/slider_6"
+        },
+        {
+            "type": "single",
+            "resource": "lem.menu:menu/models/text/en_us/button/full/slider_7"
+        },
+        {
+            "type": "single",
+            "resource": "lem.menu:menu/models/text/en_us/button/full/slider_8"
+        },
+        {
+            "type": "single",
+            "resource": "lem.menu:menu/models/text/en_us/button/full/slider_9"
+        },
+        {
+            "type": "single",
+            "resource": "lem.menu:menu/models/text/en_us/button/full/tumble"
+        },
+        {
+            "type": "single",
+            "resource": "lem.menu:menu/models/text/en_us/button/full/ui_settings"
+        },
+        {
+            "type": "single",
+            "resource": "lem.menu:menu/models/text/en_us/button/full/ui_test"
+        },
+        {
+            "type": "single",
+            "resource": "lem.menu:menu/models/text/en_us/button/full/use_common_sense"
+        },
+        {
+            "type": "single",
+            "resource": "lem.menu:menu/models/text/en_us/button/full/user_settings"
+        },
+        {
+            "type": "single",
+            "resource": "lem.menu:menu/models/text/en_us/button/half/debug"
+        },
+        {
+            "type": "single",
+            "resource": "lem.menu:menu/models/text/en_us/button/half/left"
+        },
+        {
+            "type": "single",
+            "resource": "lem.menu:menu/models/text/en_us/button/half/right"
+        },
+        {
+            "type": "single",
+            "resource": "lem.menu:menu/models/text/en_us/tick/always_night"
+        },
+        {
+            "type": "single",
+            "resource": "lem.menu:menu/models/text/en_us/tick/custom_pack"
+        },
+        {
+            "type": "single",
+            "resource": "lem.menu:menu/models/text/en_us/tick/i_read_and_agree_to_the_rules"
+        },
+        {
+            "type": "single",
+            "resource": "lem.menu:menu/models/text/en_us/tick/tickbox"
+        },
+        {
+            "type": "single",
+            "resource": "lem.menu:menu/models/theme/vanilla/error"
+        },
+        {
+            "type": "single",
+            "resource": "lem.menu:menu/models/theme/vanilla/button/slider_background"
+        },
+        {
+            "type": "single",
+            "resource": "lem.menu:menu/models/theme/vanilla/button/slider_broken"
+        },
+        {
+            "type": "single",
+            "resource": "lem.menu:menu/models/theme/vanilla/button/tick_broken"
+        },
+        {
+            "type": "single",
+            "resource": "lem.menu:menu/models/theme/vanilla/button/tick_disabled"
+        },
+        {
+            "type": "single",
+            "resource": "lem.menu:menu/models/theme/vanilla/button/tick_enabled"
+        },
+        {
+            "type": "single",
+            "resource": "lem.menu:menu/models/theme/vanilla/icon/leavegame"
+        },
+        {
+            "type": "single",
+            "resource": "lem.menu:menu/models/theme/vanilla/button/single"
+        },
+        {
+            "type": "single",
+            "resource": "lem.menu:menu/models/theme/vanilla/button/slider_button"
+        },
+        {
+            "type": "single",
+            "resource": "lem.menu:menu/models/theme/vanilla/icon/battle"
+        },
+        {
+            "type": "single",
+            "resource": "lem.menu:menu/models/theme/vanilla/button/standard/full/dark"
+        },
+        {
+            "type": "single",
+            "resource": "lem.menu:menu/models/theme/vanilla/icon/glide"
+        },
+        {
+            "type": "single",
+            "resource": "lem.menu:menu/models/theme/vanilla/icon/tumble"
+        },
+        {
+            "type": "single",
+            "resource": "lem.menu:menu/models/theme/vanilla/button/standard/half/dark"
+        },
+        {
+            "type": "single",
+            "resource": "lem.menu:menu/models/theme/vanilla/button/standard/half/dark_down"
+        },
+        {
+            "type": "single",
+            "resource": "lem.menu:menu/models/theme/vanilla/button/standard/half/dark_up"
+        },
+        {
+            "type": "single",
+            "resource": "lem.menu:menu/models/theme/vanilla/button/standard/half/default"
+        },
+        {
+            "type": "single",
+            "resource": "lem.menu:menu/models/theme/vanilla/button/standard/half/default_down"
+        },
+        {
+            "type": "single",
+            "resource": "lem.menu:menu/models/theme/vanilla/button/standard/half/default_up"
+        },
+        {
+            "type": "single",
+            "resource": "lem.base:empty"
         }
     ]
 }
