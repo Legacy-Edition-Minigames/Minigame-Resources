@@ -1,0 +1,26 @@
+{
+  "music.menu.1": {
+    "category": "master",
+    "sounds": [
+      "lem.base:music/menu1"
+    ]
+  },
+  "music.menu.2": {
+    "category": "master",
+    "sounds": [
+      "lem.base:music/menu2"
+    ]
+  },
+  "music.menu.3": {
+    "category": "master",
+    "sounds": [
+      "lem.base:music/menu3"
+    ]
+  },
+  "music.menu.4": {
+    "category": "master",
+    "sounds": [
+      "lem.base:music/menu4"
+    ]
+  }
+}
