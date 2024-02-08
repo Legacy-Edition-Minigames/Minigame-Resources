@@ -10,6 +10,34 @@
         },
         {
             "type": "single",
+            "resource": "lem.base:models/build/remove/overlay"
+        },
+        {
+            "type": "single",
+            "resource": "lem.base:models/build/remove/shaft"
+        },
+        {
+            "type": "single",
+            "resource": "lem.base:models/build/remove/ring"
+        },
+        {
+            "type": "single",
+            "resource": "lem.base:models/build/remove/handle"
+        },
+        {
+            "type": "single",
+            "resource": "lem.base:models/build/remove/handle_ramp_side"
+        },
+        {
+            "type": "single",
+            "resource": "lem.base:models/build/remove/panel"
+        },
+        {
+            "type": "single",
+            "resource": "lem.base:models/build/remove/text"
+        },
+        {
+            "type": "single",
             "resource": "lem.base:models/build/chest/wooden_sword"
         },
         {
@@ -35,6 +63,22 @@
         {
             "type": "single",
             "resource": "lem.base:models/build/chest/cooked_porkchop"
+        },
+        {
+            "type": "single",
+            "resource": "lem.base:models/build/corner/negative"
+        },
+        {
+            "type": "single",
+            "resource": "lem.base:models/build/corner/positive"
+        },
+        {
+            "type": "single",
+            "resource": "lem.base:models/build/corner/arrow/negative"
+        },
+        {
+            "type": "single",
+            "resource": "lem.base:models/build/corner/arrow/positive"
         },
         {
             "type": "single",
@@ -102,22 +146,6 @@
         },
         {
             "type": "single",
-            "resource": "lem.base:models/build/corner/negative"
-        },
-        {
-            "type": "single",
-            "resource": "lem.base:models/build/corner/positive"
-        },
-        {
-            "type": "single",
-            "resource": "lem.base:models/build/corner/arrow/negative"
-        },
-        {
-            "type": "single",
-            "resource": "lem.base:models/build/corner/arrow/positive"
-        },
-        {
-            "type": "single",
             "resource": "lem.base:models/inventory/hide"
         },
         {
@@ -150,15 +178,15 @@
         },
         {
             "type": "single",
+            "resource": "lem.battle:models/achievement/root"
+        },
+        {
+            "type": "single",
             "resource": "lem.battle:models/achievement/scratch"
         },
         {
             "type": "single",
             "resource": "lem.battle:models/achievement/student"
-        },
-        {
-            "type": "single",
-            "resource": "lem.battle:models/achievement/root"
         }
     ]
 }
