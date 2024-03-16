@@ -6,6 +6,38 @@
         },
         {
             "type": "single",
+            "resource": "lem.base:models/achievement/locked"
+        },
+        {
+            "type": "single",
+            "resource": "lem.base:models/achievement/broken"
+        },
+        {
+            "type": "single",
+            "resource": "lem.battle:models/achievement/cupid"
+        },
+        {
+            "type": "single",
+            "resource": "lem.battle:models/achievement/hunger"
+        },
+        {
+            "type": "single",
+            "resource": "lem.battle:models/achievement/master"
+        },
+        {
+            "type": "single",
+            "resource": "lem.battle:models/achievement/root"
+        },
+        {
+            "type": "single",
+            "resource": "lem.battle:models/achievement/scratch"
+        },
+        {
+            "type": "single",
+            "resource": "lem.battle:models/achievement/student"
+        },
+        {
+            "type": "single",
             "resource": "lem.menu:menu/models/theme/vanilla/button/standard/full/default"
         },
         {
@@ -350,6 +382,10 @@
         },
         {
             "type": "single",
+            "resource": "lem.menu:menu/models/text/en_us/button/full/achievements"
+        },
+        {
+            "type": "single",
             "resource": "lem.menu:menu/models/text/en_us/button/half/debug"
         },
         {
@@ -451,10 +487,6 @@
         {
             "type": "single",
             "resource": "lem.menu:menu/models/theme/vanilla/button/standard/half/default_up"
-        },
-        {
-            "type": "single",
-            "resource": "lem.base:empty"
         }
     ]
 }

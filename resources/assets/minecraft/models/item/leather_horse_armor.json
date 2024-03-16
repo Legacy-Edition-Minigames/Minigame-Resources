@@ -97,6 +97,7 @@
     {"predicate": {"custom_model_data":10091}, "model": "lem.menu:menu/text/en_us/button/half/left/right"},
     {"predicate": {"custom_model_data":10092}, "model": "lem.menu:menu/text/en_us/button/half/right/right"},
     {"predicate": {"custom_model_data":10093}, "model": "lem.menu:menu/text/en_us/button/full/late_christmas_event"},
-    {"predicate": {"custom_model_data":10094}, "model": "lem.menu:menu/text/en_us/button/full/more_information"}
+    {"predicate": {"custom_model_data":10094}, "model": "lem.menu:menu/text/en_us/button/full/more_information"},
+    {"predicate": {"custom_model_data":10095}, "model": "lem.menu:menu/text/en_us/button/full/achievements"}
   ]
 }

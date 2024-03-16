@@ -33,6 +33,15 @@
             "chars": [
                 "3"
             ]
+        },
+        {
+            "type": "bitmap",
+            "file": "lem.menu:menu/font/theme/vanilla/window/test.png",
+            "ascent": -15,
+            "height": 165,
+            "chars": [
+                "4"
+            ]
         }
     ]
 }
