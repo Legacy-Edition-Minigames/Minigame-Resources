@@ -36,7 +36,7 @@
         },
         {
             "type": "bitmap",
-            "file": "lem.menu:menu/font/theme/vanilla/window/test.png",
+            "file": "lem.menu:menu/font/theme/vanilla/window/achievement.png",
             "ascent": -15,
             "height": 165,
             "chars": [
