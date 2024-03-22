@@ -1,0 +1,44 @@
+{
+	"credit": "Made with Blockbench",
+	"ambientocclusion": false,
+	"texture_size": [81, 16],
+	"textures": {
+		"0": "lem.menu:menu/models/theme/vanilla/button/standard/half/default",
+		"particle": "lem.menu:menu/models/theme/vanilla/button/standard/half/default",
+		"icon": "lem.base:models/empty"
+	},
+	"elements": [
+		{
+			"from": [6, 0, 8],
+			"to": [26, 4, 8],
+			"rotation": {"angle": 0, "axis": "y", "origin": [14, 0, 1]},
+			"faces": {
+				"east": {"uv": [0, 0, 0.20513, 7.2], "texture": "#missing"},
+				"south": {"uv": [0, 0, 16, 16], "texture": "#0"},
+				"west": {"uv": [0, 0, 0.20513, 7.2], "texture": "#missing"},
+				"up": {"uv": [0, 0, 4.92308, 1.6], "texture": "#missing"},
+				"down": {"uv": [0, 0, 4.92308, 1.6], "texture": "#missing"}
+			}
+		},
+		{
+			"name": "icon",
+			"from": [9, 0, 8.1],
+			"to": [13, 4, 8.1],
+			"rotation": {"angle": 0, "axis": "y", "origin": [4, 0, 1]},
+			"faces": {
+				"east": {"uv": [0, 0, 0.20513, 7.2], "texture": "#missing"},
+				"south": {"uv": [0, 0, 16, 16], "texture": "#icon"},
+				"west": {"uv": [0, 0, 0.20513, 7.2], "texture": "#missing"},
+				"up": {"uv": [0, 0, 4.92308, 1.6], "texture": "#missing"},
+				"down": {"uv": [0, 0, 4.92308, 1.6], "texture": "#missing"}
+			}
+		}
+	],
+	"gui_light": "front",
+	"display": {
+		"gui": {
+			"translation": [-54, 24, 0],
+			"scale": [4, 4, 3.85]
+		}
+	}
+}

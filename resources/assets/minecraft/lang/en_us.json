@@ -1,4 +1,5 @@
 {	
+  "lem.menu.ui.title.achievements": "\uF000",
   "lem.advancement.config.root.name": "Client Options",
   "lem.battle.advancement.config.armorbar.desc": "Don't show armor you are wearing\n\n§6Can be toggled with /trigger armorbar",
   "lem.battle.advancement.config.armorbar.name": "Disable ArmorBar",
@@ -19,7 +20,11 @@
   "lem.battle.advancement.config.spawnenchanted.desc": "Allow auto equip to swap armor even if its enchanted\n\n§6Can be toggled with /trigger swapenchanted",
   "lem.battle.advancement.config.spawnenchanted.name": "Swap Enchanted Armor",
   "lem.advancement.root.name": "Mini Game Achievements",
+  "lem.advancement.broken.name": "This achievement is broken!",
+  "lem.advancement.broken.desc": "If you are seeing this, please contact a developer about it and let them know.",
   "lem.advancement.secret.root.name": "Secret Achievements",
+  "lem.advancement.secret.locked.name": "Hidden Achievement",
+  "lem.advancement.secret.locked.desc": "Unlock this achievement to see its details.",
   "lem.advancement.secret.ghost.desc": "Disable both the Halloween lobby and Halloween battle map during a Halloween event.",
   "lem.advancement.secret.ghost.name": "Ghost Buster",
   "lem.advancement.secret.mean.desc": "Disable both the Festive lobby and Festive battle map during a Festive event.",
