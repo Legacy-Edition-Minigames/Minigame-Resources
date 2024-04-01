@@ -32,6 +32,8 @@
     {"predicate": {"custom_model_data":30}, "model": "lem.base:build/corner/negative"},
     {"predicate": {"custom_model_data":31}, "model": "lem.battle:achievement/root"},
     {"predicate": {"custom_model_data":32}, "model": "lem.base:build/corner/arrow/positive"},
-    {"predicate": {"custom_model_data":33}, "model": "lem.base:build/corner/arrow/negative"}
+    {"predicate": {"custom_model_data":33}, "model": "lem.base:build/corner/arrow/negative"},
+    {"predicate": {"custom_model_data":34}, "model": "lem.base:achievement/locked"},
+    {"predicate": {"custom_model_data":35}, "model": "lem.base:achievement/broken"}
   ]
 }
