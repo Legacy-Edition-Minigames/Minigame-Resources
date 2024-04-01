@@ -1,0 +1,74 @@
+{
+    "multipart": [
+        { "when": { "OR": [ { "north": "true", "east": "true" }, { "south": "true", "west": "true" }, { "north": "true", "south": "true" }, { "east": "true", "west": "true" } ] },
+		"apply": [
+			{ "model": "block/vine_angle" },
+			{ "model": "block/vine_angle2" },
+			{ "model": "block/vine_angle3" },
+			{ "model": "block/vine_angle4" },
+			{ "model": "block/vine_angle5" },
+			{ "model": "block/vine_angle6" }
+			]
+        },
+        { "when": { "OR": [ { "east": "true", "south": "true" }, { "west": "true", "north": "true" }, { "north": "true", "south": "true" }, { "east": "true", "west": "true" } ] },
+		"apply": [
+			{ "model": "block/vine_angle", "y": 90 },
+			{ "model": "block/vine_angle2", "y": 90 },
+			{ "model": "block/vine_angle3", "y": 90 },
+			{ "model": "block/vine_angle4", "y": 90 },
+			{ "model": "block/vine_angle5", "y": 90 },
+			{ "model": "block/vine_angle6", "y": 90 }
+			]
+        },
+        {   "when": { "north": "true", "east": "false", "south": "false", "west": "false" },
+		"apply": [
+			{ "model": "block/vine" },
+			{ "model": "block/vine2" },
+			{ "model": "block/vine3" },
+			{ "model": "block/vine4" },
+			{ "model": "block/vine5" },
+			{ "model": "block/vine6" }
+			]
+        },
+        {   "when": { "north": "false", "east": "true", "south": "false", "west": "false" },
+		"apply": [
+			{ "model": "block/vine", "y": 90 },
+			{ "model": "block/vine2", "y": 90 },
+			{ "model": "block/vine3", "y": 90 },
+			{ "model": "block/vine4", "y": 90 },
+			{ "model": "block/vine5", "y": 90 },
+			{ "model": "block/vine6", "y": 90 }
+			]
+        },
+        {   "when": { "north": "false", "east": "false", "south": "true", "west": "false" },
+		"apply": [
+			{ "model": "block/vine", "y": 180 },
+			{ "model": "block/vine2", "y": 180 },
+			{ "model": "block/vine3", "y": 180 },
+			{ "model": "block/vine4", "y": 180 },
+			{ "model": "block/vine5", "y": 180 },
+			{ "model": "block/vine6", "y": 180 }
+			]
+        },
+        {   "when": { "north": "false", "east": "false", "south": "false", "west": "true" },
+		"apply": [
+			{ "model": "block/vine", "y": 270 },
+			{ "model": "block/vine2", "y": 270 },
+			{ "model": "block/vine3", "y": 270 },
+			{ "model": "block/vine4", "y": 270 },
+			{ "model": "block/vine5", "y": 270 },
+			{ "model": "block/vine6", "y": 270 }
+			]
+        },
+        {   "when": { "up": "true" },
+		"apply": [
+			{ "model": "block/vine", "x": 270 },
+			{ "model": "block/vine2", "x": 270 },
+			{ "model": "block/vine3", "x": 270 },
+			{ "model": "block/vine4", "x": 270 },
+			{ "model": "block/vine5", "x": 270 },
+			{ "model": "block/vine6", "x": 270 }
+			]
+        }
+    ]
+}

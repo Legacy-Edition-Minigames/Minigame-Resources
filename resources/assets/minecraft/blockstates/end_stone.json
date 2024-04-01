@@ -1,0 +1,9 @@
+{
+    "variants": {
+        "": [
+            { "model": "block/end_stone" },
+            { "model": "block/end_stone2" },
+            { "model": "block/end_stone3" }
+        ]
+    }
+}

@@ -1,0 +1,7 @@
+{
+    "parent": "block/cube_all_outline",
+    "textures": {
+        "all": "block/end_stone_bricks",
+        "outline": "block/outline/end_stone_bricks"
+    }
+}

@@ -1,0 +1,9 @@
+{
+    "variants": {
+        "": [
+            { "model": "block/deepslate" },
+            { "model": "block/deepslate2" },
+            { "model": "block/deepslate3" }
+        ]
+    }
+}

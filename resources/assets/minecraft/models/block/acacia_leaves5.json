@@ -1,0 +1,30 @@
+{
+    "textures": {
+        "particle": "block/acacia_leaves4",
+        "leaves": "block/acacia_leaves4",
+        "vine": "block/acacia_vine2"
+    },
+    "elements": [
+        {
+            "from": [ 0, 0, 0 ], 
+            "to": [ 16, 16, 16 ], 
+            "faces": {
+                "north": { "texture": "#leaves", "cullface": "north" , "uv": [ 0, 0, 16, 16 ] },
+                "east": { "texture": "#leaves", "cullface": "east" , "uv": [ 0, 0, 16, 16 ] },
+                "south": { "texture": "#leaves", "cullface": "south" , "uv": [ 0, 0, 16, 16 ] },
+                "west": { "texture": "#leaves", "cullface": "west" , "uv": [ 0, 0, 16, 16 ] },
+                "up": { "texture": "#leaves", "cullface": "up" , "uv": [ 0, 0, 16, 16 ] },
+                "down": { "texture": "#leaves", "cullface": "down" , "uv": [ 0, 0, 16, 16 ] }
+            }
+        },
+        {
+            "from": [ 10, -16, -2 ], 
+            "to": [ 10, 0, 14 ], 
+            "rotation": { "origin": [ 8, 8, 8 ], "axis": "y", "angle": -45.0 },
+            "faces": {
+                "east": { "texture": "#vine", "cullface": "down" , "uv": [ 0, 0, 16, 16 ] },
+                "west": { "texture": "#vine", "cullface": "down" , "uv": [ 0, 0, 16, 16 ] }
+            }
+        }
+    ]
+}

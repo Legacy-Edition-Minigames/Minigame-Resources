@@ -9,7 +9,7 @@
         },
         {
             "type": "bitmap",
-            "file": "lem.base:panorama/5/night/1.png",
+            "file": "lem.base:panorama/69/day/1.png",
             "ascent": 15,
             "height": 275,
             "chars": [
@@ -18,7 +18,7 @@
         },
         {
             "type": "bitmap",
-            "file": "lem.base:panorama/5/night/2.png",
+            "file": "lem.base:panorama/69/day/2.png",
             "ascent": 15,
             "height": 275,
             "chars": [
@@ -27,7 +27,7 @@
         },
         {
             "type": "bitmap",
-            "file": "lem.base:panorama/5/night/3.png",
+            "file": "lem.base:panorama/69/day/3.png",
             "ascent": 15,
             "height": 275,
             "chars": [
@@ -36,7 +36,7 @@
         },
         {
             "type": "bitmap",
-            "file": "lem.base:panorama/5/night/4.png",
+            "file": "lem.base:panorama/69/day/4.png",
             "ascent": 15,
             "height": 275,
             "chars": [

@@ -1,0 +1,672 @@
+{ 
+    "music.menu": {
+        "replace": true,
+        "sounds": [ "music/menu" ] }, 
+    "music.under_water": {
+        "replace": true,
+        "sounds": [ "music/ocean", "music/rain", "music/snow", "music/underground_snow" ] }, 
+    "music.games": {
+        "replace": true,
+        "sounds": [ "music/day1", "music/day2", "music/night", "music/underground1", "music/underground2", "music/rain", "music/snow", "music/underground_snow" ] }, 
+    "music.nether": {
+        "replace": true,
+        "sounds": [ "music/underworld1", "music/underworld2", "music/crimson", "music/corruption", "music/underground_crimson", "music/underground_corruption" ] }, 
+    "music.nether.basalt_deltas": {
+        "replace": true,
+        "sounds": [ "music/underworld1", "music/underworld2", "music/crimson", "music/corruption", "music/underground_crimson", "music/underground_corruption" ] }, 
+    "music.nether.crimson_forest": {
+        "replace": true,
+        "sounds": [ "music/underworld1", "music/underworld2", "music/crimson", "music/corruption", "music/underground_crimson", "music/underground_corruption" ] }, 
+    "music.nether.nether_wastes": {
+        "replace": true,
+        "sounds": [ "music/underworld1", "music/underworld2", "music/crimson", "music/corruption", "music/underground_crimson", "music/underground_corruption" ] }, 
+    "music.nether.soul_sand_valley": {
+        "replace": true,
+        "sounds": [ "music/underworld1", "music/underworld2", "music/crimson", "music/corruption", "music/underground_crimson", "music/underground_corruption" ] }, 
+    "music.nether.warped_forest": {
+        "replace": true,
+        "sounds": [ "music/underworld1", "music/underworld2", "music/crimson", "music/corruption", "music/underground_crimson", "music/underground_corruption" ] }, 
+    "music.end": {
+        "replace": true,
+        "sounds": [ "music/sky" ] }, 
+    "music.dragon": {
+        "replace": true,
+        "sounds": [ "music/boss" ] }, 
+    "music.creative": {
+        "replace": true,
+        "sounds": [ "music/hallow" ] }, 
+    "music.credits": {
+        "replace": true,
+        "sounds": [ "music/credits" ] },
+
+
+    "ambient.basalt_deltas.mood": {
+        "replace": true,
+        "sounds": [ "roar" ] }, 
+    "ambient.cave": {
+        "replace": true,
+        "sounds": [ "roar" ] }, 
+    "ambient.crimson_forest.mood": {
+        "replace": true,
+        "sounds": [ "roar" ] }, 
+    "ambient.nether_wastes.mood": {
+        "replace": true,
+        "sounds": [ "roar" ] }, 
+    "ambient.soul_sand_valley.mood": {
+        "replace": true,
+        "sounds": [ "roar" ] }, 
+    "ambient.warped_forest.mood": {
+        "replace": true,
+        "sounds": [ "roar" ] }, 
+
+
+    "entity.player.death": {
+        "replace": true,
+        "sounds": [ "entity/player_killed" ] }, 
+    "entity.player.hurt": {
+        "replace": true,
+        "sounds": [ "entity/player_hurt1", "entity/player_hurt2", "entity/player_hurt3" ] }, 
+    "entity.player.hurt_drown": {
+        "replace": true,
+        "sounds": [ "drown" ] }, 
+    "entity.player.hurt_on_fire": {
+        "replace": true,
+        "sounds": [ "entity/player_hurt1", "entity/player_hurt2", "entity/player_hurt3" ] }, 
+    "entity.player.hurt_sweet_berry_bush": {
+        "replace": true,
+        "sounds": [ "entity/player_hurt1", "entity/player_hurt2", "entity/player_hurt3" ] }, 
+    "entity.player.splash": {
+        "replace": true,
+        "sounds": [ "block/watersplash" ] }, 
+    "entity.player.splash.high_speed": {
+        "replace": true,
+        "sounds": [ "block/watersplash" ] }, 
+    "ambient.underwater.enter": {
+        "replace": true,
+        "sounds": [ "x" ] }, 
+    "ambient.underwater.exit": {
+        "replace": true,
+        "sounds": [ "x" ] }, 
+    "ambient.underwater.loop": {
+        "replace": true,
+        "sounds": [ "x" ] }, 
+    "ambient.underwater.loop.additions": {
+        "replace": true,
+        "sounds": [ "x" ] }, 
+    "ambient.underwater.loop.additions.rare": {
+        "replace": true,
+        "sounds": [ "x" ] }, 
+    "ambient.underwater.loop.additions.ultra_rare": {
+        "replace": true,
+        "sounds": [ "x" ] },
+
+
+    "entity.generic.drink": {
+        "replace": true,
+        "sounds": [ "drink" ] }, 
+    "entity.generic.eat": {
+        "replace": true,
+        "sounds": [ "eat" ] }, 
+    "entity.item.pickup": {
+        "replace": true,
+        "sounds": [ { "name": "grab", "pitch": 0.6 } ] },
+    "entity.experience_orb.pickup": {
+        "replace": true,
+        "sounds": [ "coin1", "coin2", "coin3", "coin4", "coin0" ] }, 
+    "entity.player.levelup": {
+        "replace": true,
+        "sounds": [ "coins" ] }, 
+    "entity.player.attack.crit": {
+        "replace": true,
+        "sounds": [ "swing1",  "swing2" ] }, 
+    "entity.player.attack.knockback": {
+        "replace": true,
+        "sounds": [ "swing1", "swing2" ] }, 
+    "entity.player.attack.nodamage": {
+        "replace": true,
+        "sounds": [ "swing1", "swing2" ] }, 
+    "entity.player.attack.strong": {
+        "replace": true,
+        "sounds": [ "swing1", "swing2" ] }, 
+    "entity.player.attack.sweep": {
+        "replace": true,
+        "sounds": [ "swing1", "swing2" ] }, 
+    "entity.player.attack.weak": {
+        "replace": true,
+        "sounds": [ "swing1", "swing2" ] }, 
+
+
+    "entity.armor_stand.fall": {
+        "replace": true,
+        "sounds": [ "x" ] }, 
+    "entity.generic.big_fall": {
+        "replace": true,
+        "sounds": [ "x" ] }, 
+    "entity.generic.small_fall": {
+        "replace": true,
+        "sounds": [ "x" ] }, 
+    "entity.hostile.big_fall": {
+        "replace": true,
+        "sounds": [ "x" ] }, 
+    "entity.hostile.small_fall": {
+        "replace": true,
+        "sounds": [ "x" ] }, 
+    "entity.player.big_fall": {
+        "replace": true,
+        "sounds": [ "x" ] }, 
+    "entity.player.small_fall": {
+        "replace": true,
+        "sounds": [ "x" ] }, 
+
+
+    "block.glass.break": {
+        "replace": true,
+        "sounds": [ "block/dig_glass" ] }, 
+    "block.metal.break": {
+        "replace": true,
+        "sounds": [ "block/dig_stone1", "block/dig_stone2", "block/dig_stone3" ] }, 
+    "block.stone.break": {
+        "replace": true,
+        "sounds": [ "block/dig_stone1", "block/dig_stone2", "block/dig_stone3" ] }, 
+    "block.gravel.break": {
+        "replace": true,
+        "sounds": [ "block/dig_wood1", "block/dig_wood2", "block/dig_wood3" ] }, 
+    "block.sand.break": {
+        "replace": true,
+        "sounds": [ "block/dig_wood1", "block/dig_wood2", "block/dig_wood3" ] }, 
+    "block.grass.break": {
+        "replace": true,
+        "sounds": [ "block/dig_grass" ] }, 
+    "block.wood.break": {
+        "replace": true,
+        "sounds": [ "block/dig_wood1", "block/dig_wood2", "block/dig_wood3" ] }, 
+    "block.snow.break": {
+        "replace": true,
+        "sounds": [ "block/dig_wood1", "block/dig_wood2", "block/dig_wood3" ] }, 
+
+
+    "block.glass.hit": {
+        "replace": true,
+        "sounds": [ "block/dig_stone1", "block/dig_stone2", "block/dig_stone3" ] }, 
+    "block.metal.hit": {
+        "replace": true,
+        "sounds": [ "block/dig_stone1", "block/dig_stone2", "block/dig_stone3" ] }, 
+    "block.stone.hit": {
+        "replace": true,
+        "sounds": [ "block/dig_stone1", "block/dig_stone2", "block/dig_stone3" ] }, 
+    "block.gravel.hit": {
+        "replace": true,
+        "sounds": [ "block/dig_wood1", "block/dig_wood2", "block/dig_wood3" ] }, 
+    "block.sand.hit": {
+        "replace": true,
+        "sounds": [ "block/dig_wood1", "block/dig_wood2", "block/dig_wood3" ] }, 
+    "block.grass.hit": {
+        "replace": true,
+        "sounds": [ "block/dig_wood1", "block/dig_wood2", "block/dig_wood3" ] }, 
+    "block.wood.hit": {
+        "replace": true,
+        "sounds": [ "block/dig_wood1", "block/dig_wood2", "block/dig_wood3" ] }, 
+    "block.snow.hit": {
+        "replace": true,
+        "sounds": [ "block/dig_wood1", "block/dig_wood2", "block/dig_wood3" ] }, 
+
+
+    "block.glass.place": {
+        "replace": true,
+        "sounds": [ "block/dig_wood1", "block/dig_wood2", "block/dig_wood3" ] },
+    "block.metal.place": {
+        "replace": true,
+        "sounds": [ "block/dig_wood1", "block/dig_wood2", "block/dig_wood3" ] },   
+    "block.stone.place": {
+        "replace": true,
+        "sounds": [ "block/dig_wood1", "block/dig_wood2", "block/dig_wood3" ] }, 
+    "block.gravel.place": {
+        "replace": true,
+        "sounds": [ "block/dig_wood1", "block/dig_wood2", "block/dig_wood3" ] }, 
+    "block.grass.place": {
+        "replace": true,
+        "sounds": [ "block/dig_wood1", "block/dig_wood2", "block/dig_wood3" ] },
+    "block.sand.place": {
+        "replace": true,
+        "sounds": [ "block/dig_wood1", "block/dig_wood2", "block/dig_wood3" ] }, 
+    "block.wood.place": {
+        "replace": true,
+        "sounds": [ "block/dig_wood1", "block/dig_wood2", "block/dig_wood3" ] }, 
+    "block.snow.place": {
+        "replace": true,
+        "sounds": [ "block/dig_wood1", "block/dig_wood2", "block/dig_wood3" ] }, 
+
+
+    "block.glass.step": {
+        "replace": true,
+        "sounds": [ "step" ] }, 
+    "block.metal.step": {
+        "replace": true,
+        "sounds": [ "step" ] }, 
+    "block.stone.step": {
+        "replace": true,
+        "sounds": [ "step" ] }, 
+    "block.gravel.step": {
+        "replace": true,
+        "sounds": [ "step" ] }, 
+    "block.grass.step": {
+        "replace": true,
+        "sounds": [ "step" ] }, 
+    "block.wood.step": {
+        "replace": true,
+        "sounds": [ "step" ] }, 
+    "block.sand.step": {
+        "replace": true,
+        "sounds": [ "step" ] }, 
+    "block.snow.step": {
+        "replace": true,
+        "sounds": [ "step" ] }, 
+
+
+    "entity.splash_potion.break": {
+        "replace": true,
+        "sounds": [ { "name": "explosion", "volume": 0.4 } ] },
+    "entity.splash_potion.throw": {
+        "replace": true,
+        "sounds": [ "swing1",  "swing2" ] }, 
+    "entity.lingering_potion.throw": {
+        "replace": true,
+        "sounds": [ "swing1",  "swing2" ] }, 
+    "entity.generic.explode": {
+        "replace": true,
+        "sounds": [ "explosion" ] }, 
+    "block.iron_door.open": {
+        "replace": true,
+        "sounds": [ "block/door_open" ] }, 
+    "block.iron_door.close": {
+        "replace": true,
+        "sounds": [ "block/door_close" ] }, 
+    "block.wooden_door.open": {
+        "replace": true,
+        "sounds": [ "block/door_open" ] }, 
+    "block.wooden_door.close": {
+        "replace": true,
+        "sounds": [ "block/door_close" ] }, 
+    "weather.rain": {
+        "replace": true,
+        "sounds": [ "x" ] }, 
+    "weather.rain.above": {
+        "replace": true,
+        "sounds": [ "x" ] }, 
+    "entity.lightning_bolt.impact": {
+        "replace": true,
+        "sounds": [ "x" ] }, 
+    "entity.lightning_bolt.thunder": {
+        "replace": true,
+        "sounds": [ "x" ] }, 
+    "block.portal.travel": {
+        "replace": true,
+        "sounds": [ "warp" ] },
+    "block.anvil.use": {
+        "replace": true,
+        "sounds": [ "anvil" ] }, 
+
+
+
+    "block.chest.close": {
+        "replace": true,
+        "sounds": [ "gui_close" ] }, 
+    "block.chest.open": {
+        "replace": true,
+        "sounds": [ "gui_open" ] }, 
+    "block.ender_chest.close": {
+        "replace": true,
+        "sounds": [ "gui_close" ] }, 
+    "block.ender_chest.open": {
+        "replace": true,
+        "sounds": [ "gui_open" ] },
+    "block.donkey.chest": {
+        "replace": true,
+        "sounds": [ "gui_open" ] }, 
+    "block.shulker_box.close": {
+        "replace": true,
+        "sounds": [ "gui_close" ] }, 
+    "block.shulker_box.open": {
+        "replace": true,
+        "sounds": [ "gui_open" ] }, 
+    "ui.button.click": {
+        "replace": true,
+        "sounds": [ "gui_open" ] }, 
+
+
+    "block.lava.ambient": {
+        "replace": true,
+        "sounds": [ "block/lava" ] }, 
+    "block.lava.extinguish": {
+        "replace": true,
+        "sounds": [ "block/lava" ] }, 
+    "block.lava.pop": {
+        "replace": true,
+        "sounds": [ "block/lavapop" ] }, 
+    "block.water.ambient": {
+        "replace": true,
+        "sounds": [ { "name": "block/water", "volume": 0.4 } ] },
+    "entity.boat.paddle_water": {
+        "replace": true,
+        "sounds": [ "block/watersplash" ] }, 
+
+
+    "entity.dolphin.splash": {
+        "replace": true,
+        "sounds": [ "block/watersplash" ] }, 
+    "entity.fishing_bobber.splash": {
+        "replace": true,
+        "sounds": [ "block/watersplash" ] }, 
+    "entity.generic.splash": {
+        "replace": true,
+        "sounds": [ "block/watersplash" ] }, 
+    "entity.hostile.splash": {
+        "replace": true,
+        "sounds": [ "block/watersplash" ] },  
+    "entity.dolphin.swim": {
+        "replace": true,
+        "sounds": [ "x" ] }, 
+    "entity.drowned.swim": {
+        "replace": true,
+        "sounds": [ "x" ] }, 
+    "entity.fish.swim": {
+        "replace": true,
+        "sounds": [ "x" ] }, 
+    "entity.generic.swim": {
+        "replace": true,
+        "sounds": [ "x" ] }, 
+    "entity.hostile.swim": {
+        "replace": true,
+        "sounds": [ "x" ] }, 
+    "entity.player.swim": {
+        "replace": true,
+        "sounds": [ "x" ] }, 
+    "entity.skeleton_horse.swim": {
+        "replace": true,
+        "sounds": [ "x" ] }, 
+    "entity.turtle.swim": {
+        "replace": true,
+        "sounds": [ "x" ] }, 
+
+
+    "ui.toast.challenge_complete": {
+        "replace": true,
+        "sounds": [ "ding" ] }, 
+    "ui.toast.in": {
+        "replace": true,
+        "sounds": [ "ding" ] }, 
+
+
+    "entity.bat.hurt": {
+        "replace": true,
+        "sounds": [ "entity/hit" ] }, 
+    "entity.bat.death": {
+        "replace": true,
+        "sounds": [ "entity/death_bat" ] }, 
+    "entity.bat.ambient": {
+        "replace": true,
+        "sounds": [ "entity/bat" ] }, 
+    "entity.bee.hurt": {
+        "replace": true,
+        "sounds": [ "entity/hit" ] }, 
+    "entity.blaze.hurt": {
+        "replace": true,
+        "sounds": [ "entity/hit" ] }, 
+    "entity.cat.hurt": {
+        "replace": true,
+        "sounds": [ "entity/hit" ] }, 
+    "entity.chicken.hurt": {
+        "replace": true,
+        "sounds": [ "entity/hit" ] }, 
+    "entity.chicken.ambient": {
+        "replace": true,
+        "sounds": [ "entity/bird1", "entity/bird2", "entity/bird3", "entity/bird4" ] }, 
+    "entity.chicken.death": {
+        "replace": true,
+        "sounds": [ "entity/death_slime" ] }, 
+    "entity.cod.hurt": {
+        "replace": true,
+        "sounds": [ "entity/hit" ] }, 
+    "entity.cow.hurt": {
+        "replace": true,
+        "sounds": [ "entity/hit" ] }, 
+    "entity.dolphin.hurt": {
+        "replace": true,
+        "sounds": [ "entity/hit" ] }, 
+    "entity.donkey.hurt": {
+        "replace": true,
+        "sounds": [ "entity/hit" ] }, 
+    "entity.drowned.hurt": {
+        "replace": true,
+        "sounds": [ "entity/hit" ] }, 
+    "entity.drowned.hurt_water": {
+        "replace": true,
+        "sounds": [ "entity/hit" ] }, 
+    "entity.elder_guardian.hurt": {
+        "replace": true,
+        "sounds": [ "entity/hit" ] }, 
+    "entity.elder_guardian.hurt_land": {
+        "replace": true,
+        "sounds": [ "entity/hit" ] }, 
+    "entity.ender_dragon.hurt": {
+        "replace": true,
+        "sounds": [ "entity/hit" ] }, 
+    "entity.endermite.hurt": {
+        "replace": true,
+        "sounds": [ "entity/hit" ] }, 
+    "entity.evoker.hurt": {
+        "replace": true,
+        "sounds": [ "entity/hit" ] }, 
+    "entity.fox.hurt": {
+        "replace": true,
+        "sounds": [ "entity/hit" ] }, 
+    "entity.generic.hurt": {
+        "replace": true,
+        "sounds": [ "entity/hit" ] }, 
+    "entity.ghast.hurt": {
+        "replace": true,
+        "sounds": [ "entity/hit" ] }, 
+    "entity.guardian.hurt": {
+        "replace": true,
+        "sounds": [ "entity/hit" ] }, 
+    "entity.guardian.hurt_land": {
+        "replace": true,
+        "sounds": [ "entity/hit" ] }, 
+    "entity.horse.hurt": {
+        "replace": true,
+        "sounds": [ "entity/hit" ] }, 
+    "entity.hostile.hurt": {
+        "replace": true,
+        "sounds": [ "entity/hit" ] }, 
+    "entity.husk.hurt": {
+        "replace": true,
+        "sounds": [ "entity/hit" ] }, 
+    "entity.illusioner.hurt": {
+        "replace": true,
+        "sounds": [ "entity/hit" ] }, 
+    "entity.iron_golem.hurt": {
+        "replace": true,
+        "sounds": [ "entity/hit_iron" ] }, 
+    "entity.llama.hurt": {
+        "replace": true,
+        "sounds": [ "entity/hit" ] }, 
+    "entity.magma_cube.hurt": {
+        "replace": true,
+        "sounds": [ "entity/hit" ] }, 
+    "entity.magma_cube.hurt_small": {
+        "replace": true,
+        "sounds": [ "entity/hit" ] }, 
+    "entity.mule.hurt": {
+        "replace": true,
+        "sounds": [ "entity/hit" ] }, 
+    "entity.ocelot.hurt": {
+        "replace": true,
+        "sounds": [ "entity/hit" ] }, 
+    "entity.panda.hurt": {
+        "replace": true,
+        "sounds": [ "entity/hit" ] }, 
+    "entity.parrot.hurt": {
+        "replace": true,
+        "sounds": [ "entity/hit" ] }, 
+    "entity.phantom.hurt": {
+        "replace": true,
+        "sounds": [ "entity/hit" ] }, 
+    "entity.phantom.ambient": {
+        "replace": true,
+        "sounds": [ "x" ] }, 
+    "entity.phantom.bite": {
+        "replace": true,
+        "sounds": [ "x" ] }, 
+    "entity.phantom.death": {
+        "replace": true,
+        "sounds": [ "entity/death_slime" ] }, 
+    "entity.phantom.flap": {
+        "replace": true,
+        "sounds": [ "x" ] }, 
+    "entity.phantom.swoop": {
+        "replace": true,
+        "sounds": [ "x" ] }, 
+    "entity.pig.hurt": {
+        "replace": true,
+        "sounds": [ "entity/hit" ] }, 
+    "entity.pig.death": {
+        "replace": true,
+        "sounds": [ "entity/death_slime" ] },
+    "entity.pillager.hurt": {
+        "replace": true,
+        "sounds": [ "entity/hit" ] }, 
+    "entity.polar_bear.hurt": {
+        "replace": true,
+        "sounds": [ "entity/hit" ] }, 
+    "entity.puffer_fish.hurt": {
+        "replace": true,
+        "sounds": [ "entity/hit" ] }, 
+    "entity.rabbit.hurt": {
+        "replace": true,
+        "sounds": [ "entity/hit" ] }, 
+    "entity.ravager.hurt": {
+        "replace": true,
+        "sounds": [ "entity/hit" ] }, 
+    "entity.salmon.hurt": {
+        "replace": true,
+        "sounds": [ "entity/hit" ] }, 
+    "entity.sheep.hurt": {
+        "replace": true,
+        "sounds": [ "entity/hit" ] }, 
+    "entity.shulker.hurt": {
+        "replace": true,
+        "sounds": [ "entity/hit" ] }, 
+    "entity.shulker.hurt_closed": {
+        "replace": true,
+        "sounds": [ "entity/hit" ] }, 
+    "entity.shulker_bullet.hurt": {
+        "replace": true,
+        "sounds": [ "entity/hit" ] }, 
+    "entity.silverfish.hurt": {
+        "replace": true,
+        "sounds": [ "entity/hit" ] }, 
+    "entity.skeleton.hurt": {
+        "replace": true,
+        "sounds": [ "entity/hit_bone" ] }, 
+    "entity.skeleton.death": {
+        "replace": true,
+        "sounds": [ "entity/death_zombie" ] }, 
+    "entity.skeleton.ambient": {
+        "replace": true,
+        "sounds": [ "entity/zombie1", "entity/zombie2", "entity/zombie3" ] },
+    "entity.skeleton_horse.hurt": {
+        "replace": true,
+        "sounds": [ "entity/hit_bone" ] }, 
+    "entity.slime.hurt": {
+        "replace": true,
+        "sounds": [ "entity/hit" ] }, 
+    "entity.slime.death": {
+        "replace": true,
+        "sounds": [ "entity/death_slime" ] }, 
+    "entity.slime.hurt_small": {
+        "replace": true,
+        "sounds": [ "entity/hit" ] }, 
+    "entity.slime.death_small": {
+        "replace": true,
+        "sounds": [ "entity/death_slime" ] }, 
+    "entity.snow_golem.hurt": {
+        "replace": true,
+        "sounds": [ "entity/hit" ] }, 
+    "entity.spider.hurt": {
+        "replace": true,
+        "sounds": [ "entity/hit" ] }, 
+    "entity.spider.death": {
+        "replace": true,
+        "sounds": [ "entity/death_soul" ] }, 
+    "entity.spider.ambient": {
+        "replace": true,
+        "sounds": [ "x" ] },
+    "entity.squid.hurt": {
+        "replace": true,
+        "sounds": [ "entity/hit" ] }, 
+    "entity.stray.hurt": {
+        "replace": true,
+        "sounds": [ "entity/hit" ] }, 
+    "entity.tropical_fish.hurt": {
+        "replace": true,
+        "sounds": [ "entity/hit" ] }, 
+    "entity.turtle.hurt": {
+        "replace": true,
+        "sounds": [ "entity/hit" ] }, 
+    "entity.turtle.hurt_baby": {
+        "replace": true,
+        "sounds": [ "entity/hit" ] }, 
+    "entity.vex.hurt": {
+        "replace": true,
+        "sounds": [ "entity/hit" ] }, 
+    "entity.villager.hurt": {
+        "replace": true,
+        "sounds": [ "entity/hit" ] }, 
+    "entity.vindicator.hurt": {
+        "replace": true,
+        "sounds": [ "entity/hit" ] }, 
+    "entity.wandering_trader.hurt": {
+        "replace": true,
+        "sounds": [ "entity/hit" ] }, 
+    "entity.witch.hurt": {
+        "replace": true,
+        "sounds": [ "entity/hit" ] }, 
+    "entity.wither.hurt": {
+        "replace": true,
+        "sounds": [ "entity/hit" ] }, 
+    "entity.wither_skeleton.hurt": {
+        "replace": true,
+        "sounds": [ "entity/hit" ] }, 
+    "entity.wolf.hurt": {
+        "replace": true,
+        "sounds": [ "entity/hit" ] }, 
+    "entity.zombie.hurt": {
+        "replace": true,
+        "sounds": [ "entity/hit" ] }, 
+    "entity.zombie.death": {
+        "replace": true,
+        "sounds": [ "entity/death_zombie" ] }, 
+    "entity.zombie.ambient": {
+        "replace": true,
+        "sounds": [ "entity/zombie1", "entity/zombie2", "entity/zombie3" ] }, 
+    "entity.zombie_horse.hurt": {
+        "replace": true,
+        "sounds": [ "entity/hit" ] }, 
+    "entity.zombie_pigman.hurt": {
+        "replace": true,
+        "sounds": [ "entity/hit" ] }, 
+    "entity.zombie_villager.hurt": {
+        "replace": true,
+        "sounds": [ "entity/hit" ] }, 
+    "entity.zombie_villager.death": {
+        "replace": true,
+        "sounds": [ "entity/death_zombie" ] }, 
+
+
+    "entity.ghast.shoot": {
+        "replace": true,
+        "sounds": [ "roar" ] }, 
+    "entity.ghast.warn": {
+        "replace": true,
+        "sounds": [ "x" ] }
+}

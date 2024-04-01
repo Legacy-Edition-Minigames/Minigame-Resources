@@ -1,0 +1,9 @@
+{
+    "variants": {
+        "": [
+            { "model": "block/purpur_block" },
+            { "model": "block/purpur_block2" },
+            { "model": "block/purpur_block3" }
+        ]
+    }
+}

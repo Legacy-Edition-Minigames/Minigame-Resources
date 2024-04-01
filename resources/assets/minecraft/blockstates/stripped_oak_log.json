@@ -1,0 +1,16 @@
+{
+  "variants": {
+    "axis=x": [
+      { "model": "block/stripped_oak_log", "x": 90, "y": 90 },
+      { "model": "block/stripped_oak_log2", "x": 90, "y": 90 },
+      { "model": "block/stripped_oak_log3", "x": 90, "y": 90 } ],
+    "axis=y": [                            
+      { "model": "block/stripped_oak_log" },
+      { "model": "block/stripped_oak_log2" },
+      { "model": "block/stripped_oak_log3" } ],
+    "axis=z": [                            
+      { "model": "block/stripped_oak_log", "x": 90 },
+      { "model": "block/stripped_oak_log2", "x": 90 },
+      { "model": "block/stripped_oak_log3", "x": 90 } ]
+  }
+}

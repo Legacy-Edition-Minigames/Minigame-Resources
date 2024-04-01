@@ -1,0 +1,22 @@
+{
+    "textures": {
+        "particle": "block/spruce_leaves",
+        "boreal_leaves_side": "block/spruce_leaves",
+        "boreal_leaves": "block/spruce_leaves_top"
+    },
+    "elements": [
+        {
+            "from": [ 0, -2, 0 ], 
+            "to": [ 16, 18, 16 ], 
+            "rotation": { "origin": [ 8, 8, 8 ], "axis": "y", "angle": 45.0 },
+            "faces": {
+                "north": { "texture": "#boreal_leaves_side", "uv": [ 0, 0, 16, 16 ], "cullface": "north" },
+                "east": { "texture": "#boreal_leaves_side", "uv": [ 0, 0, 16, 16 ], "cullface": "east" },
+                "south": { "texture": "#boreal_leaves_side", "uv": [ 0, 0, 16, 16 ], "cullface": "south" },
+                "west": { "texture": "#boreal_leaves_side", "uv": [ 0, 0, 16, 16 ], "cullface": "west" },
+                "up": { "texture": "#boreal_leaves", "uv": [ 0, 0, 16, 16 ], "cullface": "up" },
+                "down": { "texture": "#boreal_leaves", "uv": [ 0, 0, 16, 16 ], "cullface": "down" }
+            }
+        }
+    ]
+}

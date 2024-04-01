@@ -1,0 +1,9 @@
+{
+    "variants": {
+        "": [
+            { "model": "block/raw_iron_block" },
+            { "model": "block/raw_iron_block2" },
+            { "model": "block/raw_iron_block3" }
+        ]
+    }
+}

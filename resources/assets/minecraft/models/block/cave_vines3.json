@@ -1,0 +1,6 @@
+{
+  "parent": "block/cross_noscale",
+  "textures": {
+    "cross": "block/cave_vines3"
+  }
+}

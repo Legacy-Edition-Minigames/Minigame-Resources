@@ -1,0 +1,16 @@
+{
+  "variants": {
+    "axis=x": [
+      { "model": "block/stripped_acacia_wood", "x": 90, "y": 90 },
+      { "model": "block/stripped_acacia_wood2", "x": 90, "y": 90 },
+      { "model": "block/stripped_acacia_wood3", "x": 90, "y": 90 } ],
+    "axis=y": [                                   
+      { "model": "block/stripped_acacia_wood" },
+      { "model": "block/stripped_acacia_wood2" },
+      { "model": "block/stripped_acacia_wood3" } ],
+    "axis=z": [                                   
+      { "model": "block/stripped_acacia_wood", "x": 90 },
+      { "model": "block/stripped_acacia_wood2", "x": 90 },
+      { "model": "block/stripped_acacia_wood3", "x": 90 } ]
+  }
+}

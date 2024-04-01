@@ -1,0 +1,7 @@
+{
+    "parent": "block/cube_column",
+    "textures": {
+        "side": "block/mangrove_log2",
+        "end": "block/mangrove_log_top"
+    }
+}

@@ -1,0 +1,42 @@
+{
+    "variants": {
+        "": [
+            { "model": "block/soul_soil", "weight": 20 },
+            { "model": "block/soul_soil2", "weight": 1 },
+            { "model": "block/soul_soil3", "weight": 1 },
+            { "model": "block/soul_soil4", "weight": 1 },
+            { "model": "block/soul_soil5", "weight": 1 },
+            { "model": "block/soul_soil6", "weight": 1 },
+            { "model": "block/soul_soil7", "weight": 1 },
+            { "model": "block/soul_soil8", "weight": 1 },
+            { "model": "block/soul_soil9", "weight": 1 },
+            { "model": "block/soul_soil", "weight": 20, "y": 90 },
+            { "model": "block/soul_soil2", "weight": 1, "y": 90 },
+            { "model": "block/soul_soil3", "weight": 1, "y": 90 },
+            { "model": "block/soul_soil4", "weight": 1, "y": 90 },
+            { "model": "block/soul_soil5", "weight": 1, "y": 90 },
+            { "model": "block/soul_soil6", "weight": 1, "y": 90 },
+            { "model": "block/soul_soil7", "weight": 1, "y": 90 },
+            { "model": "block/soul_soil8", "weight": 1, "y": 90 },
+            { "model": "block/soul_soil9", "weight": 1, "y": 90 },
+            { "model": "block/soul_soil", "weight": 20, "y": 180 },
+            { "model": "block/soul_soil2", "weight": 1, "y": 180 },
+            { "model": "block/soul_soil3", "weight": 1, "y": 180 },
+            { "model": "block/soul_soil4", "weight": 1, "y": 180 },
+            { "model": "block/soul_soil5", "weight": 1, "y": 180 },
+            { "model": "block/soul_soil6", "weight": 1, "y": 180 },
+            { "model": "block/soul_soil7", "weight": 1, "y": 180 },
+            { "model": "block/soul_soil8", "weight": 1, "y": 180 },
+            { "model": "block/soul_soil9", "weight": 1, "y": 180 },
+            { "model": "block/soul_soil", "weight": 20, "y": 270 },
+            { "model": "block/soul_soil2", "weight": 1, "y": 270 },
+            { "model": "block/soul_soil3", "weight": 1, "y": 270 },
+            { "model": "block/soul_soil4", "weight": 1, "y": 270 },
+            { "model": "block/soul_soil5", "weight": 1, "y": 270 },
+            { "model": "block/soul_soil6", "weight": 1, "y": 270 },
+            { "model": "block/soul_soil7", "weight": 1, "y": 270 },
+            { "model": "block/soul_soil8", "weight": 1, "y": 270 },
+            { "model": "block/soul_soil9", "weight": 1, "y": 270 }
+        ]
+    }
+}

@@ -1,0 +1,9 @@
+{
+    "variants": {
+        "": [
+            { "model": "block/powder_snow" },
+            { "model": "block/powder_snow2" },
+            { "model": "block/powder_snow3" }
+        ]
+    }
+}

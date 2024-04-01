@@ -1,0 +1,9 @@
+{
+    "variants": {
+        "": [
+            { "model": "block/pumpkin" },
+            { "model": "block/pumpkin2" },
+            { "model": "block/pumpkin3" }
+        ]
+    }
+}

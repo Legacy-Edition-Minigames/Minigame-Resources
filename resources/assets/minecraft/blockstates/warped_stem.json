@@ -1,0 +1,17 @@
+{
+  "variants": {
+    "axis=x": [
+      { "model": "block/warped_stem", "x": 90, "y": 90 },
+      { "model": "block/warped_stem2", "x": 90, "y": 90 },
+      { "model": "block/warped_stem3", "x": 90, "y": 90 } ],
+    "axis=y": [                   
+      { "model": "block/warped_stem", "weight": 20 },
+      { "model": "block/warped_stem2", "weight": 20 },
+      { "model": "block/warped_stem3", "weight": 20 },
+      { "model": "block/warped_stem4", "weight": 1 } ],
+    "axis=z": [                   
+      { "model": "block/warped_stem", "x": 90 },
+      { "model": "block/warped_stem2", "x": 90 },
+      { "model": "block/warped_stem3", "x": 90 } ]
+  }
+}

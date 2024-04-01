@@ -1,0 +1,34 @@
+{
+  "variants": {
+    "axis=x": [
+      { "model": "block/oak_log", "x": 90, "y": 90 },
+      { "model": "block/oak_log2", "x": 90, "y": 90 },
+      { "model": "block/oak_log3", "x": 90, "y": 90 },
+      { "model": "block/oak_log4", "x": 90, "y": 90 },
+      { "model": "block/oak_log5", "x": 90, "y": 90 },
+      { "model": "block/oak_log6", "x": 90, "y": 90 },
+      { "model": "block/oak_log7", "x": 90, "y": 90 },
+      { "model": "block/oak_log8", "x": 90, "y": 90 },
+      { "model": "block/oak_log9", "x": 90, "y": 90 } ],
+    "axis=y": [
+      { "model": "block/oak_log" },
+      { "model": "block/oak_log2" },
+      { "model": "block/oak_log3" },
+      { "model": "block/oak_log4" },
+      { "model": "block/oak_log5" },
+      { "model": "block/oak_log6" },
+      { "model": "block/oak_log7" },
+      { "model": "block/oak_log8" },
+      { "model": "block/oak_log9" } ],
+    "axis=z": [
+      { "model": "block/oak_log", "x": 90 },
+      { "model": "block/oak_log2", "x": 90 },
+      { "model": "block/oak_log3", "x": 90 },
+      { "model": "block/oak_log4", "x": 90 },
+      { "model": "block/oak_log5", "x": 90 },
+      { "model": "block/oak_log6", "x": 90 },
+      { "model": "block/oak_log7", "x": 90 },
+      { "model": "block/oak_log8", "x": 90 },
+      { "model": "block/oak_log9", "x": 90 } ]
+  }
+}

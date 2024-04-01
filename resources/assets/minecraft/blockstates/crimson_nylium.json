@@ -1,0 +1,12 @@
+{
+    "variants": {
+        "": [
+            { "model": "block/crimson_nylium", "weight": 20 },
+            { "model": "block/crimson_nylium2", "weight": 20 },
+            { "model": "block/crimson_nylium3", "weight": 1 },
+            { "model": "block/crimson_nylium4", "weight": 1 },
+            { "model": "block/crimson_nylium5", "weight": 1 },
+            { "model": "block/crimson_nylium6", "weight": 1 }
+        ]
+    }
+}

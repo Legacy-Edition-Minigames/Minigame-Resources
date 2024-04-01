@@ -1,0 +1,6 @@
+{
+    "parent": "block/cube_all_outline",
+    "textures": {
+        "all": "block/dirt7"
+    }
+}

@@ -1,0 +1,30 @@
+{
+    "variants": {
+        "": [
+            { "model": "block/soul_sand", "weight": 30 },
+            { "model": "block/soul_sand2", "weight": 1 },
+            { "model": "block/soul_sand3", "weight": 1 },
+            { "model": "block/soul_sand4", "weight": 1 },
+            { "model": "block/soul_sand5", "weight": 1 },
+            { "model": "block/soul_sand6", "weight": 1 },
+            { "model": "block/soul_sand", "weight": 30, "y": 90 },
+            { "model": "block/soul_sand2", "weight": 1, "y": 90 },
+            { "model": "block/soul_sand3", "weight": 1, "y": 90 },
+            { "model": "block/soul_sand4", "weight": 1, "y": 90 },
+            { "model": "block/soul_sand5", "weight": 1, "y": 90 },
+            { "model": "block/soul_sand6", "weight": 1, "y": 90 },
+            { "model": "block/soul_sand", "weight": 30, "y": 180 },
+            { "model": "block/soul_sand2", "weight": 1, "y": 180 },
+            { "model": "block/soul_sand3", "weight": 1, "y": 180 },
+            { "model": "block/soul_sand4", "weight": 1, "y": 180 },
+            { "model": "block/soul_sand5", "weight": 1, "y": 180 },
+            { "model": "block/soul_sand6", "weight": 1, "y": 180 },
+            { "model": "block/soul_sand", "weight": 30, "y": 270 },
+            { "model": "block/soul_sand2", "weight": 1, "y": 270 },
+            { "model": "block/soul_sand3", "weight": 1, "y": 270 },
+            { "model": "block/soul_sand4", "weight": 1, "y": 270 },
+            { "model": "block/soul_sand5", "weight": 1, "y": 270 },
+            { "model": "block/soul_sand6", "weight": 1, "y": 270 }
+        ]
+    }
+}

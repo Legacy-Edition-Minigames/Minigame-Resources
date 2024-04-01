@@ -1,26 +1,50 @@
 {
-  "music.vanilla.1": {
+  "music.castle.1": {
     "category": "master",
     "sounds": [
-      "lem.battle:music/vanilla1"
+      "lem.battle:music/castle"
     ]
   },
-  "music.vanilla.2": {
+  "music.cavern.1": {
     "category": "master",
     "sounds": [
-      "lem.battle:music/vanilla2"
+      "lem.battle:music/cavern"
     ]
   },
-  "music.vanilla.3": {
+  "music.cove.1": {
     "category": "master",
     "sounds": [
-      "lem.battle:music/vanilla3"
+      "lem.battle:music/cove"
     ]
   },
-  "music.vanilla.4": {
+  "music.crucible.1": {
     "category": "master",
     "sounds": [
-      "lem.battle:music/vanilla4"
+      "lem.battle:music/crucible1"
+    ]
+  },
+  "music.crucible.2": {
+    "category": "master",
+    "sounds": [
+      "lem.battle:music/crucible2"
+    ]
+  },
+  "music.dig.1": {
+    "category": "master",
+    "sounds": [
+      "lem.battle:music/dig"
+    ]
+  },
+  "music.frontier.1": {
+    "category": "master",
+    "sounds": [
+      "lem.battle:music/frontier"
+    ]
+  },
+  "music.temple.1": {
+    "category": "master",
+    "sounds": [
+      "lem.battle:music/temple"
     ]
   },
   "music.fantasy.1": {

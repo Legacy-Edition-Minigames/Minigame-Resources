@@ -1,0 +1,9 @@
+{
+    "variants": {
+        "": [
+            { "model": "block/crimson_planks" },
+            { "model": "block/crimson_planks2" },
+            { "model": "block/crimson_planks3" }
+        ]
+    }
+}

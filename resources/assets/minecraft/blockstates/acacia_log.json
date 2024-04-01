@@ -1,0 +1,34 @@
+{
+  "variants": {
+    "axis=x": [
+      { "model": "block/acacia_log", "x": 90, "y": 90 },
+      { "model": "block/acacia_log2", "x": 90, "y": 90 },
+      { "model": "block/acacia_log3", "x": 90, "y": 90 },
+      { "model": "block/acacia_log4", "x": 90, "y": 90 },
+      { "model": "block/acacia_log5", "x": 90, "y": 90 },
+      { "model": "block/acacia_log6", "x": 90, "y": 90 },
+      { "model": "block/acacia_log7", "x": 90, "y": 90 },
+      { "model": "block/acacia_log8", "x": 90, "y": 90 },
+      { "model": "block/acacia_log9", "x": 90, "y": 90 } ],
+    "axis=y": [                   
+      { "model": "block/acacia_log" },
+      { "model": "block/acacia_log2" },
+      { "model": "block/acacia_log3" },
+      { "model": "block/acacia_log4" },
+      { "model": "block/acacia_log5" },
+      { "model": "block/acacia_log6" },
+      { "model": "block/acacia_log7" },
+      { "model": "block/acacia_log8" },
+      { "model": "block/acacia_log9" } ],
+    "axis=z": [                   
+      { "model": "block/acacia_log", "x": 90 },
+      { "model": "block/acacia_log2", "x": 90 },
+      { "model": "block/acacia_log3", "x": 90 },
+      { "model": "block/acacia_log4", "x": 90 },
+      { "model": "block/acacia_log5", "x": 90 },
+      { "model": "block/acacia_log6", "x": 90 },
+      { "model": "block/acacia_log7", "x": 90 },
+      { "model": "block/acacia_log8", "x": 90 },
+      { "model": "block/acacia_log9", "x": 90 } ]
+  }
+}

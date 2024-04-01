@@ -1,0 +1,6 @@
+{
+  "variants": {
+    "open=false": [ { "model": "block/acacia_planks" }, { "model": "block/acacia_planks2" }, { "model": "block/acacia_planks3" } ],
+    "open=true":  { "model": "block/actuator" }
+  }
+}

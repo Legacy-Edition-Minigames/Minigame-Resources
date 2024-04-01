@@ -1,0 +1,18 @@
+{
+    "variants": {
+        "": [
+            { "model": "block/moss_block" },
+            { "model": "block/moss_block2" },
+            { "model": "block/moss_block3" },
+            { "model": "block/moss_block4" },
+            { "model": "block/moss_block5" },
+            { "model": "block/moss_block6" },
+            { "model": "block/moss_block7" },
+            { "model": "block/moss_block8" },
+            { "model": "block/moss_block9" },
+            { "model": "block/moss_block10" },
+            { "model": "block/moss_block11" },
+            { "model": "block/moss_block12" }
+        ]
+    }
+}

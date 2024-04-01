@@ -1,0 +1,7 @@
+{
+    "parent": "block/acacia_leaves3",
+    "textures": {
+        "particle": "block/cobweb3",
+        "leaves": "block/cobweb3"
+    }
+}

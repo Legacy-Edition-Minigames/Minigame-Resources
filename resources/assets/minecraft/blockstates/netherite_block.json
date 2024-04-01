@@ -1,0 +1,9 @@
+{
+    "variants": {
+        "": [
+            { "model": "block/netherite_block" },
+            { "model": "block/netherite_block2" },
+            { "model": "block/netherite_block3" }
+        ]
+    }
+}

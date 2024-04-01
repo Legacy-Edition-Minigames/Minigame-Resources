@@ -1,0 +1,20 @@
+{
+    "textures": {
+        "particle": "block/birch_leaves2",
+        "leaves": "block/birch_leaves2"
+    },
+    "elements": [
+		{
+            "from": [ 1, 1, 1 ], 
+            "to": [ 15, 15, 15 ], 
+            "faces": {
+                "north": { "texture": "#leaves", "cullface": "north" , "uv": [ 0, 0, 16, 16 ] },
+                "east": { "texture": "#leaves", "cullface": "east" , "uv": [ 0, 0, 16, 16 ] },
+                "south": { "texture": "#leaves", "cullface": "south" , "uv": [ 0, 0, 16, 16 ] },
+                "west": { "texture": "#leaves", "cullface": "west" , "uv": [ 0, 0, 16, 16 ] },
+                "up": { "texture": "#leaves", "cullface": "up" , "uv": [ 0, 0, 16, 16 ] },
+                "down": { "texture": "#leaves", "cullface": "down" , "uv": [ 0, 0, 16, 16 ] }
+            }
+        }
+    ]
+}

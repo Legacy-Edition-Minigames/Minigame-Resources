@@ -1,0 +1,14 @@
+{
+  "variants": {
+    "berries=false": [
+	  {"model": "block/cave_vines" },
+	  {"model": "block/cave_vines2" },
+	  {"model": "block/cave_vines3" }
+    ],
+    "berries=true": [
+	  {"model": "block/cave_vines_lit" },
+	  {"model": "block/cave_vines_lit2" },
+	  {"model": "block/cave_vines_lit3" }
+    ]
+  }
+}

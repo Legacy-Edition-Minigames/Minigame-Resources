@@ -1,0 +1,6 @@
+{
+    "parent": "block/plane_tinted",
+    "textures": {
+        "plane": "block/grass2"
+    }
+}

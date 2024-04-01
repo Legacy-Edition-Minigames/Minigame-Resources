@@ -1,0 +1,26 @@
+{
+	"credit": "Made with Blockbench",
+	"textures": {
+		"cross": "block/actuator"
+	},
+	"elements": [
+		{
+			"from": [4, 4, 8],
+			"to": [12, 12, 8],
+			"shade": false,
+			"faces": {
+				"north": {"uv": [4, 4, 12, 12], "texture": "#cross"},
+				"south": {"uv": [4, 4, 12, 12], "texture": "#cross"}
+			}
+		},
+		{
+			"from": [8, 4, 4],
+			"to": [8, 12, 12],
+			"shade": false,
+			"faces": {
+				"east": {"uv": [4, 4, 12, 12], "texture": "#cross"},
+				"west": {"uv": [4, 4, 12, 12], "texture": "#cross"}
+			}
+		}
+	]
+}

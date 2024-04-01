@@ -23,6 +23,12 @@
       "lem.base:music/menu/menu4"
     ]
   },
+  "music.lobbywin": {
+    "category": "master",
+    "sounds": [
+      "lem.base:music/lobbywin"
+    ]
+  },
   "sound.lobby.count1": {
     "category": "master",
     "sounds": [
@@ -92,8 +98,7 @@
   "sound.game.die": {
     "category": "master",
     "sounds": [
-      "lem.base:sounds/game/die1",
-      "lem.base:sounds/game/die2"
+      "lem.base:sounds/game/die1"
     ]
   },
   "sound.game.lose": {

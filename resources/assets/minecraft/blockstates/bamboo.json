@@ -1,0 +1,15 @@
+{
+    "variants": {
+        "": [ 
+	{ "model": "block/bamboo" },
+	{ "model": "block/bamboo2" },
+	{ "model": "block/bamboo3" },
+	{ "model": "block/bamboo4" },
+	{ "model": "block/bamboo5" },
+	{ "model": "block/bamboo6" },
+	{ "model": "block/bamboo7" },
+	{ "model": "block/bamboo8" },
+	{ "model": "block/bamboo9" },
+	{ "model": "block/bamboo10" } ]
+    }
+}

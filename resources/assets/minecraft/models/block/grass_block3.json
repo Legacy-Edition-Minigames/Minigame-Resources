@@ -1,0 +1,7 @@
+{   "parent": "block/grass_block",
+    "textures": {
+        "top": "block/grass_block_top3",
+        "side": "block/grass_block_side3",
+        "side_tint": "block/grass_block_side_overlay3"
+    }
+}

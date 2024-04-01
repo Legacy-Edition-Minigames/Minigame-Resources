@@ -1,0 +1,7 @@
+{
+    "parent": "block/birch_leaves2",
+    "textures": {
+        "particle": "block/birch_leaves5",
+        "leaves": "block/birch_leaves5"
+    }
+}

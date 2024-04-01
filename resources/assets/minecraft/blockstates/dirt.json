@@ -1,0 +1,15 @@
+{
+    "variants": {
+        "": [
+            { "model": "block/dirt", "weight": 20 },
+            { "model": "block/dirt2", "weight": 20 },
+            { "model": "block/dirt3", "weight": 20 },
+            { "model": "block/dirt4", "weight": 1 },
+            { "model": "block/dirt5", "weight": 1 },
+            { "model": "block/dirt6", "weight": 1 },
+            { "model": "block/dirt7", "weight": 1 },
+            { "model": "block/dirt8", "weight": 1 },
+            { "model": "block/dirt9", "weight": 1 }
+        ]
+    }
+}

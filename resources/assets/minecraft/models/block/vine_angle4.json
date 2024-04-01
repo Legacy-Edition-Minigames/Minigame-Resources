@@ -1,0 +1,6 @@
+{
+    "parent": "block/vine_angle",
+	"textures": {
+		"vine": "block/vine4"
+	}
+}

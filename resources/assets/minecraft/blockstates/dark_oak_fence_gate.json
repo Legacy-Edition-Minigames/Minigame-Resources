@@ -1,0 +1,6 @@
+{
+  "variants": {
+    "open=false": [ { "model": "block/dark_oak_planks" }, { "model": "block/dark_oak_planks2" }, { "model": "block/dark_oak_planks3" } ],
+    "open=true":  { "model": "block/actuator" }
+  }
+}

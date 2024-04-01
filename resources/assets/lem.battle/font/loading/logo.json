@@ -9,7 +9,7 @@
         },
         {
             "type": "bitmap",
-            "file": "lem.battle:loading/logo/part1.png",
+            "file": "lem.base:loading/logo/part1.png",
             "ascent": 25,
             "height": 45,
             "chars": [
@@ -18,7 +18,7 @@
         },
         {
             "type": "bitmap",
-            "file": "lem.battle:loading/logo/part2.png",
+            "file": "lem.base:loading/logo/part2.png",
             "ascent": 25,
             "height": 45,
             "chars": [
@@ -27,7 +27,7 @@
         },
         {
             "type": "bitmap",
-            "file": "lem.battle:loading/logo/part3.png",
+            "file": "lem.base:loading/logo/part3.png",
             "ascent": 25,
             "height": 45,
             "chars": [
@@ -36,7 +36,7 @@
         },
         {
             "type": "bitmap",
-            "file": "lem.battle:loading/logo/part4.png",
+            "file": "lem.base:loading/logo/part4.png",
             "ascent": 25,
             "height": 45,
             "chars": [

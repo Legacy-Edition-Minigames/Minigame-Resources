@@ -1,0 +1,9 @@
+{
+    "variants": {
+        "": [
+            { "model": "block/fire" },
+            { "model": "block/fire2" },
+            { "model": "block/fire3" }
+        ]
+    }
+}

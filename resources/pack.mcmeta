@@ -1,6 +1,10 @@
 {
   "pack": {
     "pack_format": 22,
-    "description": "Legacy Edition Minigames (R26.8)"
+    "description": "Legacy Edition Minigames (A24)",
+    "supported_formats": {
+		"min_inclusive": 16, 
+		"max_inclusive": 256
+	}
   }
 }

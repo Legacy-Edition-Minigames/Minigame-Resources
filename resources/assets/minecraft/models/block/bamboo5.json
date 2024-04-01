@@ -1,0 +1,8 @@
+{
+    "parent": "block/bamboo",
+    "textures": {
+		"0": "block/bamboo5",
+		"1": "block/bamboo_top",
+		"particle": "block/bamboo5"
+    }
+}

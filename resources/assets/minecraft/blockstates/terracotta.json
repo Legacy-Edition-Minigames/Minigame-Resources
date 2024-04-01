@@ -1,0 +1,9 @@
+{
+    "variants": {
+        "": [
+            { "model": "block/terracotta" },
+            { "model": "block/terracotta2" },
+            { "model": "block/terracotta3" }
+        ]
+    }
+}

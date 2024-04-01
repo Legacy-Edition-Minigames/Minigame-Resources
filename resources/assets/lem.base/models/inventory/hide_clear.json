@@ -6,6 +6,6 @@
 		}
 	},
   "textures": {
-    "layer0": "lem.base:models/inventory/hide_clear"
+    "layer0": "lem.base:models/inventory/hide"
   }
 }

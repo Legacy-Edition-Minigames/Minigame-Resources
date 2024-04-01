@@ -1,0 +1,6 @@
+{
+  "animation": {
+    "frames": [ { "index": 0, "time": 65 }, 1, 0, 1, { "index": 0, "time": 94 }, 1 ],
+    "frametime": 2
+  }
+}

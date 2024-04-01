@@ -1,0 +1,43 @@
+{
+    "textures": {
+        "particle": "block/oak_leaves",
+        "leaves_tint": "block/oak_leaves",
+        "leaves": "block/oak_leaves_ctm",
+        "apple": "block/oak_apple"
+    },
+    "elements": [
+        {
+            "from": [ 0, 0, 0 ], 
+            "to": [ 16, 16, 16 ], 
+            "faces": {
+                "north": { "texture": "#leaves_tint", "cullface": "north" , "uv": [ 0, 0, 16, 16 ], "tintindex": 0 },
+                "east": { "texture": "#leaves_tint", "cullface": "east" , "uv": [ 0, 0, 16, 16 ], "tintindex": 0 },
+                "south": { "texture": "#leaves_tint", "cullface": "south" , "uv": [ 0, 0, 16, 16 ], "tintindex": 0 },
+                "west": { "texture": "#leaves_tint", "cullface": "west" , "uv": [ 0, 0, 16, 16 ], "tintindex": 0 },
+                "up": { "texture": "#leaves_tint", "cullface": "up" , "uv": [ 0, 0, 16, 16 ], "tintindex": 0 },
+                "down": { "texture": "#leaves_tint", "cullface": "down" , "uv": [ 0, 0, 16, 16 ], "tintindex": 0 }
+            }
+        },
+        {
+            "from": [ 0, 0, 0 ], 
+            "to": [ 16, 16, 16 ], 
+            "faces": {
+                "north": { "texture": "#leaves", "cullface": "north" , "uv": [ 0, 0, 16, 16 ] },
+                "east": { "texture": "#leaves", "cullface": "east" , "uv": [ 0, 0, 16, 16 ] },
+                "south": { "texture": "#leaves", "cullface": "south" , "uv": [ 0, 0, 16, 16 ] },
+                "west": { "texture": "#leaves", "cullface": "west" , "uv": [ 0, 0, 16, 16 ] },
+                "up": { "texture": "#leaves", "cullface": "up" , "uv": [ 0, 0, 16, 16 ] },
+                "down": { "texture": "#leaves", "cullface": "down" , "uv": [ 0, 0, 16, 16 ] }
+            }
+        },
+        {
+            "from": [ 10, -16, 2 ], 
+            "to": [ 10, 0, 18 ], 
+            "rotation": { "origin": [ 8, 8, 8 ], "axis": "y", "angle": 45.0 },
+            "faces": {
+                "east": { "texture": "#apple", "cullface": "down" , "uv": [ 0, 0, 16, 16 ] },
+                "west": { "texture": "#apple", "cullface": "down" , "uv": [ 0, 0, 16, 16 ] }
+            }
+        }
+    ]
+}

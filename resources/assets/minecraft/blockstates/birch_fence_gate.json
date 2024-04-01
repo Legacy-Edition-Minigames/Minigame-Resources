@@ -1,0 +1,6 @@
+{
+  "variants": {
+    "open=false": [ { "model": "block/birch_planks" }, { "model": "block/birch_planks2" }, { "model": "block/birch_planks3" } ],
+    "open=true":  { "model": "block/actuator" }
+  }
+}

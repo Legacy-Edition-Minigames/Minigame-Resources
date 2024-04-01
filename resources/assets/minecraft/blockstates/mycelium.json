@@ -1,0 +1,9 @@
+{
+    "variants": {
+        "": [
+            { "model": "block/mycelium" },
+            { "model": "block/mycelium2" },
+            { "model": "block/mycelium3" }
+        ]
+    }
+}

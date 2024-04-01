@@ -1,0 +1,9 @@
+{
+    "variants": {
+        "": [
+            { "model": "block/bamboo_planks" },
+            { "model": "block/bamboo_planks2" },
+            { "model": "block/bamboo_planks3" }
+        ]
+    }
+}

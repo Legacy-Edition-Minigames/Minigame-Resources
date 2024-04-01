@@ -1,0 +1,7 @@
+{
+    "parent": "block/cube_column",
+    "textures": {
+        "side": "block/purpur_block_side3",
+        "end": "block/purpur_block3"
+    }
+}

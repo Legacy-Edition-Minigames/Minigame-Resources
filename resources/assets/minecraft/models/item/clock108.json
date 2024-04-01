@@ -1,0 +1,6 @@
+{
+    "parent": "item/clockt",
+    "textures": {
+        "layer0": "item/clock/clock8.11"
+    }
+}

@@ -1,0 +1,7 @@
+{
+    "parent": "block/cube_all_outline",
+    "textures": {
+        "all": "block/packed_ice2",
+        "outline": "block/outline/packed_ice"
+    }
+}

@@ -1,0 +1,15 @@
+{
+    "variants": {
+        "persistent=false": [
+            { "model": "block/oak_leaves", "weight": 20 },
+            { "model": "block/oak_leaves2", "weight": 20 },
+            { "model": "block/oak_leaves3", "weight": 20 },
+            { "model": "block/oak_leaves_apple", "weight": 1 }
+        ],
+        "persistent=true": [
+            { "model": "block/oak_leaves" },
+            { "model": "block/oak_leaves2" },
+            { "model": "block/oak_leaves3" }
+        ]
+    }
+}

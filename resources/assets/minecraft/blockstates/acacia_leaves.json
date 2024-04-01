@@ -1,0 +1,16 @@
+{
+    "variants": {
+        "": [
+            { "model": "block/acacia_leaves", "y": 90 },
+            { "model": "block/acacia_leaves" },
+            { "model": "block/acacia_leaves2", "y": 90 },
+            { "model": "block/acacia_leaves2" },
+            { "model": "block/acacia_leaves3", "y": 90 },
+            { "model": "block/acacia_leaves3" },
+            { "model": "block/acacia_leaves4", "y": 90 },
+            { "model": "block/acacia_leaves4" },
+            { "model": "block/acacia_leaves5", "y": 90 },
+            { "model": "block/acacia_leaves5" }
+        ]
+    }
+}

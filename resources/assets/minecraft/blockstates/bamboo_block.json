@@ -1,0 +1,16 @@
+{
+  "variants": {
+    "axis=x": [
+      { "model": "block/bamboo_block", "x": 90, "y": 90 },
+      { "model": "block/bamboo_block2", "x": 90, "y": 90 },
+      { "model": "block/bamboo_block3", "x": 90, "y": 90 } ],
+    "axis=y": [                   
+      { "model": "block/bamboo_block" },
+      { "model": "block/bamboo_block2" },
+      { "model": "block/bamboo_block3" } ],
+    "axis=z": [                   
+      { "model": "block/bamboo_block", "x": 90 },
+      { "model": "block/bamboo_block2", "x": 90 },
+      { "model": "block/bamboo_block3", "x": 90 } ]
+  }
+}

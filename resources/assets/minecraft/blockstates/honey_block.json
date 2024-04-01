@@ -1,0 +1,9 @@
+{
+    "variants": {
+        "": [
+            { "model": "block/honey_block" },
+            { "model": "block/honey_block2" },
+            { "model": "block/honey_block3" }
+        ]
+    }
+}

@@ -1,0 +1,11 @@
+{
+	"parent": "block/cube_outline",
+	"textures": {
+		"up": "#all",
+		"down": "#all",
+		"north": "#all",
+		"east": "#all",
+		"south": "#all",
+		"west": "#all"
+	}
+}

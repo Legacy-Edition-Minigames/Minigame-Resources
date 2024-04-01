@@ -1,0 +1,6 @@
+{
+  "variants": {
+    "open=false": [ { "model": "block/jungle_planks" }, { "model": "block/jungle_planks2" }, { "model": "block/jungle_planks3" } ],
+    "open=true":  { "model": "block/actuator" }
+  }
+}

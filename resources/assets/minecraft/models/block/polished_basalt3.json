@@ -1,0 +1,7 @@
+{
+    "parent": "block/cube_column",
+    "textures": {
+        "side": "block/polished_basalt_side3",
+        "end": "block/polished_basalt_top3"
+    }
+}

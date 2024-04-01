@@ -1,0 +1,9 @@
+{
+    "variants": {
+        "": [
+            { "model": "block/podzol" },
+            { "model": "block/podzol2" },
+            { "model": "block/podzol3" }
+        ]
+    }
+}

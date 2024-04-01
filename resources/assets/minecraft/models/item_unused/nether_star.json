@@ -1,0 +1,6 @@
+{
+  "parent": "item/template_soul",
+  "textures": {
+    "layer0": "item/nether_star"
+  }
+}

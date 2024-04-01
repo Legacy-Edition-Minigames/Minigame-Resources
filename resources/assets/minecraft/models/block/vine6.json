@@ -1,0 +1,6 @@
+{
+    "parent": "block/vine",
+    "textures": {
+        "vine": "block/vine6"
+    }
+}

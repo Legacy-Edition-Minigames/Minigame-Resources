@@ -1,0 +1,16 @@
+{
+  "variants": {
+    "axis=x": [
+      { "model": "block/basalt", "x": 90, "y": 90 },
+      { "model": "block/basalt2", "x": 90, "y": 90 },
+      { "model": "block/basalt3", "x": 90, "y": 90 } ],
+    "axis=y": [                   
+      { "model": "block/basalt" },
+      { "model": "block/basalt2" },
+      { "model": "block/basalt3" } ],
+    "axis=z": [                   
+      { "model": "block/basalt", "x": 90 },
+      { "model": "block/basalt2", "x": 90 },
+      { "model": "block/basalt3", "x": 90 } ]
+  }
+}

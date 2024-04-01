@@ -1,0 +1,16 @@
+{
+  "variants": {
+    "axis=x": [
+      { "model": "block/purpur_pillar", "x": 90, "y": 90 },
+      { "model": "block/purpur_pillar2", "x": 90, "y": 90 },
+      { "model": "block/purpur_pillar3", "x": 90, "y": 90 } ],
+    "axis=y": [             
+      { "model": "block/purpur_pillar" },
+      { "model": "block/purpur_pillar2" },
+      { "model": "block/purpur_pillar3" } ],
+    "axis=z": [             
+      { "model": "block/purpur_pillar", "x": 90 },
+      { "model": "block/purpur_pillar2", "x": 90 },
+      { "model": "block/purpur_pillar3", "x": 90 } ]
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "variants": {
+    "axis=x": [
+      { "model": "block/polished_blackstone", "x": 90, "y": 90 },
+      { "model": "block/polished_blackstone2", "x": 90, "y": 90 },
+      { "model": "block/polished_blackstone3", "x": 90, "y": 90 } ],
+    "axis=y": [                            
+      { "model": "block/polished_blackstone" },
+      { "model": "block/polished_blackstone2" },
+      { "model": "block/polished_blackstone3" } ],
+    "axis=z": [                            
+      { "model": "block/polished_blackstone", "x": 90 },
+      { "model": "block/polished_blackstone2", "x": 90 },
+      { "model": "block/polished_blackstone3", "x": 90 } ]
+  }
+}
