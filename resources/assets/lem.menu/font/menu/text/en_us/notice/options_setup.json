@@ -9,8 +9,8 @@
         },
         {
             "type": "bitmap",
-            "file": "lem.menu:menu/font/text/en_us/notice/ui_setup.png",
-            "ascent": 0,
+            "file": "lem.menu:menu/font/text/en_us/notice/options_setup.png",
+            "ascent": 5,
             "height": 165,
             "chars": [
                 "\uF000"

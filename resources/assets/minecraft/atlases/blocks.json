@@ -6,11 +6,11 @@
         },
         {
             "type": "single",
-            "resource": "lem.base:models/achievement/locked"
+            "resource": "lem.base:models/achievement/broken"
         },
         {
             "type": "single",
-            "resource": "lem.base:models/achievement/broken"
+            "resource": "lem.base:models/achievement/locked"
         },
         {
             "type": "single",
@@ -39,6 +39,10 @@
         {
             "type": "single",
             "resource": "lem.menu:menu/models/theme/vanilla/button/standard/full/default"
+        },
+        {
+            "type": "single",
+            "resource": "lem.menu:menu/models/text/en_us/button/full/achievements"
         },
         {
             "type": "single",
@@ -382,10 +386,6 @@
         },
         {
             "type": "single",
-            "resource": "lem.menu:menu/models/text/en_us/button/full/achievements"
-        },
-        {
-            "type": "single",
             "resource": "lem.menu:menu/models/text/en_us/button/half/debug"
         },
         {
@@ -411,6 +411,14 @@
         {
             "type": "single",
             "resource": "lem.menu:menu/models/text/en_us/tick/tickbox"
+        },
+        {
+            "type": "single",
+            "resource": "lem.menu:menu/models/text/en_us/tick/texture_pack_swapping"
+        },
+        {
+            "type": "single",
+            "resource": "lem.menu:menu/models/text/en_us/tick/twitch_youtube_safe_music"
         },
         {
             "type": "single",

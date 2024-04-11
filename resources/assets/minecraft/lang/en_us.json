@@ -37,6 +37,7 @@
     "lem.menu.ui.title.public_info": "\uF000",
     "lem.menu.ui.title.notice": "\uF000",
     "lem.menu.ui.title.achievements": "\uF000",
+    "lem.menu.ui.title.pack_settings": "\uF000",
     "lem.menu.ui.notice.exit_server_title": "\uF000",
     "lem.menu.ui.notice.exit_server": "\uF000",
     "lem.menu.ui.notice.generic_error": "\uF000",
@@ -58,7 +59,7 @@
     "lem.menu.ui.notice.optifine_notice": "\uF000",
     "lem.menu.ui.notice.generic_not_available": "\uF000",
     "lem.menu.ui.notice.welcome_title": "\uF000",
-    "lem.menu.ui.notice.ui_setup": "\uF000",
+    "lem.menu.ui.notice.options_setup": "\uF000",
     "lem.menu.ui.notice.setup_start": "\uF000",
     "lem.menu.ui.notice.setup_complete": "\uF000",
     "lem.menu.ui.notice.setup_complete_warning": "\uF000",
@@ -86,6 +87,7 @@
     "lem.menu.ui.notice.public_notice": "\uF000",
     "lem.menu.ui.notice.experimental_notice": "\uF000",
     "lem.menu.ui.notice.experimental_notice_ip": "\uF000",
+    "lem.menu.ui.tip.texture_pack_swapping": "Allows maps to change the Texture Pack during loading.",
     "lem.menu.leavegame": "Click to leave the server.",
     "container.inventory": ""
 } 
