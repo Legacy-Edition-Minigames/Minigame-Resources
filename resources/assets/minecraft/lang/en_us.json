@@ -132,6 +132,7 @@
   "lem.game.lives.remaining.plural": "You have %s lives remaining",
   "lem.game.lives.remaining.singular": "You have %s life remaining",
   "lem.lobby.start.waiting": "1 or more additional players are required to start the round...",
+  "lem.lobby.start.frozen": "Waiting for all players to be ready...",
   "lem.lobby.start.timer": "Time to game change: %s seconds",
   "lem.mapdecider.vote.alreadyvoted": "You have already voted for this map!",
   "lem.mapdecider.vote.removevote": "Removed vote.",
