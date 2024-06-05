@@ -356,7 +356,7 @@
   "lem.resource.cartoon.name" : "Cartoon",
   "lem.generic.join": "%s joined the game",
   "lem.generic.join.alive": "%s joined the game as an alive player",
-  "lem.generic.join.spectator": "%s is now spectating",
+  "lem.generic.join.spectator": "%s is now spetating",
   "lem.generic.more": "More",
   "lem.generic.goback": "Go Back",
   "lem.generic.options": "Options",
