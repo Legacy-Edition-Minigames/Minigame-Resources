@@ -5,6 +5,12 @@
             "id": "lem.base:negative_spaces"
         },
         {
+            "type": "space",
+            "advances": {
+                "p": -401
+            }
+        },
+        {
             "type": "bitmap",
             "file": "lem.base:empty.png",
             "ascent": 0,
@@ -15,7 +21,7 @@
         },
         {
             "type": "bitmap",
-            "file": "lem.battle:loading/tips/5/1.png",
+            "file": "lem.battle:loading/tips/base/1.png",
             "ascent": 10,
             "height": 55,
             "chars": [
@@ -24,7 +30,7 @@
         },
         {
             "type": "bitmap",
-            "file": "lem.battle:loading/tips/5/2.png",
+            "file": "lem.battle:loading/tips/base/2.png",
             "ascent": 10,
             "height": 55,
             "chars": [
@@ -33,7 +39,7 @@
         },
         {
             "type": "bitmap",
-            "file": "lem.battle:loading/tips/5/3.png",
+            "file": "lem.battle:loading/tips/base/3.png",
             "ascent": 10,
             "height": 55,
             "chars": [
@@ -42,7 +48,7 @@
         },
         {
             "type": "bitmap",
-            "file": "lem.battle:loading/tips/5/4.png",
+            "file": "lem.battle:loading/tips/base/4.png",
             "ascent": 10,
             "height": 55,
             "chars": [
