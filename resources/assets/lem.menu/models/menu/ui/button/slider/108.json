@@ -1,0 +1,10 @@
+{
+	"parent": "lem.menu:menu/ui/button/slider/base",
+	"display": {
+		"gui": {
+			"translation": [32, 24, 0],
+			"scale": [4, 4, 3.85]
+		}
+	}
+  }
+  

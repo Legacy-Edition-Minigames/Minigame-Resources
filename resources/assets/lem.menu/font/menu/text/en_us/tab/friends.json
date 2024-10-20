@@ -9,7 +9,7 @@
         },
         {
             "type": "bitmap",
-            "file": "lem.menu:menu/text/en_us/tab/friends.png",
+            "file": "lem.menu:menu/font/text/en_us/tab/friends.png",
             "ascent": 1,
             "height": 165,
             "chars": [

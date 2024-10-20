@@ -9,7 +9,7 @@
         },
         {
             "type": "bitmap",
-            "file": "lem.menu:menu/text/en_us/notice/generic_permission_error.png",
+            "file": "lem.menu:menu/font/text/en_us/notice/generic_permission_error.png",
             "ascent": -26,
             "height": 90,
             "chars": [

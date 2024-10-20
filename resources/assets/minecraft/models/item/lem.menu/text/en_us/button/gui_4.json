@@ -1,6 +1,0 @@
-{
-  "parent": "item/lem.menu/text/button",
-  "textures": {
-		"0": "lem.menu/text/en_us/button/gui_4"
-  }
-}

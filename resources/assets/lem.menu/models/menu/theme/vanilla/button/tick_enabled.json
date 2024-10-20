@@ -1,0 +1,6 @@
+{
+  "parent": "lem.menu:menu/ui/button/tick",
+  "textures": {
+		"0": "lem.menu:menu/models/theme/vanilla/button/tick_enabled"
+  }
+}

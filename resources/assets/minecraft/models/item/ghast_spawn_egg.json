@@ -1,0 +1,14 @@
+{
+  "parent": "item/template_spawn_egg",
+
+  "overrides": [
+    {"predicate": {"custom_model_data":6}, "model": "lem.battle:achievement/cupid"},
+    {"predicate": {"custom_model_data":7}, "model": "lem.battle:achievement/hunger"},
+    {"predicate": {"custom_model_data":8}, "model": "lem.battle:achievement/scratch"},
+    {"predicate": {"custom_model_data":9}, "model": "lem.battle:achievement/student"},
+    {"predicate": {"custom_model_data":10}, "model": "lem.battle:achievement/master"},
+    {"predicate": {"custom_model_data":31}, "model": "lem.battle:achievement/root"},
+    {"predicate": {"custom_model_data":34}, "model": "lem.base:achievement/locked"},
+    {"predicate": {"custom_model_data":35}, "model": "lem.base:achievement/broken"}
+  ]
+}

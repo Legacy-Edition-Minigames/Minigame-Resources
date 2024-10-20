@@ -9,7 +9,7 @@
         },
         {
             "type": "bitmap",
-            "file": "lem.menu:menu/text/en_us/title/panorama_background.png",
+            "file": "lem.menu:menu/font/text/en_us/title/panorama_background.png",
             "ascent": 12,
             "height": 165,
             "chars": [
