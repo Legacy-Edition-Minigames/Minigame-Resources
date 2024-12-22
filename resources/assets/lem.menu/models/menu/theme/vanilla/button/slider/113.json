@@ -1,0 +1,7 @@
+{
+	"parent": "lem.menu:menu/ui/button/slider/113",
+	"textures": {
+		  "0": "lem.menu:menu/models/theme/vanilla/button/slider_button"
+	}
+  }
+  

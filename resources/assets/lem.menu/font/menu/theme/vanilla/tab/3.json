@@ -9,7 +9,7 @@
         },
         {
             "type": "bitmap",
-            "file": "lem.menu:menu/theme/vanilla/tab/enabled/3.png",
+            "file": "lem.menu:menu/font/theme/vanilla/tab/enabled/3.png",
             "ascent": 1,
             "height": 165,
             "chars": [
@@ -18,7 +18,7 @@
         },
         {
             "type": "bitmap",
-            "file": "lem.menu:menu/theme/vanilla/tab/disabled/3.png",
+            "file": "lem.menu:menu/font/theme/vanilla/tab/disabled/3.png",
             "ascent": 1,
             "height": 165,
             "chars": [

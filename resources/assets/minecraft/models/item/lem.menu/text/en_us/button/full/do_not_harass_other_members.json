@@ -1,6 +1,0 @@
-{
-  "parent": "item/lem.menu/text/button/standard/full",
-  "textures": {
-		"0": "lem.menu/text/en_us/button/full/do_not_harass_other_members"
-  }
-}

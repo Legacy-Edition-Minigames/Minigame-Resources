@@ -1,0 +1,6 @@
+{
+  "parent": "lem.menu:menu/text/button/standard/half_left",
+  "textures": {
+		"0": "lem.menu:menu/models/text/en_us/button/half/right"
+  }
+}
