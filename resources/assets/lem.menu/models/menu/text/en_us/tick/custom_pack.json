@@ -1,6 +1,0 @@
-{
-  "parent": "lem.menu:menu/text/button/tick",
-  "textures": {
-		"0": "lem.menu:menu/models/text/en_us/tick/custom_pack"
-  }
-}

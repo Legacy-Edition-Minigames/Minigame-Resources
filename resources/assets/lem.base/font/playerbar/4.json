@@ -1,8 +1,11 @@
 {
     "providers": [
         {
-            "type": "reference",
-            "id": "lem.base:negative_spaces"
+            "type": "ttf",
+            "file": "lem.base:negative_spaces.ttf",
+            "shift": [0.0, 0.0],
+            "size": 10.0,
+            "oversample": 1.0
         },
         {
             "type": "bitmap",
