@@ -9,7 +9,7 @@
         },
         {
             "type": "bitmap",
-            "file": "lem.base:tablist/hearts/secret/criminally_silly/dead.png",
+            "file": "lem.base:tablist/hearts/custom/1/v3nco/dead.png",
             "ascent": 8,
             "height": 9,
             "chars": [
@@ -18,7 +18,7 @@
         },
         {
             "type": "bitmap",
-            "file": "lem.base:tablist/hearts/secret/criminally_silly/alive.png",
+            "file": "lem.base:tablist/hearts/custom/1/v3nco/rick.png",
             "ascent": 8,
             "height": 9,
             "chars": [

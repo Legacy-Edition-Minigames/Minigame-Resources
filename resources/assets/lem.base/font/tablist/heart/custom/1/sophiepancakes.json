@@ -9,7 +9,7 @@
         },
         {
             "type": "bitmap",
-            "file": "lem.base:tablist/hearts/secret/v3nco/dead.png",
+            "file": "lem.base:tablist/hearts/dead_large.png",
             "ascent": 8,
             "height": 9,
             "chars": [
@@ -18,7 +18,7 @@
         },
         {
             "type": "bitmap",
-            "file": "lem.base:tablist/hearts/secret/v3nco/rick.png",
+            "file": "lem.base:tablist/hearts/custom/1/sophiepancakes.png",
             "ascent": 8,
             "height": 9,
             "chars": [

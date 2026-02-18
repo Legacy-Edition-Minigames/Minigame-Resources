@@ -18,7 +18,7 @@
         },
         {
             "type": "bitmap",
-            "file": "lem.base:tablist/hearts/secret/nioum.png",
+            "file": "lem.base:tablist/hearts/custom/1/nioum.png",
             "ascent": 8,
             "height": 9,
             "chars": [
