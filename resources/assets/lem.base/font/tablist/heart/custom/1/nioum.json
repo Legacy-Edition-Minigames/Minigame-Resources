@@ -9,7 +9,7 @@
         },
         {
             "type": "bitmap",
-            "file": "lem.base:tablist/hearts/secret/lion8cake/dead.png",
+            "file": "lem.base:tablist/hearts/dead_large.png",
             "ascent": 8,
             "height": 9,
             "chars": [
@@ -18,7 +18,7 @@
         },
         {
             "type": "bitmap",
-            "file": "lem.base:tablist/hearts/secret/lion8cake/alive.png",
+            "file": "lem.base:tablist/hearts/custom/1/nioum.png",
             "ascent": 8,
             "height": 9,
             "chars": [

@@ -492,6 +492,87 @@
             "chars": [
                 "\uF059"
             ]
+        },
+        {
+            "type": "bitmap",
+            "file": "lem.base:banner/textbox/ms_my/showdown.png",
+            "ascent": -51,
+            "height": 4,
+            "chars": [
+                "\uF061"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "lem.base:banner/textbox/ms_my/showdown.png",
+            "ascent": -51,
+            "height": 6,
+            "chars": [
+                "\uF062"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "lem.base:banner/textbox/ms_my/showdown.png",
+            "ascent": -51,
+            "height": 8,
+            "chars": [
+                "\uF063"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "lem.base:banner/textbox/ms_my/showdown.png",
+            "ascent": -51,
+            "height": 10,
+            "chars": [
+                "\uF064"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "lem.base:banner/textbox/ms_my/showdown.png",
+            "ascent": -51,
+            "height": 12,
+            "chars": [
+                "\uF065"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "lem.base:banner/textbox/ms_my/showdown.png",
+            "ascent": -51,
+            "height": 14,
+            "chars": [
+                "\uF066"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "lem.base:banner/textbox/ms_my/showdown.png",
+            "ascent": -51,
+            "height": 16,
+            "chars": [
+                "\uF067"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "lem.base:banner/textbox/ms_my/showdown.png",
+            "ascent": -51,
+            "height": 18,
+            "chars": [
+                "\uF068"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "lem.base:banner/textbox/ms_my/showdown.png",
+            "ascent": -51,
+            "height": 20,
+            "chars": [
+                "\uF069"
+            ]
         }
     ]
 }
