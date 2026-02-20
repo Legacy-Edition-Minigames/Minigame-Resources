@@ -9,7 +9,7 @@
         },
         {
             "type": "bitmap",
-            "file": "lem.base:tablist/hearts/secret/pixeogames/dead.png",
+            "file": "lem.base:tablist/hearts/custom/1/robux_generator/dead.png",
             "ascent": 8,
             "height": 9,
             "chars": [
@@ -18,7 +18,7 @@
         },
         {
             "type": "bitmap",
-            "file": "lem.base:tablist/hearts/secret/pixeogames/alive.png",
+            "file": "lem.base:tablist/hearts/custom/1/robux_generator/alive.png",
             "ascent": 8,
             "height": 9,
             "chars": [
