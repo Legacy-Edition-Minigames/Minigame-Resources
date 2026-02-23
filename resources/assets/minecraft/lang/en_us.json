@@ -392,5 +392,40 @@
   "soundCategory.music": "Mini Game Music",
   "multiplayer.player.joined": "%s connected to the game",
   "multiplayer.player.joined.renamed": "%s (formerly known as %s) connected to the game",
-  "multiplayer.player.left": "%s disconnected from the game"
+  "multiplayer.player.left": "%s disconnected from the game",
+  
+  "commands.mute.success": "Muted %s: %s",
+  "commands.warn.success": "Warned %s: %s",
+  "commands.whitelist.add.success": "Whitelisted %s: %s",
+  "commands.sus.add.success": "Sussed %s: %s",
+  "commands.sus.add.failed": "Player is already sussy",
+  "commands.unmute.success": "Removed Mute %s: %s",
+  "commands.skinban.success": "Skin Banned/Kicked %s: %s",
+  "commands.whitelist.remove.success": "Removed Whitelist %s: %s",
+  "commands.sus.remove.success": "Removed Sussed %s: %s",
+  "commands.unskinban.success": "Removed SkinBan %s: %s",
+
+  "chatdisabler.chatdisabled": "Chat is temporarily disabled, your message was not sent.",
+  "chatdisabler.enablechat.disabled" : "Chat has temporarily been disabled. Other players will not see your messages.",
+  "chatdisabler.enablechat.enabled" : "Chat has been re-enabled. Other players can now receive your messages.",
+
+  "prohibitor.linking.disabled": "Discord Linking is temporarily disabled",
+
+  "punishment.reason": "Reason: %s",
+  "punishment.expires": "Expires in: %s",
+  "punishment.permenant": "Never",
+  "punishment.duration.seconds": "%s second(s)",
+  "punishment.duration.minutes": "%s minute(s)",
+  "punishment.duration.hours": "%s hour(s)",
+  "punishment.duration.days": "%s day(s)",
+  "punishment.duration.months": "%s month(s)",
+  "punishment.duration.years": "%s year(s)",
+
+  "prohibitor.discordlink.required" : "The Server is currently restricted to Linked Discord Players Only",
+  "prohibitor.patreon.required" : "The Server is currently restricted to Patreons Only",
+
+  "prohibitor.mute.cannotsent" : "You are muted, your messages will not be sent",
+  "prohibitor.mute.unmuted" : "You have been unmuted",
+
+  "disconnect.backend": "Unable to check Player Status",
 }
