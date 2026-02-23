@@ -89,6 +89,7 @@
     "lem.menu.ui.notice.experimental_notice_ip": "\uF000",
     "lem.menu.ui.notice.europe_notice": "\uF000",
     "lem.menu.ui.notice.europe_notice_ip": "\uF000",
+    "lem.menu.ui.notice.server_type": "\uF000",
     "lem.menu.ui.tip.texture_pack_swapping": "Allows maps to change the Texture Pack during loading.",
     "lem.menu.leavegame": "Click to leave the server.",
     "container.inventory": ""
