@@ -106,6 +106,14 @@
     {"predicate": {"custom_model_data":10100}, "model": "lem.menu:menu/text/en_us/button/full/server_4"},
     {"predicate": {"custom_model_data":10101}, "model": "lem.menu:menu/text/en_us/button/full/server_experimental_1"},
     {"predicate": {"custom_model_data":10102}, "model": "lem.menu:menu/text/en_us/button/full/server_experimental_2"},
-    {"predicate": {"custom_model_data":10103}, "model": "lem.menu:menu/text/en_us/button/full/server_europe"}
+    {"predicate": {"custom_model_data":10103}, "model": "lem.menu:menu/text/en_us/button/full/server_europe"},
+    {"predicate": {"custom_model_data":10104}, "model": "lem.menu:menu/text/en_us/button/full/smallinv_default"},
+    {"predicate": {"custom_model_data":10105}, "model": "lem.menu:menu/text/en_us/button/full/smallinv_dark"},
+    {"predicate": {"custom_model_data":10106}, "model": "lem.menu:menu/text/en_us/button/full/smallinv_transparent"},
+    {"predicate": {"custom_model_data":10107}, "model": "lem.menu:menu/text/en_us/tick/armor_bar"},
+    {"predicate": {"custom_model_data":10108}, "model": "lem.menu:menu/text/en_us/tick/hotbar_item_swapping"},
+    {"predicate": {"custom_model_data":10109}, "model": "lem.menu:menu/text/en_us/tick/tipped_arrow_hotbar_swapping"},
+    {"predicate": {"custom_model_data":10110}, "model": "lem.menu:menu/text/en_us/tick/auto_swap_enchanted_armor"},
+    {"predicate": {"custom_model_data":10111}, "model": "lem.menu:menu/text/en_us/button/full/heart_cosmetic"}
   ]
 }

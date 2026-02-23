@@ -38,6 +38,8 @@
     "lem.menu.ui.title.notice": "\uF000",
     "lem.menu.ui.title.achievements": "\uF000",
     "lem.menu.ui.title.pack_settings": "\uF000",
+    "lem.menu.ui.title.ui_settings": "\uF000",
+    "lem.menu.ui.title.user_settings": "\uF000",
     "lem.menu.ui.notice.exit_server_title": "\uF000",
     "lem.menu.ui.notice.exit_server": "\uF000",
     "lem.menu.ui.notice.generic_error": "\uF000",
@@ -90,7 +92,13 @@
     "lem.menu.ui.notice.europe_notice": "\uF000",
     "lem.menu.ui.notice.europe_notice_ip": "\uF000",
     "lem.menu.ui.notice.server_type": "\uF000",
+    "lem.menu.ui.notice.heart_notice": "\uF000",
     "lem.menu.ui.tip.texture_pack_swapping": "Allows maps to change the Texture Pack during loading.",
+    "lem.menu.ui.tip.smallinv.dark": "Use if you have the VanillaTweaks dark mode pack",
+    "lem.menu.ui.tip.smallinv.transparent": "Use if your resource pack has its own inventory texture",
+    "lem.menu.ui.tip.hotbar_item_swapping": "Move items from your large inventory to your hotbar on item drop",
+    "lem.menu.ui.tip.tipped_arrow_hotbar_swapping": "Allow tipped arrows to be swapped as a part of Hotbar Item Swapping",
+    "lem.menu.ui.tip.auto_swap_enchanted_armor": "Allow enchanted armor to be automatically swapped when taking from a chest or picking it up",
     "lem.menu.leavegame": "Click to leave the server.",
     "container.inventory": ""
 } 
