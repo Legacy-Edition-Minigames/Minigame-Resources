@@ -495,6 +495,30 @@
         {
             "type": "single",
             "resource": "lem.menu:menu/models/theme/vanilla/button/standard/half/default_up"
+        },
+        {
+            "type": "single",
+            "resource": "lem.menu:menu/models/text/en_us/button/full/stable"
+        },
+        {
+            "type": "single",
+            "resource": "lem.menu:menu/models/text/en_us/button/full/experimental"
+        },
+        {
+            "type": "single",
+            "resource": "lem.menu:menu/models/text/en_us/button/full/server_4"
+        },
+        {
+            "type": "single",
+            "resource": "lem.menu:menu/models/text/en_us/button/full/server_experimental_1"
+        },
+        {
+            "type": "single",
+            "resource": "lem.menu:menu/models/text/en_us/button/full/server_experimental_2"
+        },
+        {
+            "type": "single",
+            "resource": "lem.menu:menu/models/text/en_us/button/full/server_europe"
         }
     ]
 }
