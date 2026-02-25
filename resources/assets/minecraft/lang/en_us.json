@@ -427,5 +427,5 @@
   "prohibitor.mute.cannotsent" : "You are muted, your messages will not be sent",
   "prohibitor.mute.unmuted" : "You have been unmuted",
 
-  "disconnect.backend": "Unable to check Player Status",
+  "disconnect.backend": "Unable to check Player Status"
 }
