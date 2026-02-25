@@ -1,4 +1,12 @@
 {
+  "lem.mt.dontuse": "",
+  "lem.mt.welcome": "Welcome to ModTools!",
+  "lem.mt.readdocs": "Please %s! It has all the information you need to get started!",
+  "lem.mt.readdocs.link": "read the documentation",
+  "lem.mt.spawnfail": "You can't put an object inside of another object!",
+  "lem.mt.toomanypower.warning": "HOLD IT!",
+  "lem.mt.toomanypower": "Thats too many Power Chests! You should only have 2 for Small/Large, and 4 for Large+.",
+  "lem.mt.toomanypower.link": "Click here for the full building guidelines.",
   "lem.advancement.config.root.name": "Client Options",
   "lem.battle.advancement.config.armorbar.desc": "Don't show armor you are wearing\n\n§6Can be toggled with /trigger armorbar",
   "lem.battle.advancement.config.armorbar.name": "Disable ArmorBar",
