@@ -74,14 +74,6 @@
         },
         {
             "type": "single",
-            "resource": "lem.base:models/build/corner/arrow/negative"
-        },
-        {
-            "type": "single",
-            "resource": "lem.base:models/build/corner/arrow/positive"
-        },
-        {
-            "type": "single",
             "resource": "lem.base:models/build/spawnpoint/alex/default"
         },
         {
@@ -146,47 +138,11 @@
         },
         {
             "type": "single",
-            "resource": "lem.base:models/inventory/hide"
+            "resource": "lem.base:models/build/corner/arrow/negative"
         },
         {
             "type": "single",
-            "resource": "lem.base:models/inventory/hide_clear"
-        },
-        {
-            "type": "single",
-            "resource": "lem.base:models/inventory/hide_dark"
-        },
-        {
-            "type": "single",
-            "resource": "lem.base:models/lobby/notready"
-        },
-        {
-            "type": "single",
-            "resource": "lem.base:models/lobby/ready"
-        },
-        {
-            "type": "single",
-            "resource": "lem.battle:models/achievement/cupid"
-        },
-        {
-            "type": "single",
-            "resource": "lem.battle:models/achievement/hunger"
-        },
-        {
-            "type": "single",
-            "resource": "lem.battle:models/achievement/master"
-        },
-        {
-            "type": "single",
-            "resource": "lem.battle:models/achievement/root"
-        },
-        {
-            "type": "single",
-            "resource": "lem.battle:models/achievement/scratch"
-        },
-        {
-            "type": "single",
-            "resource": "lem.battle:models/achievement/student"
+            "resource": "lem.base:models/build/corner/arrow/positive"
         }
     ]
 }

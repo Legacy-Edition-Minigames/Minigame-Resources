@@ -5,11 +5,6 @@
     {"predicate": {"custom_model_data":1}, "model": "lem.base:build/chest/standard"},
     {"predicate": {"custom_model_data":2}, "model": "lem.base:build/spawnpoint/steve/default"},
     {"predicate": {"custom_model_data":3}, "model": "lem.base:build/remove"},
-    {"predicate": {"custom_model_data":6}, "model": "lem.battle:achievement/cupid"},
-    {"predicate": {"custom_model_data":7}, "model": "lem.battle:achievement/hunger"},
-    {"predicate": {"custom_model_data":8}, "model": "lem.battle:achievement/scratch"},
-    {"predicate": {"custom_model_data":9}, "model": "lem.battle:achievement/student"},
-    {"predicate": {"custom_model_data":10}, "model": "lem.battle:achievement/master"},
     {"predicate": {"custom_model_data":11}, "model": "lem.base:build/chest/central"},
     {"predicate": {"custom_model_data":12}, "model": "lem.base:build/chest/powerful"},
     {"predicate": {"custom_model_data":13}, "model": "lem.base:build/spawnpoint/steve/boxer"},
@@ -30,7 +25,6 @@
     {"predicate": {"custom_model_data":28}, "model": "lem.base:build/center"},
     {"predicate": {"custom_model_data":29}, "model": "lem.base:build/corner/positive"},
     {"predicate": {"custom_model_data":30}, "model": "lem.base:build/corner/negative"},
-    {"predicate": {"custom_model_data":31}, "model": "lem.battle:achievement/root"},
     {"predicate": {"custom_model_data":32}, "model": "lem.base:build/corner/arrow/positive"},
     {"predicate": {"custom_model_data":33}, "model": "lem.base:build/corner/arrow/negative"}
   ]
