@@ -93,6 +93,7 @@
     "lem.menu.ui.notice.europe_notice_ip": "\uF000",
     "lem.menu.ui.notice.server_type": "\uF000",
     "lem.menu.ui.notice.heart_notice": "\uF000",
+    "lem.menu.ui.notice.rules_title": "\uF000",
     "lem.menu.ui.tip.texture_pack_swapping": "Allows maps to change the Texture Pack during loading.",
     "lem.menu.ui.tip.smallinv.dark": "Use if you have the VanillaTweaks dark mode pack",
     "lem.menu.ui.tip.smallinv.transparent": "Use if your resource pack has its own inventory texture",

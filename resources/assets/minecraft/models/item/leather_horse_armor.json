@@ -114,6 +114,9 @@
     {"predicate": {"custom_model_data":10108}, "model": "lem.menu:menu/text/en_us/tick/hotbar_item_swapping"},
     {"predicate": {"custom_model_data":10109}, "model": "lem.menu:menu/text/en_us/tick/tipped_arrow_hotbar_swapping"},
     {"predicate": {"custom_model_data":10110}, "model": "lem.menu:menu/text/en_us/tick/auto_swap_enchanted_armor"},
-    {"predicate": {"custom_model_data":10111}, "model": "lem.menu:menu/text/en_us/button/full/heart_cosmetic"}
+    {"predicate": {"custom_model_data":10111}, "model": "lem.menu:menu/text/en_us/button/full/heart_cosmetic"},
+    {"predicate": {"custom_model_data":10112}, "model": "lem.menu:menu/text/en_us/button/full/server_rules"},
+    {"predicate": {"custom_model_data":10113}, "model": "lem.menu:menu/text/en_us/button/full/gameplay_rules"},
+    {"predicate": {"custom_model_data":10114}, "model": "lem.menu:menu/text/en_us/button/full/chat_rules"}
   ]
 }

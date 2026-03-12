@@ -122,7 +122,19 @@
         },
         {
             "type": "single",
+            "resource": "lem.menu:menu/models/text/en_us/tick/armor_bar"
+        },
+        {
+            "type": "single",
+            "resource": "lem.menu:menu/models/text/en_us/tick/auto_swap_enchanted_armor"
+        },
+        {
+            "type": "single",
             "resource": "lem.menu:menu/models/text/en_us/tick/custom_pack"
+        },
+        {
+            "type": "single",
+            "resource": "lem.menu:menu/models/text/en_us/tick/hotbar_item_swapping"
         },
         {
             "type": "single",
@@ -138,23 +150,11 @@
         },
         {
             "type": "single",
-            "resource": "lem.menu:menu/models/text/en_us/tick/twitch_youtube_safe_music"
-        },
-        {
-            "type": "single",
-            "resource": "lem.menu:menu/models/text/en_us/tick/armor_bar"
-        },
-        {
-            "type": "single",
             "resource": "lem.menu:menu/models/text/en_us/tick/tipped_arrow_hotbar_swapping"
         },
         {
             "type": "single",
-            "resource": "lem.menu:menu/models/text/en_us/tick/hotbar_item_swapping"
-        },
-        {
-            "type": "single",
-            "resource": "lem.menu:menu/models/text/en_us/tick/auto_swap_enchanted_armor"
+            "resource": "lem.menu:menu/models/text/en_us/tick/twitch_youtube_safe_music"
         },
         {
             "type": "single",
@@ -311,6 +311,10 @@
         {
             "type": "single",
             "resource": "lem.menu:menu/models/text/en_us/button/full/gui_4"
+        },
+        {
+            "type": "single",
+            "resource": "lem.menu:menu/models/text/en_us/button/full/heart_cosmetic"
         },
         {
             "type": "single",
@@ -502,6 +506,18 @@
         },
         {
             "type": "single",
+            "resource": "lem.menu:menu/models/text/en_us/button/full/smallinv_dark"
+        },
+        {
+            "type": "single",
+            "resource": "lem.menu:menu/models/text/en_us/button/full/smallinv_default"
+        },
+        {
+            "type": "single",
+            "resource": "lem.menu:menu/models/text/en_us/button/full/smallinv_transparent"
+        },
+        {
+            "type": "single",
             "resource": "lem.menu:menu/models/text/en_us/button/full/stable"
         },
         {
@@ -526,19 +542,15 @@
         },
         {
             "type": "single",
-            "resource": "lem.menu:menu/models/text/en_us/button/full/smallinv_dark"
+            "resource": "lem.menu:menu/models/text/en_us/button/full/server_rules"
         },
         {
             "type": "single",
-            "resource": "lem.menu:menu/models/text/en_us/button/full/smallinv_transparent"
+            "resource": "lem.menu:menu/models/text/en_us/button/full/gameplay_rules"
         },
         {
             "type": "single",
-            "resource": "lem.menu:menu/models/text/en_us/button/full/smallinv_default"
-        },
-        {
-            "type": "single",
-            "resource": "lem.menu:menu/models/text/en_us/button/full/heart_cosmetic"
+            "resource": "lem.menu:menu/models/text/en_us/button/full/chat_rules"
         },
         {
             "type": "single",
