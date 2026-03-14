@@ -426,7 +426,7 @@
   "prohibitor.linking.disabled": "Pemautan Discord adalah dinyahdayakan buat sementara waktu",
   "punishment.reason": "Sebab: %s",
   "punishment.expires": "Akan tamat tempoh dalam: %s",
-  "punishment.permenant": "Jangan Pernah",
+  "punishment.permenant": "Tidak Akan",
   "punishment.duration.seconds": "%s saat",
   "punishment.duration.minutes": "%s minit",
   "punishment.duration.hours": "%s jam",
