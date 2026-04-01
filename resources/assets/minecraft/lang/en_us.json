@@ -132,6 +132,7 @@
   "lem.config.usercfg.menu.patreon": "Patreon Settings",
   "lem.config.usercfg.menu.mod": "Moderator Settings",
   "lem.config.mod.lch": "LEMClientHelper List",
+  "lem.config.mod.lobbyonly": "You can only use this in the lobby!",
   "lem.config.mod.resethost": "Reset Host Options",
   "lem.config.mod.resethost.announce": "Host options have been reset by %s",
   "lem.config.mod.disablerounds": "Disable Multirounds",
