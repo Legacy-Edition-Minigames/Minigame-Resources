@@ -38,6 +38,33 @@
             "chars": [
                 "\uF812"
             ]
+        },
+        {
+            "type": "bitmap",
+            "file": "lem.base:text/zlm_arab/banner/showdown.png",
+            "ascent": -35,
+            "height": 9,
+            "chars": [
+                "\uF813"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "lem.base:text/zlm_arab/banner/draw.png",
+            "ascent": -35,
+            "height": 9,
+            "chars": [
+                "\uF814"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "lem.base:text/zlm_arab/banner/win.png",
+            "ascent": -35,
+            "height": 9,
+            "chars": [
+                "\uF815"
+            ]
         }
     ]
 }
