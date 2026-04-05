@@ -573,6 +573,87 @@
             "chars": [
                 "\uF069"
             ]
+        },
+        {
+            "type": "bitmap",
+            "file": "lem.base:banner/textbox/zlm_arab/showdown.png",
+            "ascent": -51,
+            "height": 4,
+            "chars": [
+                "\uF071"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "lem.base:banner/textbox/zlm_arab/showdown.png",
+            "ascent": -51,
+            "height": 6,
+            "chars": [
+                "\uF072"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "lem.base:banner/textbox/zlm_arab/showdown.png",
+            "ascent": -51,
+            "height": 8,
+            "chars": [
+                "\uF073"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "lem.base:banner/textbox/zlm_arab/showdown.png",
+            "ascent": -51,
+            "height": 10,
+            "chars": [
+                "\uF074"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "lem.base:banner/textbox/zlm_arab/showdown.png",
+            "ascent": -51,
+            "height": 12,
+            "chars": [
+                "\uF075"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "lem.base:banner/textbox/zlm_arab/showdown.png",
+            "ascent": -51,
+            "height": 14,
+            "chars": [
+                "\uF076"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "lem.base:banner/textbox/zlm_arab/showdown.png",
+            "ascent": -51,
+            "height": 16,
+            "chars": [
+                "\uF077"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "lem.base:banner/textbox/zlm_arab/showdown.png",
+            "ascent": -51,
+            "height": 18,
+            "chars": [
+                "\uF078"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "lem.base:banner/textbox/zlm_arab/showdown.png",
+            "ascent": -51,
+            "height": 20,
+            "chars": [
+                "\uF079"
+            ]
         }
     ]
 }
