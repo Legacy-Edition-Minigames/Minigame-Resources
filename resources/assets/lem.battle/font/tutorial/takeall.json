@@ -1,0 +1,38 @@
+{
+    "providers": [
+        {
+            "type": "ttf",
+            "file": "lem.base:negative_spaces.ttf",
+            "shift": [0.0, 0.0],
+            "size": 10.0,
+            "oversample": 1.0
+        },
+        {
+            "type": "bitmap",
+            "file": "lem.battle:tutorial/takeall/smallinv.png",
+            "ascent": 44,
+            "height": 64,
+            "chars": [
+                "1"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "lem.battle:tutorial/takeall/largeinv.png",
+            "ascent": 44,
+            "height": 64,
+            "chars": [
+                "2"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "lem.battle:tutorial/takeall/lch.png",
+            "ascent": 44,
+            "height": 64,
+            "chars": [
+                "3"
+            ]
+        }
+    ]
+}
